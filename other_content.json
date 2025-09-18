@@ -46,7 +46,7 @@
       "category": "Upcoming Events",
       "type": "upcomingEvents",
       "date": "March 12, 2025",
-      "imageUrl": "assets/images/techskill.png",
+      "imageUrl": "",
       "customLink": "https://itel.com.sg/itel-tech-skill-up-festival-2025/",
       "description": "A hands-on workshop introducing the fundamentals of artificial intelligence and machine learning for beginners.",
       "tags": ["Skill", "Course", "Workshop"],
@@ -59,7 +59,28 @@
         "Networking opportunities with industry experts",
         "Certificate of participation"
       ]
-    }
+    },
+    {
+      "id": "17",
+      "title": "REvolution 2027",
+      "category": "Upcoming Events",
+      "type": "upcomingEvents",
+      "date": "March 12, 2025",
+      "imageUrl": "",
+      "customLink": "https://itel.com.sg/itel-tech-skill-up-festival-2025/",
+      "description": "A hands-on workshop introducing the fundamentals of artificial intelligence and machine learning for beginners.",
+      "tags": ["Skill", "Course", "Workshop"],
+      "eventTime": "09:00 AM - 05:00 PM",
+      "eventLocation": "ITEL Training Center, Singapore",
+      "eventFormat": "In-person workshop",
+      "eventLearningPoints": [
+        "Latest industry trends and technologies",
+        "Hands-on practical skills and techniques",
+        "Networking opportunities with industry experts",
+        "Certificate of participation"
+      ]
+    },
   ]
 
 }
+
