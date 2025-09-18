@@ -4,11 +4,11 @@
   "items": [
   {
       "id": "16",
-      "title": "Tech Skill-Up Festival 2025",
+      "title": "Tech Skill-Up Festival 2027",
       "category": "Upcoming Events",
       "type": "upcomingEvents",
       "date": "March 12, 2025",
-      "imageUrl": "assets/images/techskill.png",
+      "imageUrl": "",
       "customLink": "https://itel.com.sg/itel-tech-skill-up-festival-2025/",
       "description": "A hands-on workshop introducing the fundamentals of artificial intelligence and machine learning for beginners.",
       "tags": ["Skill", "Course", "Workshop"],
@@ -63,3 +63,4 @@
   ]
 
 }
+
