@@ -23,6 +23,15 @@
       "tags": ["Adobe", "Photoshop", "Design"]
     },
     {
+      "id": "122",
+      "title": "Adobe Photoshop Complete Level 2",
+      "category": "Course Promotion",
+      "type": "coursePromotion",
+      "customLink": "course://103",
+      "description": "Master the fundamentals of Adobe Photoshop with our comprehensive Level 1 course. Perfect for beginners looking to develop professional design skills.",
+      "tags": ["Adobe", "Photoshop", "Design"]
+    },
+    {
       "id": "13",
       "title": "PTSA - Prelim Tech Skills Assessor",
       "category": "Course Assessor",
@@ -83,6 +92,7 @@
   ]
 
 }
+
 
 
 
