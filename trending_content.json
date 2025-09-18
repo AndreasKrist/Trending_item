@@ -51,7 +51,7 @@
       "title": "Adobe Photoshop Complete Level 1",
       "category": "Course Promotion",
       "type": "coursePromotion",
-      "customLink": "course://102",
+      "customLink": "course://103",
       "description": "Master the fundamentals of Adobe Photoshop with our comprehensive Level 1 course. Perfect for beginners looking to develop professional design skills.",
       "tags": ["Adobe", "Photoshop", "Design"]
     },
@@ -96,3 +96,4 @@
   ]
 
 }
+
