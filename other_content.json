@@ -2,6 +2,26 @@
   "lastUpdated": "2025-01-20T10:00:00Z",
   "version": "1.0",
   "items": [
+  {
+      "id": "16",
+      "title": "Tech Skill-Up Festival 2025",
+      "category": "Upcoming Events",
+      "type": "upcomingEvents",
+      "date": "March 12, 2025",
+      "imageUrl": "assets/images/techskill.png",
+      "customLink": "https://itel.com.sg/itel-tech-skill-up-festival-2025/",
+      "description": "A hands-on workshop introducing the fundamentals of artificial intelligence and machine learning for beginners.",
+      "tags": ["Skill", "Course", "Workshop"],
+      "eventTime": "09:00 AM - 05:00 PM",
+      "eventLocation": "ITEL Training Center, Singapore",
+      "eventFormat": "In-person workshop",
+      "eventLearningPoints": [
+        "Latest industry trends and technologies",
+        "Hands-on practical skills and techniques",
+        "Networking opportunities with industry experts",
+        "Certificate of participation"
+      ]
+    },
     {
       "id": "4",
       "title": "10 Essential Windows Shortcuts Every User Should Know",
@@ -39,26 +59,7 @@
       "customLink": "course://79",
       "description": "Automate your Excel workflows and boost productivity with VBA programming. Learn to create powerful macros and custom applications.",
       "tags": ["Microsoft", "Excel", "VBA"]
-    },
-    {
-      "id": "16",
-      "title": "Tech Skill-Up Festival 2025",
-      "category": "Upcoming Events",
-      "type": "upcomingEvents",
-      "date": "March 12, 2025",
-      "imageUrl": "assets/images/techskill.png",
-      "customLink": "https://itel.com.sg/itel-tech-skill-up-festival-2025/",
-      "description": "A hands-on workshop introducing the fundamentals of artificial intelligence and machine learning for beginners.",
-      "tags": ["Skill", "Course", "Workshop"],
-      "eventTime": "09:00 AM - 05:00 PM",
-      "eventLocation": "ITEL Training Center, Singapore",
-      "eventFormat": "In-person workshop",
-      "eventLearningPoints": [
-        "Latest industry trends and technologies",
-        "Hands-on practical skills and techniques",
-        "Networking opportunities with industry experts",
-        "Certificate of participation"
-      ]
     }
   ]
+
 }
