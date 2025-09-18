@@ -23,7 +23,7 @@
       "tags": ["Assessment", "Skills", "PTSA"]
     },
     {
-      "id": "course1",
+      "id": "course2",
       "title": "Adobe Photoshop Complete Level 1",
       "category": "Course Promotion",
       "type": "coursePromotion",
@@ -33,11 +33,20 @@
     },
 
     {
-      "id": "course2",
+      "id": "course3",
       "title": "Microsoft Excel Visual Basic Applications (VBA)",
       "category": "Course Promotion",
       "type": "coursePromotion",
       "customLink": "course://79",
+      "description": "Automate your Excel workflows and boost productivity with VBA programming. Learn to create powerful macros and custom applications.",
+      "tags": ["Microsoft", "Excel", "VBA"]
+    },
+    {
+      "id": "course1",
+      "title": "THis COurse its so good, please buy it we need money",
+      "category": "Course Promotion",
+      "type": "coursePromotion",
+      "customLink": "course://123",
       "description": "Automate your Excel workflows and boost productivity with VBA programming. Learn to create powerful macros and custom applications.",
       "tags": ["Microsoft", "Excel", "VBA"]
     },
@@ -84,4 +93,5 @@
   ]
 
 }
+
 
