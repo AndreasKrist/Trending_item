@@ -1,9 +1,9 @@
 {
   "courses": [
     {
-      "id": "remote_1",
+      "id": "1",
       "courseCode": "SEC101",
-      "title": "Network Security Fundamentals",
+      "title": "Course ngasal dulu test",
       "category": "Cybersecurity",
       "certType": "CEH",
       "rating": 4.8,
@@ -64,7 +64,7 @@
       "moodleCourseId": null
     },
     {
-      "id": "remote_2",
+      "id": "3",
       "courseCode": "CLD201",
       "title": "Cloud Infrastructure Management",
       "category": "Cloud Computing",
@@ -127,7 +127,7 @@
       "moodleCourseId": null
     },
     {
-      "id": "remote_3",
+      "id": "3",
       "courseCode": "NET301",
       "title": "Advanced Network Management",
       "category": "Networking",
@@ -185,4 +185,5 @@
       "moodleCourseId": null
     }
   ]
+
 }
