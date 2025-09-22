@@ -8,7 +8,7 @@
     "certType": "SIAM",
     "rating": 4.7,
     "duration": "2 Days",
-    "price": "\\$995",
+    "price": "\$995",
     "funding": null,
     "isFavorite": false,
     "deliveryMethods": [
@@ -43,7 +43,7 @@
     "importantNotes": "Attended at least 75% of the course and Declared as competent during the assessments",
     "feeStructure": {
       "Full Course Fee": {
-        "Price": "\\$995"
+        "Price": "\$995"
       },
       "SG Citizens aged 21 - 39 years old / PRs aged 21 years old and above": {
         "Individual": "$0",
@@ -68,7 +68,7 @@
     "certType": "SIAM",
     "rating": 4.7,
     "duration": "3 Days",
-    "price": "\\$1,395",
+    "price": "\$1,395",
     "funding": null,
     "isFavorite": false,
     "deliveryMethods": [
@@ -105,7 +105,7 @@
     "importantNotes": "Attended at least 75% of the course and Declared as competent during the assessments",
     "feeStructure": {
       "Full Course Fee": {
-        "Price": "\\$1,395"
+        "Price": "\$1,395"
       },
       "SG Citizens aged 21 - 39 years old / PRs aged 21 years old and above": {
         "Individual": "$0",
@@ -130,7 +130,7 @@
     "certType": "VMWARE",
     "rating": 4.7,
     "duration": "5 Days",
-    "price": "\\$4,905",
+    "price": "\$4,905",
     "funding": null,
     "isFavorite": false,
     "deliveryMethods": [
