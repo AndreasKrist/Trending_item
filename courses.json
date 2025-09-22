@@ -8,7 +8,7 @@
     "certType": "SIAM",
     "rating": 4.7,
     "duration": "2 Days",
-    "price": "\\$995",
+    "price": "\\$99500",
     "funding": null,
     "isFavorite": false,
     "deliveryMethods": [
@@ -470,7 +470,7 @@
     ],
     "startDate": "July 07, 2025",
     "nextAvailableDate": "July 07, 2025",
-    "description": "",
+    "description": "In this 5-day course, participants will equip with knowledge and understanding of networking concepts and acquire skills to prepare for a career in network support or administration.",
     "outline": {
       "Lesson 1: Introduction to Cloud Computing": [
         "Network Types",
