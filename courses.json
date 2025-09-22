@@ -68,7 +68,7 @@
     "certType": "SIAM",
     "rating": 4.7,
     "duration": "3 Days",
-    "price": "\$1,395",
+    "price": "$1,395",
     "funding": null,
     "isFavorite": false,
     "deliveryMethods": [
@@ -130,7 +130,7 @@
     "certType": "VMWARE",
     "rating": 4.7,
     "duration": "5 Days",
-    "price": "\$4,905",
+    "price": "\\$4,905",
     "funding": null,
     "isFavorite": false,
     "deliveryMethods": [
