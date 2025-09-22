@@ -462,7 +462,7 @@
     "certType": "COMPTIA",
     "rating": 4.7,
     "duration": "5 Days",
-    "price": "\\$2,725.00",
+    "price": "$2,725.00",
     "funding": "Eligible for funding",
     "isFavorite": false,
     "deliveryMethods": [
@@ -571,14 +571,14 @@
         "Price": "\\$2,725.00"
       },
       "SG Citizens aged 21 - 39 years old / PRs aged 21 years old and above": {
-        "Individual": "$0",
-        "Company Sponsored (Non-SME)": "$0",
-        "Company Sponsored (SME)": "$0"
+        "Individual": "$1,475.00",
+        "Company Sponsored (Non-SME)": "$1,475.00",
+        "Company Sponsored (SME)": "$975.00"
       },
       "SG Citizens age 40 years old and above": {
-        "Individual": "$0",
-        "Company Sponsored (Non-SME)": "$0",
-        "Company Sponsored (SME)": "$0"
+        "Individual": "$975.00",
+        "Company Sponsored (Non-SME)": "$975.00",
+        "Company Sponsored (SME)": "$975.00"
       }
     },
     "progress": null,
