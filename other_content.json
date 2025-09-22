@@ -51,6 +51,15 @@
       "tags": ["Microsoft", "Excel", "VBA"]
     },
     {
+      "id": "course4",
+      "title": "IDK WHAT IS THIS",
+      "category": "Course Promotion",
+      "type": "coursePromotion",
+      "customLink": "course://200",
+      "description": "Automate your Excel workflows and boost productivity with VBA programming. Learn to create powerful macros and custom applications.",
+      "tags": ["Microsoft", "Excel", "VBA"]
+    },
+    {
       "id": "event1",
       "title": "Tech Skill-Up Festival 2025",
       "category": "Upcoming Events",
@@ -93,5 +102,6 @@
   ]
 
 }
+
 
 
