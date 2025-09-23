@@ -7,7 +7,7 @@
       "title": "10 Essential Windows Shortcuts Every User Should Know",
       "category": "TechTips of the Week",
       "type": "techTipsOfTheWeek",
-      "date": "January 29, 2025",
+      "date": "22 September, 2025",
       "imageUrl": "",
       "description": "Boost your productivity with these 10 powerful Windows shortcuts that will save you time and make your computing experience more efficient.",
       "tags": ["Windows", "Shortcuts", "Productivity"],
@@ -23,85 +23,42 @@
       "tags": ["Assessment", "Skills", "PTSA"]
     },
     {
-      "id": "course2",
-      "title": "Adobe Photoshop Complete Level 1",
-      "category": "Course Promotion",
-      "type": "coursePromotion",
-      "customLink": "course://102",
-      "description": "Master the fundamentals of Adobe Photoshop with our comprehensive Level 1 course. Perfect for beginners looking to develop professional design skills.",
-      "tags": ["Adobe", "Photoshop", "Design"]
-    },
-
-    {
-      "id": "course3",
-      "title": "Buy this Microsoft Excel Visual Basic Applications (VBA)",
-      "category": "Course Promotion",
-      "type": "coursePromotion",
-      "customLink": "course://79",
-      "description": "Automate your Excel workflows and boost productivity with VBA programming. Learn to create powerful macros and custom applications.",
-      "tags": ["Microsoft", "Excel", "VBA"]
-    },
-    {
       "id": "course1",
-      "title": "THis COurse its so good, please buy it we need money",
+      "title": "MS-102",
       "category": "Course Promotion",
       "type": "coursePromotion",
-      "customLink": "course://123",
-      "description": "Automate your Excel workflows and boost productivity with VBA programming. Learn to create powerful macros and custom applications.",
-      "tags": ["Microsoft", "Excel", "VBA"]
-    },
-    {
-      "id": "course4",
-      "title": "IDK WHAT IS THIS",
-      "category": "Course Promotion",
-      "type": "coursePromotion",
-      "customLink": "course://200",
-      "description": "Automate your Excel workflows and boost productivity with VBA programming. Learn to create powerful macros and custom applications.",
-      "tags": ["Microsoft", "Excel", "VBA"]
+      "customLink": "course://186",
+      "description": "In this course you will learn how to configure your Microsoft 365 tenant, including your organizational profile, tenant subscription options, component services, user accounts and licenses, security groups, and administrative roles. You then transition to configuring Microsoft 365, with a primary focus on configuring Office client connectivity. Finally, you explore how to manage user-driven client installations of Microsoft 365 Apps for enterprise deployments.",
+      "tags": ["Microsoft", "Administrator", "365"]
     },
     {
       "id": "event1",
-      "title": "Tech Skill-Up Festival 2025",
+      "title": "Upskill And Get Certified",
       "category": "Upcoming Events",
       "type": "upcomingEvents",
-      "date": "March 12, 2025",
-      "imageUrl": "",
-      "customLink": "https://itel.com.sg/itel-tech-skill-up-festival-2025/",
-      "description": "A hands-on workshop introducing the fundamentals of artificial intelligence and machine learning for beginners.",
+      "date": "September 30, 2025",
+      "imageUrl": "https://itel.com.sg/wp-content/uploads/2025/09/Upskill-and-get-certified-with-GLOBAL-IT-Certifications-Microsoft-Deep-Tech-Courses-6-768x461.png",
+      "customLink": "https://itel.com.sg/microsoft-deeptech-courses-and-global-it-certification-exams/",
+      "description": "Looking to upgrade your skills or get certified, but worried about exam fees? We get it and that’s exactly why we’re offering this special promotion just for you. Certification exams start from just $150, and you can save up to 40% on Microsoft Deep Tech courses.",
       "tags": ["Skill", "Course", "Workshop"],
       "eventTime": "09:00 AM - 05:00 PM",
       "eventLocation": "ITEL Training Center, Singapore",
       "eventFormat": "In-person workshop",
       "eventLearningPoints": [
-        "Latest industry trends and technologies",
-        "Hands-on practical skills and techniques",
-        "Networking opportunities with industry experts",
-        "Certificate of participation"
-      ]
-    },
-    {
-      "id": "event2",
-      "title": "Revolt 2027",
-      "category": "Upcoming Events",
-      "type": "upcomingEvents",
-      "date": "March 12, 2025",
-      "imageUrl": "assets/images/techskill.png",
-      "customLink": "https://itel.com.sg/itel-tech-skill-up-festival-2025/",
-      "description": "A hands-on workshop introducing the fundamentals of artificial intelligence and machine learning for beginners.",
-      "tags": ["Skill", "Course", "Workshop"],
-      "eventTime": "09:00 AM - 05:00 PM",
-      "eventLocation": "ITEL Training Center, Singapore",
-      "eventFormat": "In-person workshop",
-      "eventLearningPoints": [
-        "Latest industry trends and technologies",
-        "Hands-on practical skills and techniques",
-        "Networking opportunities with industry experts",
-        "Certificate of participation"
+        "MS-102: Microsoft 365 Administrator",
+        "AZ-800 Administering Windows Server Hybrid Core Infrastructure",
+        "ITIL V4 Foundation",
+        "CompTIA Network+",
+        "PMP",
+        "CCNA",
+        "CompTIA Security+",
+        "CISSP"
       ]
     }
   ]
 
 }
+
 
 
 
