@@ -41,9 +41,9 @@
       "customLink": "https://itel.com.sg/microsoft-deeptech-courses-and-global-it-certification-exams/",
       "description": "Looking to upgrade your skills or get certified, but worried about exam fees? We get it and that’s exactly why we’re offering this special promotion just for you. Certification exams start from just $150, and you can save up to 40% on Microsoft Deep Tech courses.",
       "tags": ["Skill", "Course", "Workshop"],
-      "eventTime": "09:00 AM - 05:00 PM",
-      "eventLocation": "ITEL Training Center, Singapore",
-      "eventFormat": "In-person workshop",
+      "eventTime": "-",
+      "eventLocation": "-",
+      "eventFormat": "-",
       "eventLearningPoints": [
         "MS-102: Microsoft 365 Administrator",
         "AZ-800 Administering Windows Server Hybrid Core Infrastructure",
@@ -58,6 +58,7 @@
   ]
 
 }
+
 
 
 
