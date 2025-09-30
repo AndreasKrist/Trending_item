@@ -27621,7 +27621,7 @@
     ],
     "startDate": "",
     "nextAvailableDate": "Available",
-    "description": "",
+    "description": "This foundational course provides comprehensive knowledge of cloud computing and virtualization concepts for beginners, IT teams, and business professionals. Participants will understand core cloud computing and virtualization principles, explore different types of cloud services and deployment models, and learn how virtualization fundamentals underpin modern cloud computing infrastructure. The course covers critical topics including benefits, risks, security considerations, and emerging trends in cloud technologies, enabling learners to apply this knowledge to real-world scenarios and make informed decisions about cloud adoption and implementation strategies.",
     "outline": {
       "Nano Module 1: Introduction to Cloud Computing": [
         "What is Cloud Computing?",
@@ -27769,7 +27769,7 @@
     ],
     "startDate": "",
     "nextAvailableDate": "Available",
-    "description": "",
+    "description": "This essential foundational course provides comprehensive cybersecurity knowledge for beginners, business professionals, and IT teams. Participants will understand fundamental cybersecurity concepts and terminology, identify common threats and vulnerabilities, and learn key security practices for both individuals and organizations. The course covers the critical role of cybersecurity policies and compliance requirements while enabling learners to apply practical knowledge to real-world scenarios. This course empowers participants to make informed security decisions and implement effective cybersecurity measures in their personal and professional environments.",
     "outline": {
       "Nano Module 1: Introduction to Cybersecurity": [
         "What is Cybersecurity?",
@@ -27839,7 +27839,7 @@
     ],
     "startDate": "",
     "nextAvailableDate": "Available",
-    "description": "",
+    "description": "This comprehensive foundational course is designed for general learners, professionals, and business teams seeking essential IoT knowledge. Participants will understand what IoT is and how it works, explore key components and technologies powering IoT systems, and learn about real-world applications across various industries. The course covers the benefits, risks, and ethical considerations of IoT implementation while developing awareness of future trends and opportunities in the IoT landscape. This course empowers learners to make informed decisions about IoT adoption and understand its transformative impact on modern business and daily life.",
     "outline": {
       "Nano Module 1: Introduction to IoT": [
         "What is IoT?",
