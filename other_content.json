@@ -5,7 +5,7 @@
     {
       "id": "assess1",
       "title": "PTSA - Prelim Tech Skills Assessor",
-      "category": "Course Assessor",
+      "category": "Tools",
       "type": "courseAssessor",
       "customLink": "https://itel-ptsa.vercel.app/",
       "description": "Assess your preliminary technology skills and get personalized learning recommendations.",
@@ -38,6 +38,7 @@
   ]
 
 }
+
 
 
 
