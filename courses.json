@@ -27472,7 +27472,7 @@
     ],
     "startDate": "",
     "nextAvailableDate": "Available",
-    "description": "",
+    "description": "Learn networking fundamentals in this 1-hour beginner course. Explore core devices like routers and switches, network topologies and architectures, essential protocols (TCP/IP, HTTPS, DNS), IP addressing and subnetting, and security practices including firewalls and VPNs, plus emerging trends like SDN and IoT.",
     "outline": {
       "Nano Module 1: Introduction to Networking": [
         "What is Networking Infrastructure?",
@@ -27547,7 +27547,7 @@
     ],
     "startDate": "",
     "nextAvailableDate": "Available",
-    "description": "",
+    "description": "Learn data analytics fundamentals in this 1-hour beginner course. Explore the four types of analytics (descriptive, diagnostic, predictive, prescriptive), master the analytics process from data collection to visualization, and understand tools like Tableau and Power BI, plus emerging trends in AI-powered and real-time analytics.",
     "outline": {
       "Nano Module 1: Introduction to Data Analytics": [
         "What is Data Analytics?",
@@ -27621,7 +27621,7 @@
     ],
     "startDate": "",
     "nextAvailableDate": "Available",
-    "description": "This foundational course provides comprehensive knowledge of cloud computing and virtualization concepts for beginners, IT teams, and business professionals. Participants will understand core cloud computing and virtualization principles, explore different types of cloud services and deployment models, and learn how virtualization fundamentals underpin modern cloud computing infrastructure. The course covers critical topics including benefits, risks, security considerations, and emerging trends in cloud technologies, enabling learners to apply this knowledge to real-world scenarios and make informed decisions about cloud adoption and implementation strategies.",
+    "description": "Learn essential cloud computing and virtualization concepts in this 1-hour beginner course. Explore service models (IaaS, PaaS, SaaS), deployment options, security practices, and emerging trends like serverless computing and containerization to make informed IT decisions.",
     "outline": {
       "Nano Module 1: Introduction to Cloud Computing": [
         "What is Cloud Computing?",
@@ -27691,7 +27691,7 @@
     ],
     "startDate": "",
     "nextAvailableDate": "Available",
-    "description": "",
+    "description": "Gain foundational AI knowledge in this 1-hour beginner course. Define AI and its key components, explore types of AI and how they function, discover real-world applications across industries, and recognize AI benefits, risks, ethical considerations, plus emerging trends and societal impact.",
     "outline": {
       "Nano Module 1: Introduction to AI": [
         "What is AI?",
@@ -27769,7 +27769,7 @@
     ],
     "startDate": "",
     "nextAvailableDate": "Available",
-    "description": "This essential foundational course provides comprehensive cybersecurity knowledge for beginners, business professionals, and IT teams. Participants will understand fundamental cybersecurity concepts and terminology, identify common threats and vulnerabilities, and learn key security practices for both individuals and organizations. The course covers the critical role of cybersecurity policies and compliance requirements while enabling learners to apply practical knowledge to real-world scenarios. This course empowers participants to make informed security decisions and implement effective cybersecurity measures in their personal and professional environments.",
+    "description": "Learn essential cybersecurity fundamentals in this 1-hour beginner course. Identify common threats like malware, phishing, and ransomware, master key security practices including MFA and encryption, and explore emerging trends like zero-trust and AI-driven threat detection.",
     "outline": {
       "Nano Module 1: Introduction to Cybersecurity": [
         "What is Cybersecurity?",
@@ -27839,7 +27839,7 @@
     ],
     "startDate": "",
     "nextAvailableDate": "Available",
-    "description": "This comprehensive foundational course is designed for general learners, professionals, and business teams seeking essential IoT knowledge. Participants will understand what IoT is and how it works, explore key components and technologies powering IoT systems, and learn about real-world applications across various industries. The course covers the benefits, risks, and ethical considerations of IoT implementation while developing awareness of future trends and opportunities in the IoT landscape. This course empowers learners to make informed decisions about IoT adoption and understand its transformative impact on modern business and daily life.",
+    "description": "Discover IoT fundamentals in this 1-hour beginner course. Learn how connected devices with sensors collect and exchange data, explore applications in smart homes, healthcare, agriculture, and smart cities, understand security and privacy risks, and explore emerging trends like 5G, AIoT, and edge computing.",
     "outline": {
       "Nano Module 1: Introduction to IoT": [
         "What is IoT?",
