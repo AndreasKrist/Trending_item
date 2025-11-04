@@ -4,6 +4,18 @@
   "items": [
     {
       "id": "art1",
+      "title": "Certified CISO Delivers the Ultimate Competitive Edge that Helps you Excel as a CISO",
+      "category": "Featured Articles",
+      "type": "featuredArticles",
+      "date": "October 31, 2025",
+      "imageUrl": "",
+      "description": "Richard Foltak, Senior Vice President, CISO, and Head of Cloud at Dito, shares how the Certified Chief Information Security Officer certification accelerated his career growth and equipped him with essential leadership skills for senior-level roles",
+      "tags": ["CISO", "Certification", "Career", "Leadership", "Cloud Security"],
+      "fullContent": "The **Certified Chief Information Security Officer (C|CISO)** certification played a pivotal role in **Richard Foltak's** career growth, equipping him with the leadership skills and risk management expertise necessary for senior-level roles.\n\n**Richard Foltak** currently serves as **Senior Vice President, CISO, and Head of Cloud** at **Dito**. According to Richard, leadership certification like the Certified Chief Information Security Officer increases credibility, enables better communication with industry peers, and accelerates career advancement, which are valuable assets for aspiring and established CISOs.\n\n> *\"I know for a fact that certifications such as the Certified CISO have helped me in my career tremendously.\"*\n\n## Why a Successful CISO Pursued C|CISO\n\nLeadership certifications like the **Certified Chief Information Security Officer** provide critical advantages:\n\n- **Increased credibility** in the cybersecurity industry\n- **Better communication** with industry peers and stakeholders\n- **Accelerated career advancement** opportunities\n- **Valuable assets** for both aspiring and established CISOs\n\nThese benefits make the certification essential for professionals looking to excel in CISO roles.\n\n## Tell us about your current role and how you got there.\n\nToday, I serve as **Chief Information Security Officer**, and I was recruited by **Dito** to lead their cloud security practice based on the professional experience and certifications that I gained during my tenure at **Deloitte Consulting**, where I was the **Chief Architect** and led the implementation of cloud management solutions across the:\n\n- **Amazon Web Services**\n- **Google Cloud Platform**\n- **Azure cloud platforms**\n\nOver time, I continued to learn and gain credible credentials to demonstrate my competence across multiple practices. This effort helped me establish proficiency and credibility within my role, both inside and outside of my company.\n\n**My advice:** Train for your next role – the opportunity will present itself.\n\n## You hold a CISSP certification. Why did you later pursue the Certified Chief Information Security Officer (Certified CISO) credential?\n\nIndividuals new to certifications need to understand that **each certification teaches you how to demonstrate competency** in either a specific knowledge area or a specific role.\n\n### Understanding Certification Types\n\nThe **CISSP certification** is a **role-based certification**. While it covers technology-based subjects needed to perform in a specific role, it focuses more on:\n\n- Operations\n- Behavior\n- Engineering best practices\n\nThe **Certified CISO**, on the other hand, focuses on **executive-level leadership**, **strategic risk management**, and **governance** – essential skills for C-suite security leadership.\n\n## Can you share some success stories about how you applied the Certified CISO body of knowledge in the workplace?\n\nThe knowledge gained from the **Certified CISO program** has been instrumental in:\n\n- Leading **cloud security practice** initiatives at enterprise scale\n- Implementing **governance frameworks** across multi-cloud environments\n- Communicating effectively with **executive leadership** and **board members**\n- Making **strategic security decisions** that align with business objectives\n\n> *\"Certifications help you gain a competitive edge and knowledge of the industry.\"*\n\n## Has the Certified Chief Information Security Officer (Certified CISO) program impacted you positively in your career?\n\nAbsolutely. My certifications helped accelerate my career and my salary growth.\n\n> *\"I know for a fact that certifications such as the Certified CISO have helped me in my career tremendously.\"*\n\n### Key Career Impact\n\n**Professional Growth:**\n- Accelerated **career advancement** from technical roles to C-suite positions\n- Increased **salary growth** trajectory\n- Enhanced **professional credibility** in the cybersecurity industry\n- Expanded **networking opportunities** with senior security leaders\n\n**Strategic Advantages:**\n- Better prepared for **executive-level decision making**\n- Improved ability to **communicate security strategy** to business leaders\n- Stronger foundation in **risk management** and **governance**\n- Greater confidence in **leading security organizations**\n\n## Key Takeaways\n\n**The Certified CISO certification offers:**\n\n✅ **Executive-level leadership training** for security professionals\n✅ **Career acceleration** and salary growth opportunities\n✅ **Enhanced credibility** with peers and stakeholders\n✅ **Strategic risk management** expertise\n✅ **Competitive advantage** in the job market\n\n**Bottom Line:** For cybersecurity professionals aspiring to reach C-suite positions, the Certified CISO certification provides the leadership framework, strategic thinking, and governance expertise needed to excel in senior security roles.\n\n---\n\n*Source: EC-Council. (n.d.). Is CCISO worth it? Successful certified CISO competitive edge. EC-Council. Retrieved October 31, 2025, from https://www.eccouncil.org/success-stories/is-cciso-worth-it/successful-certified-ciso-competitive-edge/*",
+      "customLink": ""
+    },
+    {
+      "id": "art95",
       "title": "A Deep Dive into Phishing Threats: Technical Interview with Hadi Baltagi",
       "category": "Featured Articles",
       "type": "featuredArticles",
@@ -15,7 +27,7 @@
       "customLink": "course://212"
     },
     {
-      "id": "art2",
+      "id": "art96",
       "title": "How a Decade of SIAM Innovation Delivered Real Business Impact",
       "category": "Featured Articles",
       "type": "featuredArticles",
@@ -27,7 +39,7 @@
       "customLink": "course://25"
     },
     {
-      "id": "art3",
+      "id": "art97",
       "title": "Adopting Generative AI Skills in Singapore",
       "category": "Featured Articles",
       "type": "featuredArticles",
@@ -39,7 +51,7 @@
       "customLink": "course://73"
     },
     {
-      "id": "art4",
+      "id": "art98",
       "title": "Top Reasons Cybersecurity Training Protects Your Organization",
       "category": "Featured Articles",
       "type": "featuredArticles",
@@ -51,7 +63,7 @@
       "customLink": "course://212"
     },
     {
-      "id": "art5",
+      "id": "art99",
       "title": "What is Digital Forensics? Phases of Digital Forensics in Cybersecurity",
       "category": "Featured Articles",
       "type": "featuredArticles",
@@ -63,7 +75,7 @@
       "customLink": "course://212"
     },
     {
-      "id": "art6",
+      "id": "art100",
       "title": "Unlock the Potential of CompTIA",
       "category": "Featured Articles",
       "type": "featuredArticles",
@@ -77,6 +89,7 @@
   ]
 
 }
+
 
 
 
