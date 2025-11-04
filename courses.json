@@ -9141,14 +9141,14 @@
   },
   {
     "id": "97",
-    "courseCode": "",
+    "courseCode": "TGS-2025059578",
     "title": "Strategic Cyber Security Leadership (SF)",
     "category": "Cybersecurity",
     "certType": "EC-Council",
     "rating": 4.7,
     "duration": "5 Days",
     "price": "$4,632.50",
-    "funding": null,
+    "funding": "Eligible for funding",
     "isFavorite": false,
     "deliveryMethods": [
       "ILT"
