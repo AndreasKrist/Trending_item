@@ -1876,7 +1876,7 @@
     ],
     "startDate": "April 21, 2025",
     "nextAvailableDate": "April 21, 2025",
-    "description": "",
+    "description": "This five-day instructor-led course teaches IT Pros how to deploy and configure Active Directory Domain Services (AD DS) in a distributed environment, how to implement Group Policy, how to perform backup and restore, and how to monitor and troubleshoot Active Directory–related issues with Windows Server 2016. Additionally, this course teaches how to deploy other Active Directory server roles such as Active Directory Federation Services (AD FS) and Active Directory Certificate Services (AD CS).",
     "outline": {
       "Lesson 1: Installing and configuring domain controllers": [
         "Overview of AD DS",
@@ -2011,7 +2011,7 @@
     ],
     "startDate": "April 07, 2025",
     "nextAvailableDate": "April 07, 2025",
-    "description": "",
+    "description": "This 5-day program is designed for project managers, working professionals, and individuals involved in in-house or client projects who aim to certify their skills by obtaining the renowned Project Management Professional (PMP)® certification.",
     "outline": {
       "Lesson 1: Introduction": [
         "Projects and Project Management",
@@ -2149,7 +2149,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "A rigorous pen testing program that, unlike contemporary pen testing courses, teaches you how to perform effective penetration tests across filtered networks. The EC-Council course requires you to pen test IoT systems and OT systems, build your own exploits and tools, conduct advanced binary exploitation, double pivot to access hidden networks, and work with various technologies.",
     "outline": {
       "Lesson 1: Penetration Testing Essential Concepts": [
         "Computer Network Fundamentals",
@@ -2412,7 +2412,7 @@
     ],
     "startDate": "May 19, 2025",
     "nextAvailableDate": "May 19, 2025",
-    "description": "",
+    "description": "This five-day course features intensive hands-on training that focuses on installing, configuring, and managing VMware vSphere® 7, which includes VMware ESXi™ 7 and VMware vCenter Server® 7. This course prepares you to administer a vSphere infrastructure for an organization of any size. This course is the foundation for most of the other VMware technologies in the software-defined data center.",
     "outline": {
       "Lesson 1: Introduction to vSphere and the Software-Defined Data Center": [
         "Explain basic virtualization concepts",
@@ -18124,7 +18124,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "Certified Information Systems Auditor or CISA is a globally recognized certification for IS (Information Security) audit control, assurance and security professionals. Being a CISA certified, you will get to showcase your audit experience, skills and knowledge; and prove that you are capable to assess vulnerabilities, report on compliance and institute controls within the enterprise. In this 4-day instructor-led course, participants will equip with the effective skills necessary to defend against unauthorized admittance to information.",
     "outline": {
       "Lesson 1: Information Systems Audit Process": [
         "ISACA IS Auditing Standards, Guidelines",
@@ -18303,7 +18303,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "In this course, you will customize command sets, configure mail accounts, set global options, perform advanced searches, apply filters to intercept mail and control spam, create rules to automate mail management tasks, work with calendars and contacts, manage tasks, preserve data with archives and data files, as well as share and delegate access to your Outlook items. In short, you'll work with a wide range of features and options and, in doing so, understand why Outlook is a leading personal management system. This course covers MOS Program exam objectives to help you prepare for the Outlook Associate (Office 365 and Office 2019): Exam MO-400 Certification.",
     "outline": {
       "Lesson 1: Modifying Messages and Customizing Outlook": [
         "Insert Advanced Characters and Objects",
@@ -18388,7 +18388,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "In this course, you will use Outlook to send, receive, and manage email messages, manage your contact information, schedule appointments and meetings, create tasks and notes for yourself, and customize the Outlook interface to suit your working style. This course covers MOS Program exam objectives to help you prepare for the Outlook Associate (Office 365 and Office 2019): Exam MO-400 Certification.",
     "outline": {
       "Lesson 1: Getting Started with Outlook 2019": [
         "Navigate the Outlook Interface",
@@ -18470,7 +18470,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course teaches Network Engineers how to design, implement, and maintain Azure networking solutions. This course covers the process of designing, implementing, and managing core Azure networking infrastructure, Hybrid Networking connections, load balancing traffic, network routing, private access to Azure services, network security and monitoring. Learn how to design and implement a secure, reliable, network infrastructure in Azure and how to establish hybrid connectivity, routing, private access to Azure services, and monitoring in Azure.",
     "outline": {
       "Lesson 1: Introduction to Azure Virtual Networks": [
         "Explore Azure Virtual Networks",
@@ -18586,7 +18586,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course teaches developers how to create end-to-end solutions in Microsoft Azure. Students will learn how to implement Azure compute solutions, create Azure Functions, implement and manage web apps, develop solutions utilizing Azure storage, implement authentication and authorization, and secure their solutions by using KeyVault and Managed Identities. Students will also learn how to connect to and consume Azure services and third-party services, and include event- and message-based models in their solutions. The course also covers monitoring, troubleshooting, and optimizing Azure solutions.",
     "outline": {
       "Lesson 1: Explore Azure App Service": [
         "Examine Azure App Service",
@@ -19093,7 +19093,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "The current landscape of cybersecurity requires specialized skills to troubleshoot via customized hacks and build solid solutions. Each hack is unique and must be combated with master-level security skills and experience. As a CASP-certified IT professional, you will demonstrate that you can provide the best cybersecurity solutions and protection for organizations worldwide. In this 5-day course, participants will examine advanced security concepts, principles, and implementations that pertain to enterprise level security.",
     "outline": {
       "Lesson 1: Enterprise Security Architecture": [
         "The Basics of Enterprise Security",
@@ -19504,7 +19504,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course teaches Azure Solution Architects how to design infrastructure solutions. Course topics cover governance, compute, application architecture, storage, data integration, authentication, networks, business continuity, and migrations. The course combines lecture with case studies to demonstrate basic architect design principles.",
     "outline": {
       "Lesson 1: Design governance": [
         "Design for governance",
@@ -19775,7 +19775,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course teaches IT Professionals how to manage core Windows Server workloads and services using on-premises, hybrid, and cloud technologies. The course teaches IT Professionals how to implement and manage on-premises and hybrid solutions such as identity, management, compute, networking, and storage in a Windows Server hybrid environment.",
     "outline": {
       "Lesson 1: Introduction to AD DS": [
         "Define AD DS",
@@ -20091,7 +20091,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "SUSE Linux Enterprise Server 15 Administration training course is designed for those who are seeking a fundamental understanding of the SUSE Linux Enterprise Server (SLES) operating system. In this training class, you will learn how to install and configure a SLES 15 server and integrate it into an existing network. They will be able to perform the most important system administration tasks.",
     "outline": {
       "Lesson 1: Overview of SUSE Linux Enterprise": [
         "Understand the Different Flavors of SUSE Linux",
@@ -20407,7 +20407,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course is designed to help you move smoothly through the task of creating professional looking documents. Its rich features and powerful tools can make your work easy, and even fun. In this course, you'll learn how to use Word 2019 to create and edit simple documents; format documents; add tables and lists; add design elements and layout options; and proof documents. This course covers MOS Program exam objectives to help you prepare for the Word Associate (Office 365 and Office 2019): Exam MO-100 and Word Expert (Office 365 and Office 2019): Exam MO-101 certifications.",
     "outline": {
       "Lesson 1: Getting Started with Word": [
         "Navigate in Microsoft Word",
@@ -20498,7 +20498,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course builds upon the foundational knowledge presented in the Microsoft Office Excel 2019-Level 1 & 2 courses to help you get the most of your Excel experience. The ability to collaborate with colleagues, automate complex or repetitive tasks, and use conditional logic to construct and apply elaborate formulas and functions will put the full power of Excel right at your fingertips. The more you learn about how to get Excel to do the hard work for you, the more you'll be able to focus on getting the answers you need from the vast amounts of data your organization generates. This course covers MOS Program exam objectives to help you prepare for the Excel Associate (Office 365 and Office 2019): Exam MO-200 and Excel Expert (Office 365 and Office 2019): Exam MO-201 certifications.",
     "outline": {
       "Lesson 1: Working with Multiple Worksheets & Workbooks": [
         "Use Linked and External References",
@@ -20571,7 +20571,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course builds upon the foundational knowledge presented in the Microsoft Office Excel 2019-Level 1 course and will help start you down the road to creating advanced workbooks and worksheets that can help deepen your understanding or organizational intelligence. The ability to analyze massive amounts of data, extract actionable information from it, and present that information to decision makers is at the foundation of a successful organization that is able to compete at a high level manipulation. This course covers MOS Program exam objectives to help you prepare for the Excel Associate (Office 365 and Office 2019): Exam MO-200 and Excel Expert (Office 365 and Office 2019): Exam MO-201 certifications.",
     "outline": {
       "Lesson 1: Working with Functions": [
         "Work with Ranges",
@@ -20643,7 +20643,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course aims to provide you with a foundation for Excel knowledge and skills, which you can build upon to eventually become an expert in data manipulation. This course covers MOS Program exam objectives to help you prepare for the Excel Associate (Office 365 and Office 2019): Exam MO-200 and Excel Expert (Office 365 and Office 2019): Exam MO-201 certifications.",
     "outline": {
       "Lesson 1: Getting Started with Excel 2019": [
         "Navigate the Excel User Interface",
@@ -20726,7 +20726,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course will teach you to use Microsoft Power Platform solutions to simplify, automate, and empower business processes for organizations in the role of a Functional Consultant. A Microsoft Power Platform Functional Consultant is responsible for creating and configuring apps, automations, and solutions. They act as the liaison between users and the implementation team. The functional consultant promotes utilization of solutions within an organization. The functional consultant may perform discovery, engage subject matter experts and stakeholders, capture requirements, and map requirements to features. They implement components of a solution including application enhancements, custom user experiences, system integrations, data conversions, custom process automation, and simple visualizations.",
     "outline": {
       "Lesson 1: Explaining the Importance of Security Controls and Security Intelligence": [
         "What is Microsoft Power Platform?",
@@ -21700,7 +21700,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "CompTIA ITF+ is the only pre-career certification that helps learners determine if they have an aptitude and interest in IT. CompTIA ITF+ covers all IT fundamentals, creating a broader understanding and a helpful on-ramp to tech career pathways. CompTIA ITF+ provides an IT education foundation for upskilling in secondary, post-secondary and beyond.",
     "outline": {
       "Lesson 1: Common Computing Devices": [
         "Information Technology",
@@ -21929,7 +21929,7 @@
     ],
     "startDate": "March 03, 2025",
     "nextAvailableDate": "March 03, 2025",
-    "description": "",
+    "description": "AI-102 Designing and Implementing an Azure AI Solution is intended for software developers wanting to build AI infused applications that leverage Azure Cognitive Services, Azure Cognitive Search, and Microsoft Bot Framework. The course will use C# or Python as the programming language.",
     "outline": {
       "Lesson 1: Get started with Azure AI Services": [
         "Prepare to develop AI solutions on Azure:",
@@ -22208,7 +22208,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "The Microsoft Power Platform helps organizations optimize their operations by simplifying, automating and transforming business tasks and processes. In this course, students will learn how to build Power Apps, Automate Flows and extend the platform to complete business requirements and solve complex business problems.",
     "outline": {
       "Lesson 1: How to build your first model-driven app with Dataverse": [
         "Introduction to Dataverse",
@@ -22526,7 +22526,7 @@
     ],
     "startDate": "December 02, 2024",
     "nextAvailableDate": "December 02, 2024",
-    "description": "",
+    "description": "This 5-day course authenticates the knowledge of server hardware and software. This course also implements and monitors security on networks, applications, and operating systems, and respond to security breaches.",
     "outline": {
       "Lesson 1: Managing Server Hardware": [
         "Server Components",
@@ -22634,7 +22634,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course will teach you how to build apps with low-code techniques to simplify, automate, and transform business tasks and processes using Microsoft Power Platform. This course may contain a 1-day Applied Workshop that is in preview. This workshop will allow you to practice your App Maker skills by creating an end-to-end solution to solve a problem for a fictitious company. The solution will include a Microsoft Dataverse database, Power Apps canvas app, and Power Automate flows.",
     "outline": {
       "Lesson 1: Get started with Microsoft Power Platform for app makers": [
         "Identify components",
@@ -22918,12 +22918,11 @@
     "funding": null,
     "isFavorite": false,
     "deliveryMethods": [
-      "ILT",
       "OLL"
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course introduces fundamentals concepts related to artificial intelligence (AI), and the services in Microsoft Azure that can be used to create AI solutions. The course is not designed to teach students to become professional data scientists or software developers, but rather to build awareness of common AI workloads and the ability to identify Azure services to support them. The course is designed as a blended learning experience that combines instructor-led training with online materials on the Microsoft Learn platform (https://azure.com/learn). The hands-on exercises in the course are based on Learn modules, and students are encouraged to use the content on Learn as reference materials to reinforce what they learn in the class and to explore topics in more depth.",
     "outline": {
       "Lesson 1: Microsoft Azure AI Fundamentals:": [
         "Introduction to AI",
@@ -23229,7 +23228,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course will teach you the knowledge and skills required to make clear and conscious decisions about cloud technologies. You will learn to understand what cloud computing means from a business and technical perspective by evaluating business use cases, and also to comprehend what is involved with using the cloud and the financial impact of deploying to and governing the cloud. You can also take this course to prepare for the CompTIA Cloud Essentials+ certification examination.",
     "outline": {
       "Lesson 1: Understanding Cloud Competing Concepts": [
         "Understand Basic Cloud Concepts and Terms",
@@ -23305,7 +23304,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "Learn the business value and product capabilities of Microsoft Power Platform. Create simple Power Apps, connect data with Dataverse, build a Power BI Dashboard, and automate processes with Power Automate.",
     "outline": {
       "Lesson 1: Introduction to Microsoft Power Platform": [
         "What is Microsoft Power Platform?",
@@ -23410,7 +23409,7 @@
     ],
     "startDate": "May 08, 2025",
     "nextAvailableDate": "May 08, 2025",
-    "description": "",
+    "description": "This unique and central course covers requirements in both the ITIL® Managing Professional and ITIL® Strategic Leader designations. As such, this course is a must-have in any ITIL® 4 professional development plan. You will gain the practical skills needed to establish a \"learning and improving\" IT organization that possess a strong and targeted strategic direction. The associated certification exam voucher is included with this course. ITIL® is a registered trademark of AXELOS Limited, used under permission of AXELOS Limited. All rights reserved. The Swirl logo™ is a trademark of AXELOS Limited, used under permission of AXELOS Limited. All rights reserved.",
     "outline": {
       "Lesson 1: Understand the Key Concepts of Direct, Plan & Improve": [
         "Overview of the key ITIL 4 terminology"
@@ -23492,7 +23491,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "In this course, the student will learn how to implement and manage data engineering workloads on Microsoft Azure, using Azure services such as Azure Synapse Analytics, Azure Data Lake Storage Gen2, Azure Stream Analytics, Azure Databricks, and others. The course focuses on common data engineering tasks such as orchestrating data transfer and transformation pipelines, working with data files in a data lake, creating and loading relational data warehouses, capturing and aggregating streams of real time data, and tracking data assets and lineage.",
     "outline": {
       "Lesson 1: Introduction to data engineering on Azure": [],
       "Lesson 2: Introduction to Azure Data Lake Storage Gen2": [],
@@ -23607,7 +23606,7 @@
     ],
     "startDate": "January 20, 2025",
     "nextAvailableDate": "January 20, 2025",
-    "description": "",
+    "description": "In this course you will learn how to configure your Microsoft 365 tenant, including your organizational profile, tenant subscription options, component services, user accounts and licenses, security groups, and administrative roles. You then transition to configuring Microsoft 365, with a primary focus on configuring Office client connectivity. Finally, you explore how to manage user-driven client installations of Microsoft 365 Apps for enterprise deployments.",
     "outline": {
       "Lesson 1: Configure your Microsoft 365 experience": [],
       "Lesson 2: Manage users, licenses, and mail contacts in Microsoft 365": [],
@@ -23827,7 +23826,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "The Solution Architect is responsible for the successful design, implementation, deployment and adoption of an overall solution. The Solution Architect ensures that the solution meets the customer's needs now and in the future. In this course, students will learn about decisions a Solution Architect makes during an implementation, covering security, integrations, Power Apps architecture, Power Automate architecture, and more. This course is designed to give you an introduction to the Solution Architect role.",
     "outline": {
       "Lesson 1: Becoming a solution architect for Dynamics 365 and Microsoft Power Platform": [
         "Introduction to becoming a solution architect",
@@ -23983,7 +23982,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "Learn how to operate machine learning solutions at cloud scale using Azure Machine Learning. This course teaches you to leverage your existing knowledge of Python and machine learning to manage data ingestion and preparation, model training and deployment, and machine learning solution monitoring with Azure Machine Learning and MLflow.",
     "outline": {
       "Lesson 1: Design a data ingestion strategy for machine learning projects": [],
       "Lesson 2: Design a machine learning model training solution": [],
@@ -24049,7 +24048,7 @@
     ],
     "startDate": "Enquire Us",
     "nextAvailableDate": "Enquire Us",
-    "description": "",
+    "description": "This course teaches IT Professionals to configure advanced Windows Server services using on-premises, hybrid, and cloud technologies. The course teaches IT Professionals how to leverage the hybrid capabilities of Azure, how to migrate virtual and physical server workloads to Azure IaaS, and how to secure Azure VMs running Windows Server. The course also teaches IT Professionals how to perform tasks related to high availability, troubleshooting, and disaster recovery. The course highlights administrative tools and technologies including Windows Admin Center, PowerShell, Azure Arc, Azure Automation Update Management, Microsoft Defender for Identity, Azure Security Center, Azure Migrate, and Azure Monitor.",
     "outline": {
       "Lesson 1: Secure Windows Server user accounts": [
         "Configure user account rights",
@@ -24357,7 +24356,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "If you are ready for a career as an entry-level information technology (IT) professional or computer service technician, the CompTIA A+ course is the first step in your preparation. The course will build on your existing user-level knowledge and experience with personal computer (PC) software and hardware to present fundamental skills and concepts that you will use on the job. In this course, you will acquire the essential skills and information you will need to install, configure, optimize, troubleshoot, repair, upgrade, and perform preventive maintenance on PCs, digital devices, and operating systems. This course also provides the background knowledge and skills you will require to be a successful A+ technician.",
     "outline": {
       "Lesson 1: Supporting Operating Systems": [
         "Identify Common Operating Systems",
@@ -24873,7 +24872,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "A rigorous pen testing program that, unlike contemporary pen testing courses, teaches you how to perform effective penetration tests across filtered networks. The EC-Council course requires you to pen test IoT systems and OT systems, build your own exploits and tools, conduct advanced binary exploitation, double pivot to access hidden networks, and work with various technologies.",
     "outline": {
       "Lesson 1: Penetration Testing Essential Concepts": [
         "Computer Network Fundamentals",
@@ -25136,7 +25135,7 @@
     ],
     "startDate": "April 07, 2025",
     "nextAvailableDate": "April 07, 2025",
-    "description": "",
+    "description": "This 5-day program is designed for project managers, working professionals, and individuals involved in in-house or client projects who aim to certify their skills by obtaining the renowned Project Management Professional (PMP)® certification.",
     "outline": {
       "Lesson 1: Introduction": [
         "Projects and Project Management",
@@ -25274,7 +25273,7 @@
     ],
     "startDate": "June 30, 2025",
     "nextAvailableDate": "June 30, 2025",
-    "description": "",
+    "description": "This 5-day classroom-based course provides IT Security Professionals with the knowledge and skills needed to implement security controls, maintain an organization's security posture, and identify and remediate security vulnerabilities. This course which is from AZ-500 Microsoft Azure Security Technologies includes security for identity and access, platform protection, data and applications, and security operations.",
     "outline": {
       "Lesson 1: Manage Identity and Access": [
         "Secure Azure solutions with Azure Active Directory",
@@ -25897,7 +25896,7 @@
     ],
     "startDate": "June 16, 2025",
     "nextAvailableDate": "June 16, 2025",
-    "description": "",
+    "description": "This 5-day course provides an excellent introduction to the security field and serves as a better entry point than jumping straight into an advanced security program. With Security+, participants will build a solid foundation of knowledge that they can build upon, helping them advance their careers in the months and years to come.",
     "outline": {
       "Lesson 1: Comparing Security Roles and Security Controls": [
         "Compare and Contrast Information Security Roles",
@@ -26379,7 +26378,7 @@
     ],
     "startDate": "March 17, 2025",
     "nextAvailableDate": "March 17, 2025",
-    "description": "",
+    "description": "This 5-day cybersecurity course (CISSP), will enhance your knowledge by addressing the essential elements of the eight domains that comprise the Common Body of Knowledge (CBK)® for information systems security professionals. The course takes a job-related approach to the security process and provides a framework to prepare for the CISSP (Certified Information Systems Security Professional) certification. By defining the eight security domains that make up the CBK, the course helps establish industry standards for information systems security professionals. The skills and knowledge you gain will help you master these domains, ensuring your credibility and success in the field. As the most esteemed and prestigious security certification, CISSP training is a benchmark for all IT professionals.",
     "outline": {
       "Lesson 1: Security and Risk Management": [
         "Security Governance Principles",
@@ -26495,7 +26494,7 @@
     ],
     "startDate": "May 19, 2025",
     "nextAvailableDate": "May 19, 2025",
-    "description": "",
+    "description": "Also known as the Administering a SQL Database Infrastructure (20764) course, this 5-day instructor-led course provides participants who administer and maintain SQL Server databases with the knowledge and skills to manage a SQL Server database infrastructure. Additionally, it will be useful for individuals who develop applications that deliver content from SQL Server databases.",
     "outline": {
       "Lesson 1: SQL Server Security": [
         "Authenticating connections to SQL Server",
@@ -26763,7 +26762,7 @@
     ],
     "startDate": "April 07, 2025",
     "nextAvailableDate": "April 07, 2025",
-    "description": "",
+    "description": "This 5-day course provides participants with the skills to develop mobile applications using software development methodologies and design thinking based on relevant industry standards. It also addresses common issues that arise in mobile application development, including the pros and cons of different mobile operating systems. Additionally, the course covers best practices for mobile applications to adhere to privacy guidelines, organizational mobile device/IT security policies, and regulatory requirements.",
     "outline": {
       "Lesson 1: Mobile Application Essentials": [
         "Introduction",
