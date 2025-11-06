@@ -2773,7 +2773,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course will teach you the knowledge and skills required to make clear and conscious decisions about cloud technologies You will learn to understand what cloud computing means from a business and technical perspective by evaluating business use cases, and also to comprehend what is involved with using the cloud and the financial impact of deploying to and governing the cloud. You can also take this course to prepare for the CompTIA Cloud Essentials+ certification examination.",
     "outline": {
       "Lesson 1: Understanding Cloud Competing Concepts": [
         "Understand Basic Cloud Concepts and Terms",
@@ -2848,7 +2848,7 @@
     ],
     "startDate": "May 19, 2025",
     "nextAvailableDate": "May 19, 2025",
-    "description": "",
+    "description": "This five-day course features intensive hands-on training that focuses on installing, configuring, and managing VMware vSphere® 7, which includes VMware ESXi™ 7 and VMware vCenter Server® 7. This course prepares you to administer a vSphere infrastructure for an organization of any size. This course is the foundation for most of the other VMware technologies in the software-defined data center.",
     "outline": {
       "Lesson 1: Introduction to vSphere and the Software-Defined Data Center": [
         "Explain basic virtualization concepts",
@@ -15355,7 +15355,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course provides foundational level knowledge on security, compliance, and identity concepts and related cloud-based Microsoft solutions.",
     "outline": {
       "Lesson 1: Describe security and compliance concepts": [
         "Describe the shared responsibility model",
@@ -15498,7 +15498,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "In this course, you will learn how to plan, design, configure, maintain, and troubleshoot an integrated communications solution at an organization using Microsoft Teams. The course will cover Teams Phone with Calling Plans, Direct Routing, Operator Connect, and Teams Phone Mobile, in addition to Teams devices, audio/video conferencing, and voice migration. Students will learn troubleshooting methodologies and how to resolve common telephony and voice problems.",
     "outline": {
       "Lesson 1: Plan for Teams Phone": [
         "Plan for Teams Phone PSTN connectivity",
@@ -15616,7 +15616,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course covers methods and practices for performing advanced data analytics at scale. Students will build on existing analytics experience and will learn to implement and manage a data analytics environment, query and transform data, implement and manage data models, and explore and visualize data. In this course, students will use Microsoft Purview, Azure Synapse Analytics, and Power BI to build analytics solutions.",
     "outline": {
       "Lesson 1: Explore Azure data services for modern analytics": [
         "Understand the Azure data ecosystem",
@@ -15953,7 +15953,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "Building applications and solutions with Microsoft 365 core services course is designed for persons who are aspiring to the Microsoft Teams Application Developer role. In this course, students will learn how to build collaboration solutions leveraging 4 central elements of Microsoft 365 platform: implementing Microsoft identity, working with Microsoft Graph, extending and customizing SharePoint, and building applications for Microsoft Teams. In Implement Microsoft Identity, students will learn to implement Microsoft identity including registering an application, implementing authentication, configuring permissions to consume an API, and creating a service to access Microsoft Graph. In Work with Microsoft Graph, students will learn how to access user data, explore query parameters, manage a group lifecycle, access files, and optimize network traffic using Microsoft Graph.",
     "outline": {
       "Lesson 1: Implement Microsoft Identity": [],
       "Lesson 2: Build apps with Microsoft Graph": [],
@@ -16315,7 +16315,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course examines the key elements of Microsoft 365 messaging administration, including message transport and mail flow, messaging security, hygiene, and compliance, messaging infrastructure, and hybrid messaging. This course is designed for persons who are aspiring to be Messaging Administrators in a Microsoft 365 deployment.",
     "outline": {
       "Lesson 1: Manage the transport pipeline in Microsoft 365": [
         "Explore transport services",
@@ -16418,7 +16418,7 @@
     ],
     "startDate": "February 03, 2025",
     "nextAvailableDate": "February 03, 2025",
-    "description": "",
+    "description": "In this course, students will learn to plan and execute an endpoint deployment strategy using contemporary deployment techniques and implementing update strategies. The course introduces essential elements of modern management, co-management approaches, and Microsoft Intune integration. It covers app deployment, management of browser-based applications, and key security concepts such as authentication, identities, access, and compliance policies. Technologies like Azure Active Directory, Azure Information Protection, and Microsoft Defender for Endpoint are explored to protect devices and data.",
     "outline": {
       "Lesson 1: Explore the Enterprise Desktop": [
         "Examine benefits of modern management",
@@ -16655,7 +16655,7 @@
     ],
     "startDate": "August 4, 2025",
     "nextAvailableDate": "August 4, 2025",
-    "description": "",
+    "description": "In this 5-day course, participants will equip with knowledge and understanding of networking concepts and acquire skills to prepare for a career in network support or administration.",
     "outline": {
       "Lesson 1: Introduction to Cloud Computing": [
         "Network Types",
@@ -16786,7 +16786,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This 5-day course will help students with the knowledge and best practices required of IT practitioners working in cloud computing environments and who must understand and deliver cloud infrastructure.",
     "outline": {
       "Lesson 1: Cloud Computing Concepts, Models and Terminology": [
         "Cloud Service Models",
@@ -16888,7 +16888,7 @@
     ],
     "startDate": "March 24, 2025",
     "nextAvailableDate": "March 24, 2025",
-    "description": "",
+    "description": "This course covers the various methods and best practices that are in line with business and technical requirements for modeling, visualizing, and analyzing data with Power BI. The course will show how to access and process data from a range of data sources including both relational and non-relational sources. Finally, this course will also discuss how to manage and deploy reports and dashboards for sharing and content distribution.",
     "outline": {
       "Lesson 1: Get started with Microsoft data analytics": [
         "Discover data analysis",
@@ -17107,7 +17107,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course provides students with the knowledge and skills to administer a SQL Server database infrastructure for cloud, on-premises and hybrid relational databases and who work with the Microsoft PaaS relational database offerings. Additionally, it will be of use to individuals who develop applications that deliver content from SQL-based relational databases.",
     "outline": {
       "Lesson 1: Prepare to maintain SQL databases on Azure": [
         "Describe Microsoft Intelligent Data Platform Roles",
@@ -17303,7 +17303,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This 1-day course is designed for information workers who are using and will use Office 365. This course will provide participants with the knowledge and skills to efficiently use Office 365 on a day-to-day basis. The course is designed with real world scenarios in mind. Participants will learn how to use Outlook Online, Skype for Business, OneDrive for Business, SharePoint Online, and OneNote. At the end of this course, participants will be able to effectively navigate Office 365 and make use of all of the features of Office 365",
     "outline": {
       "Lesson 1: Office 365 Overview": [
         "Office 365 Overview",
@@ -17378,7 +17378,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "By learning how to use the vast array of features and functionality contained within PowerPoint 2019, you will gain the ability to organize your content, enhance it with high impact visuals, and deliver it with a punch. In this course, you will use PowerPoint 2019 to begin creating engaging, dynamic multimedia presentations. This course covers MOS Program exam objectives to help you prepare for the PowerPoint Associate (Office 365 and Office 2019): Exam MO-300",
     "outline": {
       "Lesson 1: Getting Started with PowerPoint 2019": [
         "Navigate the PowerPoint Environment",
@@ -17460,7 +17460,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course focuses on the design and construction of an Access database – viewing, navigating, searching and entering data in a database, as well as basic relational database design and creating simple tables, queries, forms and reports. Take Access 2019 – Level 1 to 3 to prepare for the MOS Certification exam for Microsoft Access 2019.",
     "outline": {
       "Lesson 1: Improving Table Usability": [
         "Create Lookups Within a Table",
@@ -17557,7 +17557,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course focuses on the design and construction of an Access database – viewing, navigating, searching and entering data in a database, as well as basic relational database design and creating simple tables, queries, forms and reports. Take Access 2019 – Level 1 to 3 to prepare for the MOS Certification exam for Microsoft Access 2019.",
     "outline": {
       "Lesson 1: Getting Started with Access 2019": [
         "Launch Access and Open Database",
@@ -17640,7 +17640,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course provides the knowledge and skills to design and implement DevOps processes and practices. Students will learn how to plan for DevOps, use source control, scale Git for an enterprise, consolidate artifacts, design a dependency management strategy, manage secrets, implement continuous integration, implement a container build strategy, design a release strategy, set up a release management workflow, implement a deployment pattern, and optimize feedback mechanisms.",
     "outline": {
       "Lesson 1: Introduction to DevOps": [
         "What is DevOps?",
