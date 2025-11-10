@@ -2974,7 +2974,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "Learn how Microsoft Copilot for Microsoft 365 can transform workplace productivity and spur innovation. This course provides practical insights into creating contextual prompts for Copilot and features engaging exercises that showcase its application in everyday workflows.",
     "outline": {
       "Lesson 1: Introduction to Microsoft 365 Copilot": [
         "Introduction",
@@ -3045,7 +3045,7 @@
     ],
     "startDate": "To be updated",
     "nextAvailableDate": "To be updated",
-    "description": "",
+    "description": "This course examines how administrators can manage and extend Microsoft 365 Copilot to meet their business needs. The course introduces you to Copilot, examines how to implement and administer it, and then explores the fundamentals of Copilot extensibility.",
     "outline": {
       "Lesson 1: Implement Microsoft 365 Copilot": [
         "Introduction",
@@ -3181,7 +3181,7 @@
     ],
     "startDate": "To be updated",
     "nextAvailableDate": "To be updated",
-    "description": "",
+    "description": "With model-driven apps, organizations can customize their user experiences with little to no code and create powerful applications that empower their users and increase productivity. This course is designed to help students learn the skills necessary to configure the Dynamics 365 customer experience model-driven apps, which include Dynamics 365 Sales and Dynamics 365 Customer Insights. In this course, students will learn how to create tables and columns, work with Microsoft Dataverse, and configure the user experience inside a model-driven application. This course is part of a four-course series (MB-280T01-T04) aligning to the MB-280 certification exam.",
     "outline": {
       "Lesson 1: Create and manage environments in Dataverse": [
         "Environments in Microsoft Dataverse",
@@ -3399,7 +3399,7 @@
     ],
     "startDate": "To be updated",
     "nextAvailableDate": "To be updated",
-    "description": "",
+    "description": "Dynamics 365 Customer Insights helps organizations deliver exceptional experiences personalized to every customer. In this course, students will learn how to work with key features of Customer Insights – Data and Customer Insights – Journeys. First, students will learn about the business value of using a customer data platform. They will ingest data into Customer Insights – Data, create unified customer profiles, and create segments to help target specific audiences. Then, students will build impactful and personal experiences using Customer Insights – Journeys. They will create marketing assets like emails and text messages and deliver them via segment- and trigger-based journeys. This course is part of a four-course series (MB-280T01-T04) aligning to the MB-280 certification exam.",
     "outline": {
       "Lesson 1: Create emails in Dynamics 365 Customer Insights – Journeys": [
         "Introduction",
@@ -3585,7 +3585,7 @@
     ],
     "startDate": "To be updated",
     "nextAvailableDate": "To be updated",
-    "description": "",
+    "description": "Dynamics 365 Sales helps accelerate sales teams' efforts with relationship-building tools and AI-driven insights. In this course, students will learn how to configure and leverage Dynamics 365 Sales to set sales teams up for success. First, students will set up and configure lead and opportunity management strategies. Then students will organize their product catalog and process sales orders. Finally, students will leverage relationship selling features, the Sales accelerator, and Sales Insights. In this course students will also learn how to set up and deploy Microsoft Copilot for Sales, a productivity tool to help sellers inside and outside Dynamics 365 Sales. This course is part of a four-course series (MB-280T01-T04) aligning to the MB-280 certification exam.",
     "outline": {
       "Lesson 1: Create powerful customer experiences for organizations with Dynamics 365 apps": [
         "Introduction",
@@ -3821,7 +3821,7 @@
     ],
     "startDate": "April 07, 2025",
     "nextAvailableDate": "April 07, 2025",
-    "description": "",
+    "description": "Microsoft Copilot is an AI-powered assistant that you can use for personal projects and work. In this two-hour activity-based course, you will learn how to describe Microsoft Copilot and Microsoft 365 Copilot, identify tasks with which Copilot can assist, describe how Copilot works, and write effective prompts for Copilot.\n\nIt is suggested to utilize this course to further support a learner's also taking AI-3018.",
     "outline": {
       "Lesson 1: Work smarter with AI using Microsoft Copilot": [
         "Introduction",
@@ -3931,7 +3931,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course provides in-depth training on implementing and managing large-scale data analytics solutions using Microsoft Fabric. Participants will learn how to utilize Fabric dataflows, pipelines, and notebooks to build analytics assets, including semantic models, data warehouses, and lakehouses. Designed for experienced data professionals with skills in data preparation, modelling, analysis, and visualization (e.g., those with PL-300: Power BI Data Analyst certification), the course requires prior knowledge of programming languages such as SQL, KQL, or DAX.",
     "outline": {
       "Lesson 1: Get started with Microsoft Fabric": [
         "Introduction to end-to-end analytics using Microsoft Fabric",
@@ -4178,7 +4178,7 @@
     ],
     "startDate": "April 11, 2025",
     "nextAvailableDate": "April 11, 2025",
-    "description": "",
+    "description": "Azure OpenAI Service offers access to OpenAI's advanced large language models, including ChatGPT, GPT, Codex, and Embeddings. These models support diverse NLP solutions that can comprehend, interact, and create content. Users can utilize the service via REST APIs, SDKs, and the Azure OpenAI Studio.",
     "outline": {
       "Lesson 1: Get started with Azure OpenAI Service": [
         "Introduction",
@@ -4268,7 +4268,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "Explore techniques for crafting precise and contextual prompts for Microsoft 365 Copilot to create, streamline, and compile content across various Microsoft 365 applications. Learn how to set clear goals, provide context, specify sources, and set expectations within prompts for optimal results. This course includes practical examples and scenarios using Copilot in apps like Word, Excel, PowerPoint, Teams, Outlook, OneNote, and Chat.",
     "outline": {
       "Lesson 1: Get started with Microsoft 365 Copilot": [
         "Introduction to Microsoft 365 Copilot",
@@ -4520,7 +4520,7 @@
     ],
     "startDate": "February 14, 2025",
     "nextAvailableDate": "February 14, 2025",
-    "description": "",
+    "description": "Learn how to create Copilot Studio actions that extend the knowledge and capabilities of Microsoft 365 Copilot with external data, tailored conversations, automated flows, and custom prompts.",
     "outline": {
       "Lesson 1: Identity": [
         "Introduction",
@@ -4608,7 +4608,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course teaches IT Professionals how to manage their Azure subscriptions, secure identities, administer the infrastructure, configure virtual networking, connect Azure and on-premises sites, manage network traffic, implement storage solutions, create and scale virtual machines, implement web apps and containers, back up and share data, and monitor your solution.",
     "outline": {
       "Lesson 1: Prerequisites for Azure administrators": [
         "Introduction to Azure Cloud Shell",
@@ -4921,7 +4921,7 @@
     ],
     "startDate": "April 07, 2025",
     "nextAvailableDate": "April 07, 2025",
-    "description": "",
+    "description": "This course provides students with the fundamental knowledge and skills to use PowerShell for administering and automating administration of Windows servers. This course provides students the skills to identify and build the command they require to perform a specific task. In addition, students learn how to build scripts to accomplish advanced tasks such as automating repetitive tasks and generating reports. This course provides prerequisite skills supporting a broad range of Microsoft products, including Windows Server, Windows Client, Microsoft Azure, and Microsoft 365. In keeping with that goal, this course will not focus on any one of those products, although Windows Server, which is the common platform for all of those products, will serve as the example for the techniques this course teaches.",
     "outline": {
       "Lesson 1: Getting started with Windows PowerShell": [
         "Windows PowerShell overview",
@@ -5038,7 +5038,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "Learn the knowledge and skills to drive enablement of Microsoft 365 Copilot across your organization. Explore effective strategies, including the Microsoft 365 Copilot user enablement framework to help you create and implement a robust adoption plan.",
     "outline": {
       "Lesson 1: Introduction to Microsoft 365 Copilot": [
         "Introduction",
@@ -5221,7 +5221,7 @@
     ],
     "startDate": "February 17, 2025",
     "nextAvailableDate": "February 17, 2025",
-    "description": "",
+    "description": "This 3-day instructor-led course provides you with the knowledge to understand the fundamentals of Data Science and Machine Learning, creating simple machine learning implementation in Cloud. Implementing Data Science using R, and build Machine Learning using R packages. Implementing Data Science using Python and building Machine Learning using Python packages.",
     "outline": {
       "Lesson 1: Introduction to Data Science & Machine Learning": [
         "Introduction to Data Science & Machine Learning"
@@ -5292,7 +5292,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "PRINCE2 is a well-known and widely used project management method that provides a clear, flexible, and adaptable approach to managing projects. It stands out because of its focus on proper oversight, managing risks, and delivering benefits. With its inclusion of agile ideas and emphasis on customization, the updated PRINCE2 is even better suited for different types of projects. PRINCE2 7 addresses changes in the project management field and adjusts to new ways of working and advancing technologies.",
     "outline": {
       "Lesson 1: Introduction": [
         "What is PRINCE2®?",
@@ -5374,7 +5374,7 @@
     ],
     "startDate": "February 24, 2025",
     "nextAvailableDate": "February 24, 2025",
-    "description": "",
+    "description": "This five-day instructor-led course teaches IT Pros how to deploy and configure Active Directory Domain Services (AD DS) in a distributed environment, how to implement Group Policy, how to perform backup and restore, and how to monitor and troubleshoot Active Directory–related issues with Windows Server 2016. Additionally, this course teaches how to deploy other Active Directory server roles such as Active Directory Federation Services (AD FS) and Active Directory Certificate Services (AD CS).",
     "outline": {
       "Lesson 1: Installing and configuring domain controllers": [
         "Overview of AD DS",
@@ -5509,7 +5509,7 @@
     ],
     "startDate": "February 10, 2025",
     "nextAvailableDate": "February 10, 2025",
-    "description": "",
+    "description": "This 5-day classroom-based course provides the fundamental networking skills required to deploy and support Windows Server 2016 in most organizations. It covers IP fundamentals, remote access technologies, and more advanced content including Software Defined Networking.",
     "outline": {
       "Lesson 1: Planning and implementing an IPv4 network": [
         "Planning IPv4 addressing",
@@ -5626,7 +5626,7 @@
     ],
     "startDate": "May 26, 2025",
     "nextAvailableDate": "May 26, 2025",
-    "description": "",
+    "description": "This 5-day instructor-led course is designed primarily for IT professionals who have some experience with Windows Server. It is designed for professionals who will be responsible for managing storage and compute by using Windows Server 2016, and who need to understand the scenarios, requirements, and storage and compute options that are available and applicable to Windows Server 2016.",
     "outline": {
       "Lesson 1: Installing, upgrading, and migrating servers and workloads": [
         "Introducing Windows Server 2016",
@@ -5756,7 +5756,7 @@
     ],
     "startDate": "December 16, 2024",
     "nextAvailableDate": "December 16, 2024",
-    "description": "",
+    "description": "In this course, you will learn how to use the most common FortiGate features, including security profiles. In interactive labs, you will explore firewall policies, the Fortinet Security Fabric, user authentication, and how to protect your network using security profiles, such as IPS, antivirus, web filtering, application control, and more. These administration fundamentals will provide you with a solid understanding of how to implement basic network security.",
     "outline": {
       "Lesson 1: Introduction and Initial Configuration": [],
       "Lesson 2: Firewall Policies": [],
@@ -5812,7 +5812,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "Azure Databricks is a cloud-scale platform for data analytics and machine learning. Data scientists and machine learning engineers can use Azure Databricks to implement machine learning solutions at scale.",
     "outline": {
       "Lesson 1: Explore Azure Databricks": [
         "Introduction",
@@ -5934,7 +5934,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "Explore how to utilize Apache Spark and high-performance clusters on the Azure Databricks platform to handle large-scale data engineering workloads in the cloud.",
     "outline": {
       "Lesson 1: Explore Azure Databricks": [
         "Get started with Azure Databricks",
@@ -6007,7 +6007,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "In this course, students will gain foundational knowledge of core data concepts and related Microsoft Azure data services. Students will learn about core data concepts such as relational, non-relational, big data, and analytics, and build their foundational knowledge of cloud data services within Microsoft Azure. Students will explore fundamental relational data concepts and relational database services in Azure. They will explore Azure storage for non-relational data and the fundamentals of Azure Cosmos DB. Students will learn about large-scale data warehousing, real-time analytics, and data visualization.",
     "outline": {
       "Lesson 1: Explore core data concepts": [
         "Introduction",
@@ -6135,7 +6135,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "In this course, students will apply the recognized practices of project management acknowledged by PRINCE2. This course will serve to prepare students for the PRINCE2 Practitioner examination.",
     "outline": {
       "Lesson 1: Introduction": [
         "The structure of PRINCE2",
@@ -6308,7 +6308,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course has been created to help IT service management practitioners working in organizations that are becoming more digitally enabled. You should be familiar with traditional IT service management concepts, and now want to be able to discuss digital with more confidence, to develop practical competences, and to be valued contributor in the digital domain.",
     "outline": {
       "Lesson 1: The Nature of High-Velocity In A Digital World": [
         "Overview of the key ITIL 4 high-velocity terminology",
@@ -6391,7 +6391,7 @@
     ],
     "startDate": "April 10, 2025",
     "nextAvailableDate": "April 10, 2025",
-    "description": "",
+    "description": "This course offers a solid introduction to Generative AI, providing learners with foundational knowledge, practical skills, and real-world use cases. It starts with an overview of GenAI concepts and tools such as ChatGPT, Google AI Studio, and Microsoft Copilot, followed by hands-on exploration of ChatGPT for summarization, reporting, and data analysis. Participants will also explore prompting techniques for both text and images, learning how to craft effective prompts and apply advanced methods. The program culminates with enterprise-focused use cases across business domains such as Sales, IT, Marketing, Finance, HR, and Operations, highlighting how GenAI can transform decision-making and productivity across the organization.",
     "outline": {
       "Lesson 1: Overview of AI and its Impact on the Workplace": [
         "What is ChatGPT",
@@ -6470,7 +6470,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course aims to equip participants with essential skills in Puppet configuration management, Terraform automation on Azure, and Kubernetes administration through hands-on labs and practical exercises. By the end, participants will proficiently manage and deploy infrastructure and applications using these advanced tools.",
     "outline": {
       "Lesson 1: Understanding GitOps": [
         "Understanding What Gitops Is",
@@ -7035,7 +7035,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "The TOGAF® 9 Training Course: Level 2 (Certified) focuses on applying the TOGAF® 9 framework in real-world situations, building on the basic knowledge learned in Level 1. The goal of the Part 2 certification, known as TOGAF® 9 Practitioner, is to prove that, beyond understanding the basics, the candidate can analyze and apply the framework in practice. This level emphasizes not only knowledge but also the ability to apply and analyze the concepts.",
     "outline": {
       "Lesson 1: Course Introduction": [
         "Introduction",
@@ -7222,7 +7222,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "The ITIL® 4 Leader: Digital and IT Strategy (DITS) course equips learners with a thorough understanding of how to develop and execute digital and IT strategies. With a focus on the DITS module of ITIL® 4, the course covers key concepts, principles, and methods for creating strategies that align with business goals. Participants will explore how to take a comprehensive approach to digital and IT strategy, including analyzing markets, engaging stakeholders, and co-creating value. They will also learn about the governance and management of these strategies, along with the principles and practices of organizational change management.",
     "outline": {
       "Lesson 1: Introduction": [
         "IT Service Management in the Modern World",
@@ -7341,7 +7341,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course cover key topics such as SLA design, multi-supplier management, communication, relationship management, CX and UX design, customer journey mapping, and more. It will provide candidates with the tools to increase stakeholder satisfaction which is integral to business success in the current competitive landscape. The associated certification exam voucher is included with this course.",
     "outline": {
       "Lesson 1: How Customer Journeys are Designed": [
         "Understand the concept of the customer journey",
@@ -7496,7 +7496,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course will equip you with advanced features and functions of Microsoft Project Professional, enabling you to use it effectively in real-world scenarios. The Level 2 Training Sessions focus on the advanced skills a project manager needs to update a project plan during the execution, monitoring, and control phases. Once your project plan is approved, this course will help you manage it to ensure it is completed on time, stay within budget, and meet the defined scope.",
     "outline": {
       "Lesson 1: Managing the Project Environment": [
         "Link Projects",
@@ -7610,7 +7610,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course will introduce you to the basic features and functions of Microsoft Project, helping you use it effectively in real-life situations. You will gain the essential knowledge and skills needed to create a project plan during the planning phase. In simple terms, if your supervisor assigns you to manage a project, this course will teach you how to draft a project plan and share it with your supervisor (and others) for feedback and approval. Note: This course is suitable for anyone using the desktop version of Microsoft Project, whether it's the \"on-premise\" or \"cloud-based\" edition. Since most project managers and team members use the desktop application, this will be the main focus of the course. The online app's features are covered in a separate appendix.",
     "outline": {
       "Lesson 1: Getting Started With Microsoft Project": [
         "Identify Project Management Concepts",
@@ -7685,7 +7685,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "Meetings, instruction, training, pitches; theses are all a part of our daily lives. We are often called upon to deliver presentations with little notice, at multiple venues, and varying requirements. And, some of these presentations include sensitive information that needs to be guarded. Given all the variables, it may seem an overwhelming task to deliver your content, on time, to all audiences, and to only those who need to see it and you need to make it interesting, informative, and memorable. So, how do you do it? Without the help of a robust set of tools, it would be nearly impossible. But Microsoft® Office PowerPoint ® 2019 provides you with variety of such tools that can help you deliver content in nearly any situation, while saving time and effort. By taking advantage of these tools, you will be creating presentations that not only stand out from the crowd, but also don't consume all of your available time. This course covers MOS Program exam objectives to help you prepare for the PowerPoint Associate (Office 365 and Office 2019): Exam MO-300",
     "outline": {
       "Lesson 1: Customizing Design Templates": [
         "Modify Slide Masters and",
@@ -7775,7 +7775,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "Microsoft® Visio® is different from similar tools because it allows you to create a wide range of diagrams, flowcharts, workflows, and organizational charts, basically anything that uses shapes connected by lines. Over the years, Visio has improved by adding features commonly found in other Microsoft® Office programs. It is now well integrated with Office tools and Microsoft's cloud services, making it easier to share and publish your Visio drawings. In Microsoft® Visio® 2019: Part 1, you learned the basics of creating and editing Visio drawings. In Part 2, you will explore advanced features to help you use Visio more effectively.",
     "outline": {
       "Lesson 1: Designing Advanced Plans and Diagrams": [
         "Build Advanced Plans",
@@ -7852,7 +7852,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course covers the basic functions and features of Visio Professional 2019. The main goal is to help you become familiar with creating different types of diagrams using stencils and templates. You will learn how to draw simple shapes, combine lines, and organize objects. You will also learn how to create diagrams, add text, and format them. Lastly, you will create organization charts and brainstorming diagrams, set shape properties, and manage multiple pages.",
     "outline": {
       "Lesson 1: Introduction": [
         "Introduction"
@@ -8122,7 +8122,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course teaches learners how to set up, use, and support the features of Dynamics 365 Commerce. It also prepares them to assist with the application's functionality. Microsoft Dynamics 365 Commerce is a cloud-based platform for retailers to better connect with customers and enhance their experience. This test covers various aspects of Dynamics 365 Commerce, including setting up headquarters, managing call centres, POS systems, and e-commerce operations.",
     "outline": {
       "Lesson 1: Configure prerequisites and commerce parameters": [
         "Create employee and customer address books",
@@ -8295,7 +8295,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "In this course, you will learn how to set up and configure SharePoint Server 2019 to meet modern work requirements. You will also learn how to manage various SharePoint services for a hybrid setup, plan and implement hybrid scenarios for a smooth user experience, and design the process for migrating content to SharePoint and OneDrive in Microsoft 365.",
     "outline": {
       "Lesson 1: SharePoint Infrastructure": [
         "Plan a SharePoint Farm",
@@ -8394,7 +8394,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course will teach you how to fix problems with Microsoft Teams, including issues with voice, live events, and messaging. You will learn how to set up and solve problems with both the client and services.",
     "outline": {
       "Lesson 1: Introduce Troubleshooting Microsoft Teams": [
         "Describe Teams",
@@ -8492,7 +8492,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course will teach you how to solve various issues that can happen in organizations when using Microsoft Exchange Online. You will learn to fix problems related to mail flow, compliance, recipient management, and cloud/on-premises hybrid configurations.",
     "outline": {
       "Lesson 1: Troubleshoot problems with mail flow": [
         "Identify and troubleshoot message delivery issues.",
@@ -8578,7 +8578,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "The Certified Information Security Manager® (CISM®) confirms that you have the skills to evaluate risks, apply strong governance practices, and take action in response to security incidents. It focuses on new technologies like AI and blockchain, making sure your expertise is up-to-date with growing security threats and industry standards. By tackling key issues such as data breaches and ransomware, which are important for IT professionals, this certification helps you stay ahead in a rapidly changing environment.",
     "outline": {
       "Lesson 1: Information Security Governance": [
         "Information Security Governance",
@@ -8674,7 +8674,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "Kubernetes is at the core of the cloud native movement. The Certified Kubernetes Application Developer (CKAD) exam certifies that users can design, build, configure, and expose cloud native applications for Kubernetes. The CKAD was developed by the Linux Foundation and the Cloud Native Computing Foundation (CNCF) to support the growth of the Kubernetes community. The exam is taken online, supervised, and performance-based, meaning candidates complete several tasks using the Kubernetes command line.\n\nThe CKAD Certification focuses on the skills required to be a successful Kubernetes Application Developer in industry today. The exam assumes working knowledge of container runtimes and microservice architecture.\n\nThe successful candidate will be comfortable:\n– working with (OCI-compliant) container images\n– applying Cloud Native application concepts and architectures\n– working with and validating Kubernetes resource definitions",
     "outline": {
       "Lesson 1: Application Design and Build": [
         "Define, build and modify container images",
@@ -8752,7 +8752,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "The CKA was developed by the Linux Foundation and the Cloud Native Computing Foundation (CNCF) to support the growth of the Kubernetes ecosystem. It is an online exam, supervised by a proctor, where you must complete several tasks using the Kubernetes command line.",
     "outline": {
       "Lesson 1: Storage": [
         "Understand storage classes, persistent volumes",
@@ -8912,7 +8912,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This 3-day course will introduce the audience to SharePoint Online Administrators in Office 365 and explain and demonstrate the configuration options for SharePoint Online. This course will also help SharePoint on-premise administrators understand the difference between SharePoint on-premises and SharePoint Online.",
     "outline": {
       "Lesson 1: Introduction to Office 365 and SharePoint Online": [
         "Introduction to the Office 365",
@@ -9252,7 +9252,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "Candidates for this course automate time-consuming and repetitive tasks by using Microsoft Power Automate. They review solution requirements, create process documentation, and design, develop, troubleshoot, and evaluate solutions. Candidates work with business stakeholders to improve and automate business workflows. They collaborate with administrators to deploy solutions to production environments, and they support solutions.",
     "outline": {
       "Lesson 1: Take your first steps with Power Automate for desktop": [
         "Introduction to Power Automate for desktop",
@@ -9684,7 +9684,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "Adobe Photoshop CS6 is the industry-standard image editing software and is widely used by photographers and graphic designers to perfect their visual images. If you work in the media industry or in the fields of marketing, graphics, film production and visual communication, learning Adobe Photoshop CS6 is a necessity. With courses and training from ITEL Learning Systems, you can learn and utilize the skills to create better visual portfolios in the long run and also become a Photoshop expert.\n\nThis level delves into some of the more advanced image creation and editing techniques and hands-on activities that demonstrate how Photoshop techniques can be used in combination to create exciting visual effects.",
     "outline": {
       "Lesson 1: Creating Raster Images": [
         "Draw with Brushes",
@@ -9753,7 +9753,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "Adobe Photoshop CS6 is the industry-standard image editing software and is widely used by photographers and graphic designers to perfect their visual images. If you work in the media industry or in the fields of marketing, graphics, film production and visual communication, learning Adobe Photoshop CS6 is a necessity. With courses and training from ITEL Learning Systems, you can learn and utilize the skills to create better visual portfolios in the long run and also become a Photoshop expert.\n\nThis level focuses on the basic features of Photoshop so that the participant can navigate the environment and use the Photoshop tools to work with photographic images.",
     "outline": {
       "Lesson 1: Getting Started with Photoshop": [
         "Introduction to Photoshop",
@@ -10268,7 +10268,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "In this course we discuss the tasks needed to fulfill the role of developer in Dynamics 365 Finance and Operations Apps. The Dynamics 365 Finance and Operations apps developer is a key technical resource that implements and extends the application to meet the requirements of the business.",
     "outline": {
       "Lesson 1: Get introduced to the finance and operations apps": [
         "Discover enterprise resource planning (ERP)",
@@ -10619,7 +10619,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "Built and optimized for small and medium businesses, Dynamics 365 Business Central is an application for companies that have outgrown their entry-level business applications. Growing businesses often outgrow their basic accounting software or legacy enterprise resource planning (ERP) systems that are unable to handle increased inventory and transactions, lack integration with other line-of-business systems, and have reporting limitations. Businesses are also challenged with the logistics of providing services that have more scalability, increased mobility, and availability in the cloud.\nWith Business Central, you can manage your financials, automate and secure your supply chain, sell smarter, improve customer service and project performance, and optimize your operations.",
     "outline": {
       "Lesson 1: Deploy and configure Microsoft Dynamics 365 Business Central": [
         "Administer Dynamics 365 Business Central online",
@@ -11262,7 +11262,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course is designed to build your foundation in Dynamics 365 Supply Chain Management, Manufacturing application knowledge. This course will cover the most important features and functionalities needed for functional consultant role on the manufacturing space.",
     "outline": {
       "Lesson 1: Get started with production control in Dynamics 365 Supply Chain Management": [
         "Core concepts in production control",
@@ -11593,7 +11593,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course covers the financial aspects of Dynamics 365: configure and use essential financial components, accounts payable, accounts receivable, collections, budgeting, fixed assets, and additional functionality.",
     "outline": {
       "Lesson 1: Get started with Dynamics 365 Finance": [
         "Benefits of Dynamics 365 Finance",
@@ -11948,7 +11948,7 @@
     ],
     "startDate": "April 14, 2025",
     "nextAvailableDate": "April 14",
-    "description": "",
+    "description": "This course provides students with the skills and knowledge required to successfully create and maintain the cloud and edge portions of an Azure IoT solution. The course includes full coverage of the core Azure IoT services such as IoT Hub, Device Provisioning Services, Azure Stream Analytics, Time Series Insights, and more. In addition to the focus on Azure PaaS services, the course includes sections on IoT Edge, device management, monitoring and troubleshooting, security concerns, Azure Digital Twins, and Azure IoT Central.",
     "outline": {
       "Lesson 1: Examine the architecture of an IoT solution": [
         "Examine subsystems of an IoT architecture",
@@ -12292,7 +12292,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course teaches developers how to create application using the SQL API and SDK for Azure Cosmos DB. Students will learn how to write efficient queries, create indexing policies, manage and provisioned resources, and perform common operations with the SDK.",
     "outline": {
       "Lesson 1: Introduction to Azure Cosmos DB for NoSQL": [
         "What is Azure Cosmos DB for NoSQL",
@@ -12491,7 +12491,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course covers the following core features in Dynamics 365: core common features, core configuration, data migration, and preparing to go live.",
     "outline": {
       "Lesson 1: Introduction to Microsoft Dynamics 365": [
         "Digital transformation is business transformation",
@@ -12765,7 +12765,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "Learn how to effectively configure a Dynamics 365 for Field Service implementation to maximize the tools and features available to efficiently manage a mobile work force.",
     "outline": {
       "Lesson 1: Configure Microsoft Dynamics 365 Field Service": [
         "Key Field Service configuration considerations",
@@ -12916,7 +12916,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "Do you want to learn more about Dynamics 365? This course will provide you with a broad introduction to the finance and operations capabilities of Dynamics 365. You will become familiar with the concept of enterprise resource management (ERP), and learn about the core capabilities of the finance and operations app. Then we will discuss each of the apps individually, including Dynamics 365 Supply Chain Management, Dynamics 365 Finance, Dynamics 365 Commerce, Dynamics 365 Human Resources, and the ERP capabilities of Dynamics 365 Project Operations. This course will include lecture and hands-on-labs.",
     "outline": {
       "Lesson 1: Describe the finance and operations apps": [
         "Describe enterprise resource planning (ERP)",
@@ -13069,7 +13069,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "Do you want to learn more about Dynamics 365? This course will provide you with a broad introduction to the customer engagement capabilities of Dynamics 365. You will become familiar with the concept of customer engagement, the core capabilities of customer engagement apps as well as with each of the customer engagement apps, including Dynamics 365 Marketing, Dynamics 365 Sales, Dynamics 365 Customer Service and Dynamics 365 Field Service. This course will include lecture as well as hands-on-labs.",
     "outline": {
       "Lesson 1: Navigate the Dynamics 365 customer engagement apps": [
         "Describe customer relationship management",
@@ -13490,7 +13490,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "Learn how to investigate, respond to, and hunt for threats using Microsoft Sentinel, Microsoft Defender for Cloud, and Microsoft 365 Defender. In this course you will learn how to mitigate cyberthreats using these technologies. Specifically, you will configure and use Microsoft Sentinel as well as utilize Kusto Query Language (KQL) to perform detection, analysis, and reporting. The course was designed for people who work in a Security Operations job role and helps learners prepare for the exam SC-200: Microsoft Security Operations Analyst.",
     "outline": {
       "Lesson 1: Mitigate threats using Microsoft Defender XDR Microsoft 365 threat protection": [
         "Introduction to Microsoft Defender XDR threat protection",
@@ -14116,7 +14116,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This course will provide foundational level knowledge on cloud concepts; core Azure services; and Azure management and governance features and tools.",
     "outline": {
       "Lesson 1: Describe cloud concepts": [
         "Describe cloud computing",
@@ -14237,7 +14237,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "Lean Six Sigma Black Belt (LSSBB) is catered to a professional, who is well versed in the Lean Six Sigma methodology, who leads improvement projects, typically in a full-time role. A Lean Six Sigma Black Belt possesses a thorough understanding about how to perform and interpret Six Sigma tools and how to use standard principles of Lean. IASSC (International Association of Six Sigma Certification) is a Professional Association dedicated to growing and enhancing the standards within the Lean Six Sigma community. This 5-day classroom led course is based on IASSC LSBB body of knowledge that is the basis of the IASSC Certified Black Belt Exam. The exam's questions may test up to the complexity level of \"Analyze\" as defined by Levels of Cognition based on Bloom's Taxonomy – Revised (2001).",
     "outline": {
       "Lesson 1: Define Phase": [
         "The Basic of Six Sigma",
@@ -14551,7 +14551,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "Microsoft Dynamics 365 Customer Service offers any organization an opportunity for customer success. Using tools such as automatic case creation and queue management frees up your time to dedicate it where you can have a greater impact, directly with your customers. Join our team of globally recognized experts as they take you step by step from creating cases to interacting with customers to resolving those cases. Once you've resolved those cases you can learn from data analysis the key details to help you resolve similar cases faster or avoid new issues altogether.",
     "outline": {
       "Lesson 1: Get started with Dynamics 365 Customer Service": [
         "Introducing Dynamics 365 Customer Service",
@@ -14776,7 +14776,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "Lean Six Sigma Green Belt (LSSGB) is catered to a professional, who is well trained in the Lean Six Sigma methodology who both leads or supports improvement projects, typically as a part-time role. A Lean Six Sigma Green Belt possesses a detailed knowledge about how to use Six Sigma tools and how to use standard principles of Lean.\n\nIASSC (International Association of Six Sigma Certification) is a Professional Association dedicated to growing and enhancing the standards within the Lean Six Sigma community.\n\nThis 4-day classroom-led course is based in IASSC LSSGB body of knowledge that is the basis of the IASSC Certified Green Belt Exam. The exam's questions may test up to the complexity level of \"Apply\" as defined by Levels of Cognition based on Bloom's Taxonomy – Revised (2001).",
     "outline": {
       "Lesson 1: Define Phase": [
         "The Basics of Six Sigma",
@@ -14925,7 +14925,7 @@
     ],
     "startDate": "Contact Us",
     "nextAvailableDate": "Contact Us",
-    "description": "",
+    "description": "This is an advanced, expert-level course. Although not required to attend, students are strongly encouraged to have taken and passed another associate level certification in the security, compliance and identity portfolio (such as AZ-500, SC-200 or SC-300) before attending this class. This course prepares students with the expertise to design and evaluate cybersecurity strategies in the following areas: Zero Trust, Governance Risk Compliance (GRC), security operations (SecOps), and data and applications. Students will also learn how to design and architect solutions using zero trust principles and specify security requirements for cloud infrastructure in different service models (SaaS, PaaS, IaaS).",
     "outline": {
       "Lesson 1: Build an overall security strategy and architecture": [
         "Zero Trust overview",
