@@ -1,1 +1,139 @@
-
+{
+  "courses": [
+    {
+      "id": "25",
+      "title": "EXIN SIAM Foundation",
+      "category": "IT Business Management & Strategy",
+      "price": "$995",
+      "funding": null,
+      "duration": "2 Days",
+      "wordpressUrl": "https://your-wordpress-site.com/courses/exin-siam-foundation"
+    },
+    {
+      "id": "26",
+      "title": "EXIN SIAM Professional",
+      "category": "IT Business Management & Strategy",
+      "price": "$1,395",
+      "funding": null,
+      "duration": "3 Days",
+      "wordpressUrl": "https://your-wordpress-site.com/courses/exin-siam-professional"
+    },
+    {
+      "id": "27",
+      "title": "VMware NSX: Troubleshooting and Operations [V4.x]",
+      "category": "Cloud Computing & Virtualization",
+      "price": "$4,905",
+      "funding": null,
+      "duration": "5 Days",
+      "wordpressUrl": "https://your-wordpress-site.com/courses/vmware-nsx-troubleshooting"
+    },
+    {
+      "id": "28",
+      "title": "VMware NSX: Install, Configure, Manage [V4.0]",
+      "category": "Cloud Computing & Virtualization",
+      "price": "$4,905",
+      "funding": null,
+      "duration": "5 Days",
+      "wordpressUrl": "https://your-wordpress-site.com/courses/vmware-nsx-install-configure"
+    },
+    {
+      "id": "29",
+      "title": "Cisco Certified Network Associate (CCNA) (SF)",
+      "category": "Networking Infrastructure & Architecture",
+      "price": "$2,561.50",
+      "funding": "Eligible for funding",
+      "duration": "5 Days",
+      "wordpressUrl": "https://your-wordpress-site.com/courses/ccna"
+    },
+    {
+      "id": "30",
+      "title": "CompTIA Network+ (SF)",
+      "category": "Networking Infrastructure & Architecture",
+      "price": "$2,725.00",
+      "funding": "Eligible for funding",
+      "duration": "5 Days",
+      "wordpressUrl": "https://your-wordpress-site.com/courses/comptia-network-plus"
+    },
+    {
+      "id": "31",
+      "title": "Cloud Technology Solutions Architect Associate (SF)",
+      "category": "Cloud Computing & Virtualization",
+      "price": "$3,542.50",
+      "funding": "Eligible for funding",
+      "duration": "5 Days",
+      "wordpressUrl": "https://your-wordpress-site.com/courses/cloud-solutions-architect"
+    },
+    {
+      "id": "32",
+      "title": "CompTIA Security+ (SF)",
+      "category": "Cybersecurity",
+      "price": "$2,725.00",
+      "funding": "Eligible for funding",
+      "duration": "5 Days",
+      "wordpressUrl": "https://your-wordpress-site.com/courses/comptia-security-plus"
+    },
+    {
+      "id": "33",
+      "title": "Cyber Forensics Investigator (SF)",
+      "category": "Cybersecurity",
+      "price": "$3,215.50",
+      "funding": "Eligible for funding",
+      "duration": "5 Days",
+      "wordpressUrl": "https://your-wordpress-site.com/courses/cyber-forensics"
+    },
+    {
+      "id": "34",
+      "title": "Cyber Security Incident Handling and Response (SF)",
+      "category": "Cybersecurity",
+      "price": "$1,956.55",
+      "funding": "Eligible for funding",
+      "duration": "3 Days",
+      "wordpressUrl": "https://your-wordpress-site.com/courses/cyber-incident-response"
+    },
+    {
+      "id": "35",
+      "title": "Implementing Microsoft Azure Infrastructure Solutions (SF)",
+      "category": "Cloud Computing",
+      "price": "$3,215.50",
+      "funding": "Eligible for funding",
+      "duration": "5 Days",
+      "wordpressUrl": "https://your-wordpress-site.com/courses/azure-infrastructure"
+    },
+    {
+      "id": "36",
+      "title": "Information Systems Security (SF)",
+      "category": "Cybersecurity",
+      "price": "$3,270.00",
+      "funding": "Eligible for funding",
+      "duration": "5 Days",
+      "wordpressUrl": "https://your-wordpress-site.com/courses/information-systems-security"
+    },
+    {
+      "id": "37",
+      "title": "ITIL Foundation Certificate in Service Management (SF)",
+      "category": "IT Business Management & Strategy",
+      "price": "$1,471.50",
+      "funding": "Eligible for funding",
+      "duration": "3 Days",
+      "wordpressUrl": "https://your-wordpress-site.com/courses/itil-foundation"
+    },
+    {
+      "id": "38",
+      "title": "Microsoft Certified Solutions Associate (MCSA) - 20742 (SF)",
+      "category": "Networking Infrastructure & Architecture",
+      "price": "$2,725.00",
+      "funding": "Eligible for funding",
+      "duration": "5 Days",
+      "wordpressUrl": "https://your-wordpress-site.com/courses/mcsa-20742"
+    },
+    {
+      "id": "39",
+      "title": "Project Management (SF)",
+      "category": "IT Business Management & Strategy",
+      "price": "$2,997.50",
+      "funding": "Eligible for funding",
+      "duration": "5 Days",
+      "wordpressUrl": "https://your-wordpress-site.com/courses/project-management"
+    }
+  ]
+}
