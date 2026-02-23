@@ -13,7 +13,7 @@
     {
       "id": "2",
       "title": "Business Analysis Professional (SF) (Synchronous E-Learning)",
-      "category": "Cat B",
+      "category": "IT Business Management & Strategy",
       "certType": null,
       "price": "$3,488.00",
       "funding": "Eligible for funding",
@@ -23,7 +23,7 @@
     {
       "id": "3",
       "title": "Design Mobile Applications on Android OS Platform (SF)",
-      "category": "Cat B",
+      "category": "Mobile & App Technology",
       "certType": null,
       "price": "$2,888.50",
       "funding": "Eligible for funding",
@@ -33,7 +33,7 @@
     {
       "id": "4",
       "title": "Implementing Microsoft Azure Infrastructure Solutions (SF)",
-      "category": "Cat A",
+      "category": "Networking Infrastructure & Architecture",
       "certType": "Microsoft",
       "price": "$3,215.50",
       "funding": "Eligible for funding",
@@ -43,7 +43,7 @@
     {
       "id": "5",
       "title": "Implementing SQL Database Administration (SF)",
-      "category": "Cat B",
+      "category": "Networking Infrastructure & Architecture",
       "certType": "Microsoft",
       "price": "$3,215.50",
       "funding": "Eligible for funding",
@@ -53,7 +53,7 @@
     {
       "id": "6",
       "title": "EC-Council Certified Incident Handler (SF)",
-      "category": "Cat A",
+      "category": "Cybersecurity",
       "certType": "EC-Council",
       "price": "$1,956.55",
       "funding": null,
@@ -603,7 +603,7 @@
     {
       "id": "61",
       "title": "MB-700 Architect Solutions for Microsoft Dynamics 365 Finance and Operations Apps",
-      "category": null,
+      "category": "Business Operations",
       "certType": "Microsoft",
       "price": "$3,815.00",
       "funding": null,
@@ -683,9 +683,9 @@
     {
       "id": "69",
       "title": "DCNX: Implementing Cisco NX-OS Switches and Fabrics in the Data Centre",
-      "category": null,
+      "category": "Networking Infrastructure & Architecture",
       "certType": "Cisco",
-      "price": "$4,360.00",
+      "price": "$5,665.00",
       "funding": null,
       "duration": null,
       "wordpressUrl": "https://itel.com.sg/course/dcnx-implementing-cisco-nx-os-switches-and-fabrics-in-the-data-center/"
@@ -765,7 +765,7 @@
       "title": "Visio 2019: Level 1",
       "category": "Business Operations",
       "certType": "Microsoft",
-      "price": "$327.00",
+      "price": "$325.91",
       "funding": null,
       "duration": "1 Day",
       "wordpressUrl": "https://itel.com.sg/course/visio-2019-level-1/"
@@ -893,7 +893,7 @@
     {
       "id": "90",
       "title": "Microsoft Certified Solutions Associate (MCSA) – 20740 (SF)",
-      "category": "Cat B",
+      "category": "Networking Infrastructure & Architecture",
       "certType": "Microsoft",
       "price": "$2,125.50",
       "funding": "Eligible for funding",
@@ -903,7 +903,7 @@
     {
       "id": "91",
       "title": "Microsoft Certified Solutions Associate (MCSA) – 20741 (SF)",
-      "category": "Cat B",
+      "category": "Networking Infrastructure & Architecture",
       "certType": "Microsoft",
       "price": "$2,452.50",
       "funding": "Eligible for funding",
@@ -1023,7 +1023,7 @@
     {
       "id": "103",
       "title": "VMware vSphere: Install, Configure, Manage (SF)",
-      "category": "Cat B",
+      "category": "Cloud Computing & Virtualization",
       "certType": "VMware",
       "price": "$4,305.50",
       "funding": "Eligible for funding",
@@ -1033,7 +1033,7 @@
     {
       "id": "104",
       "title": "VMware vSphere: Install, Configure, Manage (SF) – (Synchronous e-learning)",
-      "category": null,
+      "category": "Cloud Computing & Virtualization",
       "certType": "VMware",
       "price": "$4,305.50",
       "funding": "Eligible for funding",
@@ -1223,7 +1223,7 @@
     {
       "id": "125",
       "title": "Microsoft Certified Azure Network Engineer Associate (AZ-700)",
-      "category": "Networking",
+      "category": "Networking Infrastructure & Architecture",
       "certType": null,
       "price": "$2,452.50",
       "funding": "Eligible for funding",
@@ -1233,7 +1233,7 @@
     {
       "id": "126",
       "title": "Cloud Technology Solutions Architect Associate (SF)",
-      "category": "Cloud Computing",
+      "category": "Cloud Computing & Virtualization",
       "certType": null,
       "price": "$3,542.50",
       "funding": "Eligible for funding",
@@ -1243,7 +1243,7 @@
     {
       "id": "128",
       "title": "Windows Server 2019 Administration (SF)",
-      "category": "Cloud Computing",
+      "category": "Networking Infrastructure & Architecture",
       "certType": "Microsoft",
       "price": "$3,542.50",
       "funding": "Eligible for funding",
@@ -1253,7 +1253,7 @@
     {
       "id": "129",
       "title": "CompTIA Network+ (SF)",
-      "category": "Cybersecurity",
+      "category": "Networking Infrastructure & Architecture",
       "certType": null,
       "price": "$2,725.00",
       "funding": "Eligible for funding",
@@ -1283,9 +1283,9 @@
     {
       "id": "132",
       "title": "ITIL Foundation Certificate in Service Management (SF) Synchronous e-learning",
-      "category": null,
+      "category": "IT Business Management & Strategy",
       "certType": null,
-      "price": "$1,956.55",
+      "price": "$1,471.50",
       "funding": "Eligible for funding",
       "duration": null,
       "wordpressUrl": "https://itel.com.sg/course/itil-foundation-certificate-in-service-management-sf-synchronous-e-learning/"
@@ -1293,7 +1293,7 @@
     {
       "id": "147",
       "title": "Microsoft Certified Solutions Associate (MCSA) – 20742 (SF)",
-      "category": "Cat B",
+      "category": "Networking Infrastructure & Architecture",
       "certType": "Microsoft",
       "price": "$2,725.00",
       "funding": "Eligible for funding",
@@ -1303,7 +1303,7 @@
     {
       "id": "148",
       "title": "Implementing Microsoft Azure Infrastructure Solutions (SF) – (Synchronous e-learning)",
-      "category": "Cat A",
+      "category": "Networking Infrastructure & Architecture",
       "certType": null,
       "price": "$3,215.50",
       "funding": "Eligible for funding",
@@ -1313,7 +1313,7 @@
     {
       "id": "149",
       "title": "EC-Council Certified Incident Handler (SF) – (Synchronous e-learning)",
-      "category": "Cat A",
+      "category": "Cybersecurity",
       "certType": null,
       "price": "$1,956.55",
       "funding": null,
@@ -1323,7 +1323,7 @@
     {
       "id": "150",
       "title": "Cisco Certified Network Associate (CCNA) (SF) – (Synchronous e-learning)",
-      "category": "Cat A",
+      "category": "Networking Infrastructure & Architecture",
       "certType": "Cisco",
       "price": "$2,561.50",
       "funding": "Eligible for funding",
@@ -1403,7 +1403,7 @@
     {
       "id": "178",
       "title": "Microsoft Certified: Azure Fundamentals (AZ-900)",
-      "category": "Cloud Computing",
+      "category": "Cloud Computing & Virtualization",
       "certType": null,
       "price": "$817.50",
       "funding": "Eligible for funding",
@@ -1435,7 +1435,7 @@
       "title": "ITIL® Foundation Certificate in Service Management (SF) (Synchronous e-learning)",
       "category": "IT Business Management & Strategy",
       "certType": null,
-      "price": "$1,350.00",
+      "price": "$1,471.50",
       "funding": "Eligible for funding",
       "duration": "3 Days",
       "wordpressUrl": "https://itel.com.sg/course/itil-foundation-certificate-in-service-management-sf/"
@@ -1473,9 +1473,9 @@
     {
       "id": "191",
       "title": "MB-330 Microsoft Dynamics 365 Supply Chain Management – Functional Consultant",
-      "category": null,
+      "category": "Business Operations",
       "certType": "Microsoft",
-      "price": null,
+      "price": "$3,815.00",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
@@ -1483,9 +1483,9 @@
     {
       "id": "192",
       "title": "AZ-140 Configuring and Operating Microsoft Azure Virtual Desktop",
-      "category": null,
+      "category": "Networking Infrastructure & Architecture",
       "certType": "Microsoft",
-      "price": null,
+      "price": "$3,052.00",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
@@ -1493,9 +1493,9 @@
     {
       "id": "193",
       "title": "AZ-801 Configuring Windows Server Hybrid Advanced Services",
-      "category": null,
+      "category": "Networking Infrastructure & Architecture",
       "certType": "Microsoft",
-      "price": null,
+      "price": "$3,052.00",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
@@ -1503,9 +1503,9 @@
     {
       "id": "194",
       "title": "AI-900 Microsoft Azure AI Fundamentals",
-      "category": null,
+      "category": "AI & IoT",
       "certType": "Microsoft",
-      "price": null,
+      "price": "$654.00",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
@@ -1513,9 +1513,9 @@
     {
       "id": "195",
       "title": "PL-100 Microsoft Power Platform App Maker",
-      "category": null,
+      "category": "Mobile & App Technology",
       "certType": "Microsoft",
-      "price": null,
+      "price": "$3,052.00",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
@@ -1523,9 +1523,9 @@
     {
       "id": "196",
       "title": "Excel 2019: Level 2",
-      "category": null,
+      "category": "Business Operations",
       "certType": "Microsoft",
-      "price": null,
+      "price": "$271.41",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
@@ -1533,9 +1533,9 @@
     {
       "id": "197",
       "title": "Excel 2019: Level 3",
-      "category": null,
+      "category": "Business Operations",
       "certType": "Microsoft",
-      "price": null,
+      "price": "$271.41",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
@@ -1543,9 +1543,9 @@
     {
       "id": "198",
       "title": "AZ-120 Planning and Administering Microsoft Azure for SAP Workloads",
-      "category": null,
+      "category": "Networking Infrastructure & Architecture",
       "certType": "Microsoft",
-      "price": null,
+      "price": "$1,962.00",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
@@ -1553,9 +1553,9 @@
     {
       "id": "199",
       "title": "MS-500 Microsoft 365 Security Administration",
-      "category": null,
+      "category": "Business Operations",
       "certType": "Microsoft",
-      "price": null,
+      "price": "$3,815.00",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
@@ -1563,9 +1563,9 @@
     {
       "id": "200",
       "title": "Microsoft Office Specialist (MOS) Excel 2019 Expert",
-      "category": null,
+      "category": "Business Operations",
       "certType": "Microsoft",
-      "price": null,
+      "price": "$817.50",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
@@ -1573,9 +1573,9 @@
     {
       "id": "201",
       "title": "Excel Dashboard 2016",
-      "category": null,
+      "category": "Business Operations",
       "certType": "Microsoft",
-      "price": null,
+      "price": "$652.91",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
@@ -1583,9 +1583,9 @@
     {
       "id": "202",
       "title": "SC-100 Microsoft Cybersecurity Architect",
-      "category": null,
+      "category": "Cybersecurity",
       "certType": "Microsoft",
-      "price": null,
+      "price": "$3,052.00",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
@@ -1593,9 +1593,9 @@
     {
       "id": "203",
       "title": "MB-910 Microsoft Dynamics 365 Fundamentals (CRM)",
-      "category": null,
+      "category": "Business Operations",
       "certType": "Microsoft",
-      "price": null,
+      "price": "$654.00",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
@@ -1603,9 +1603,9 @@
     {
       "id": "204",
       "title": "MB-920 Microsoft Dynamics 365 Fundamentals (ERP)",
-      "category": null,
+      "category": "Business Operations",
       "certType": "Microsoft",
-      "price": null,
+      "price": "$654.00",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
@@ -1613,9 +1613,9 @@
     {
       "id": "205",
       "title": "MB-240 Microsoft Dynamics 365 Field Service",
-      "category": null,
+      "category": "Business Operations",
       "certType": "Microsoft",
-      "price": null,
+      "price": "$3,052.00",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
@@ -1623,9 +1623,9 @@
     {
       "id": "206",
       "title": "MB-300 Microsoft Dynamics 365: Core Finance and Operations",
-      "category": null,
+      "category": "Business Operations",
       "certType": "Microsoft",
-      "price": null,
+      "price": "$1,635.00",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
@@ -1633,9 +1633,9 @@
     {
       "id": "207",
       "title": "MB-500 Develop Finance and Operations Apps with Dynamics 365",
-      "category": null,
+      "category": "Business Operations",
       "certType": "Microsoft",
-      "price": null,
+      "price": "$3,815.00",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
@@ -1643,9 +1643,9 @@
     {
       "id": "208",
       "title": "Visio 2019: Level 2",
-      "category": null,
+      "category": "Business Operations",
       "certType": "Microsoft",
-      "price": null,
+      "price": "$325.91",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
@@ -1653,9 +1653,9 @@
     {
       "id": "209",
       "title": "PowerPoint 2019: Level 2",
-      "category": null,
+      "category": "Business Operations",
       "certType": "Microsoft",
-      "price": null,
+      "price": "$271.41",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
@@ -1663,9 +1663,9 @@
     {
       "id": "210",
       "title": "MS-4007 Microsoft 365 Copilot User Enablement Specialist",
-      "category": null,
+      "category": "Business Operations",
       "certType": "Microsoft",
-      "price": null,
+      "price": "Contact Us",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
@@ -1673,9 +1673,9 @@
     {
       "id": "211",
       "title": "ENARSI: Implementing Cisco Enterprise Advanced Routing and Services",
-      "category": null,
+      "category": "Networking Infrastructure & Architecture",
       "certType": "Cisco",
-      "price": null,
+      "price": "$5,665.00",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
@@ -1683,9 +1683,9 @@
     {
       "id": "212",
       "title": "ENWLSD: Designing Cisco Enterprise Wireless Networks",
-      "category": null,
+      "category": "Networking Infrastructure & Architecture",
       "certType": "Cisco",
-      "price": null,
+      "price": "$5,665.00",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
@@ -1693,9 +1693,9 @@
     {
       "id": "213",
       "title": "ITIL 4 Specialist: High Velocity IT",
-      "category": null,
+      "category": "IT Business Management & Strategy",
       "certType": "ITIL",
-      "price": null,
+      "price": "$3,106.50",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
@@ -1703,9 +1703,9 @@
     {
       "id": "214",
       "title": "Adobe Illustrator Complete Level 1",
-      "category": null,
+      "category": "Business Operations",
       "certType": "Adobe",
-      "price": null,
+      "price": "$381.50",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
@@ -1713,9 +1713,9 @@
     {
       "id": "215",
       "title": "Adobe Illustrator Complete Level 2",
-      "category": null,
+      "category": "Business Operations",
       "certType": "Adobe",
-      "price": null,
+      "price": "$381.50",
       "funding": null,
       "duration": null,
       "wordpressUrl": null
