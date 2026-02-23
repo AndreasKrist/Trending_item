@@ -682,7 +682,7 @@
     },
     {
       "id": "69",
-      "title": "DCNX: Implementing Cisco NX-OS Switches and Fabrics in the Data Center",
+      "title": "DCNX: Implementing Cisco NX-OS Switches and Fabrics in the Data Centre",
       "category": null,
       "certType": "Cisco",
       "price": "$4,360.00",
@@ -1022,7 +1022,7 @@
     },
     {
       "id": "103",
-      "title": "VMware Vsphere: Install, Configure, Manage (SF)",
+      "title": "VMware vSphere: Install, Configure, Manage (SF)",
       "category": "Cat B",
       "certType": "VMware",
       "price": "$4,305.50",
@@ -1032,7 +1032,7 @@
     },
     {
       "id": "104",
-      "title": "VMware Vsphere: Install, Configure, Manage (SF) (Synchronous E-Learning) New",
+      "title": "VMware vSphere: Install, Configure, Manage (SF) – (Synchronous e-learning)",
       "category": null,
       "certType": "VMware",
       "price": "$4,305.50",
@@ -1292,7 +1292,7 @@
     },
     {
       "id": "146",
-      "title": "VMware Vsphere: Install, Configure, Manage (SF) – (Synchronous e-learning)",
+      "title": "VMware vSphere: Install, Configure, Manage (SF) – (Synchronous e-learning)",
       "category": "Cat B",
       "certType": "VMware",
       "price": "$4,305.50",
