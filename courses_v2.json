@@ -432,7 +432,7 @@
     },
     {
       "id": "44",
-      "title": "MS-600 Building applications and solutions with Microsoft 365 core services",
+      "title": "MS-600 Building Applications and Solutions with Microsoft 365 Core Services",
       "category": "Business Operations",
       "certType": "Microsoft",
       "price": "$3,815.00",
@@ -482,7 +482,7 @@
     },
     {
       "id": "49",
-      "title": "Microsoft Office Specialist (MOS) Excel",
+      "title": "Microsoft Office Specialist (MOS) Excel 2019",
       "category": "Business Operations",
       "certType": "Microsoft",
       "price": "$654.00",
@@ -522,7 +522,7 @@
     },
     {
       "id": "53",
-      "title": "SC-200 Defend against cyberthreats with Microsoft's security operations platform",
+      "title": "SC-200 Defend Against Cyberthreats with Microsoft's Security Operations Platform",
       "category": "Cybersecurity",
       "certType": "Microsoft",
       "price": "$3,052.00",
@@ -602,7 +602,7 @@
     },
     {
       "id": "61",
-      "title": "MB-700 Architect Solutions for Microsoft Dynamics 365 Finance and Operations",
+      "title": "MB-700 Architect Solutions for Microsoft Dynamics 365 Finance and Operations Apps",
       "category": null,
       "certType": "Microsoft",
       "price": "$3,815.00",
@@ -1302,7 +1302,7 @@
     },
     {
       "id": "147",
-      "title": "Microsoft Certified Solutions Associate (MCSA) – 20742 (SF) – (Synchronous e-learning)",
+      "title": "Microsoft Certified Solutions Associate (MCSA) – 20742 (SF)",
       "category": "Cat B",
       "certType": "Microsoft",
       "price": "$2,725.00",
