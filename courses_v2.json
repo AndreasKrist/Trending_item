@@ -17,8 +17,8 @@
       "certType": null,
       "price": "$3,488.00",
       "funding": "Eligible for funding",
-      "Duration": "5 Days",
-      "wordpressUrl": "https://itel.com.sg/course/business-analysis-professional-sf/"
+      "wordpressUrl": "https://itel.com.sg/course/business-analysis-professional-sf/",
+      "duration": "5 Days"
     },
     {
       "id": "3",
@@ -37,8 +37,8 @@
       "certType": "Microsoft",
       "price": "$3,215.50",
       "funding": "Eligible for funding",
-      "Duration": "5 Days",
-      "wordpressUrl": "https://itel.com.sg/course/implementing-microsoft-azure-infrastructure-solutions-sf/"
+      "wordpressUrl": "https://itel.com.sg/course/implementing-microsoft-azure-infrastructure-solutions-sf/",
+      "duration": "5 Days"
     },
     {
       "id": "5",
@@ -1211,26 +1211,6 @@
       "wordpressUrl": "https://itel.com.sg/course/cyber-forensics-investigator-sf/"
     },
     {
-      "id": "122",
-      "title": "Protected: CertEthHack-OLL-NEW",
-      "category": "Networking Infrastructure & Architecture",
-      "certType": null,
-      "price": "$2,561.50",
-      "funding": "Eligible for funding",
-      "duration": "5 Days",
-      "wordpressUrl": "https://itel.com.sg/course/certethhack-oll-new/"
-    },
-    {
-      "id": "123",
-      "title": "Protected: CyberSec-IHR",
-      "category": "Networking Infrastructure & Architecture",
-      "certType": null,
-      "price": "$2,561.50",
-      "funding": "Eligible for funding",
-      "duration": "3 Days",
-      "wordpressUrl": "https://itel.com.sg/course/cybersec-ihr/"
-    },
-    {
       "id": "124",
       "title": "Cyber Threat Intelligence Analyst (SF)",
       "category": "Cybersecurity",
@@ -1259,16 +1239,6 @@
       "funding": "Eligible for funding",
       "duration": "5 Days",
       "wordpressUrl": "https://itel.com.sg/course/cloud-technology-solutions-architect-associate-sf/"
-    },
-    {
-      "id": "127",
-      "title": "Protected: AzureInfra-new",
-      "category": "Cybersecurity",
-      "certType": null,
-      "price": "$2,997.50",
-      "funding": "Eligible for funding",
-      "duration": "5 Days",
-      "wordpressUrl": "https://itel.com.sg/course/azureinfra-new-29745262/"
     },
     {
       "id": "128",
@@ -1319,86 +1289,6 @@
       "funding": "Eligible for funding",
       "duration": null,
       "wordpressUrl": "https://itel.com.sg/course/itil-foundation-certificate-in-service-management-sf-synchronous-e-learning/"
-    },
-    {
-      "id": "133",
-      "title": "Protected: mobAppAndroid-New",
-      "category": "Mobile & App Technology",
-      "certType": null,
-      "price": "$2,888.50",
-      "funding": "Eligible for funding",
-      "duration": "5 Days",
-      "wordpressUrl": "https://itel.com.sg/course/mobappandroid124151541/"
-    },
-    {
-      "id": "134",
-      "title": "Protected: VM-VS-install-new",
-      "category": "Cloud Computing & Virtualization",
-      "certType": null,
-      "price": "$4,305.50",
-      "funding": "Eligible for funding",
-      "duration": "5 Days",
-      "wordpressUrl": "https://itel.com.sg/course/vm-vs-install-115615151/"
-    },
-    {
-      "id": "135",
-      "title": "Protected: ImplementSQL-NEW",
-      "category": "Networking Infrastructure & Architecture",
-      "certType": null,
-      "price": "$3,215.50",
-      "funding": "Eligible for funding",
-      "duration": "5 Days",
-      "wordpressUrl": "https://itel.com.sg/course/implementsql-12341452141/"
-    },
-    {
-      "id": "136",
-      "title": "Protected: BusinessAP",
-      "category": "IT Business Management & Strategy",
-      "certType": null,
-      "price": "$3,488.00",
-      "funding": "Eligible for funding",
-      "duration": "5 Days",
-      "wordpressUrl": "https://itel.com.sg/course/businessap-12321451/"
-    },
-    {
-      "id": "137",
-      "title": "Protected: Micro-cer-sa40",
-      "category": "Networking Infrastructure & Architecture",
-      "certType": null,
-      "price": "$2,125.50",
-      "funding": "Eligible for funding",
-      "duration": "5 Days",
-      "wordpressUrl": "https://itel.com.sg/course/mcsa20740/"
-    },
-    {
-      "id": "138",
-      "title": "Protected: Micro-cer-sa41",
-      "category": "Networking Infrastructure & Architecture",
-      "certType": null,
-      "price": "$2,452.50",
-      "funding": "Eligible for funding",
-      "duration": "5 Days",
-      "wordpressUrl": "https://itel.com.sg/course/mcsa20741/"
-    },
-    {
-      "id": "139",
-      "title": "Protected: Micro-cer-sa-42",
-      "category": "Networking Infrastructure & Architecture",
-      "certType": null,
-      "price": "$2,561.50",
-      "funding": "Eligible for funding",
-      "duration": "5 Days",
-      "wordpressUrl": "https://itel.com.sg/course/mcsa20742/"
-    },
-    {
-      "id": "140",
-      "title": "Protected: Imple",
-      "category": "Networking Infrastructure & Architecture",
-      "certType": null,
-      "price": "$3,215.50",
-      "funding": "Eligible for funding",
-      "duration": "5 Days",
-      "wordpressUrl": "https://itel.com.sg/course/implementsq/"
     },
     {
       "id": "141",
@@ -1731,26 +1621,6 @@
       "wordpressUrl": "https://itel.com.sg/course/cyber-forensics-investigator-sf/"
     },
     {
-      "id": "174",
-      "title": "Protected: CertEthHack-OLL-NEW",
-      "category": "Networking Infrastructure & Architecture",
-      "certType": null,
-      "price": "$2,561.50",
-      "funding": "Eligible for funding",
-      "duration": "5 Days",
-      "wordpressUrl": "https://itel.com.sg/course/certethhack-oll-new/"
-    },
-    {
-      "id": "175",
-      "title": "Protected: CyberSec-IHR",
-      "category": "Networking Infrastructure & Architecture",
-      "certType": null,
-      "price": "$2,561.50",
-      "funding": "Eligible for funding",
-      "duration": "3 Days",
-      "wordpressUrl": "https://itel.com.sg/course/cybersec-ihr/"
-    },
-    {
       "id": "176",
       "title": "Cyber Threat Intelligence Analyst (SF)",
       "category": "Cybersecurity",
@@ -1809,16 +1679,6 @@
       "funding": "Eligible for funding",
       "duration": "5 Days",
       "wordpressUrl": "https://itel.com.sg/course/cloud-technology-solutions-architect-associate-sf/"
-    },
-    {
-      "id": "182",
-      "title": "Protected: AzureInfra-new",
-      "category": "Cybersecurity",
-      "certType": null,
-      "price": "$2,997.50",
-      "funding": "Eligible for funding",
-      "duration": "5 Days",
-      "wordpressUrl": "https://itel.com.sg/course/azureinfra-new-29745262/"
     },
     {
       "id": "183",
