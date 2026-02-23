@@ -1469,6 +1469,256 @@
       "funding": "Eligible for funding",
       "duration": "5 Days",
       "wordpressUrl": "https://itel.com.sg/course/comptia-security-sf/"
+    },
+    {
+      "id": "191",
+      "title": "MB-330 Microsoft Dynamics 365 Supply Chain Management – Functional Consultant",
+      "category": null,
+      "certType": "Microsoft",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
+    },
+    {
+      "id": "192",
+      "title": "AZ-140 Configuring and Operating Microsoft Azure Virtual Desktop",
+      "category": null,
+      "certType": "Microsoft",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
+    },
+    {
+      "id": "193",
+      "title": "AZ-801 Configuring Windows Server Hybrid Advanced Services",
+      "category": null,
+      "certType": "Microsoft",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
+    },
+    {
+      "id": "194",
+      "title": "AI-900 Microsoft Azure AI Fundamentals",
+      "category": null,
+      "certType": "Microsoft",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
+    },
+    {
+      "id": "195",
+      "title": "PL-100 Microsoft Power Platform App Maker",
+      "category": null,
+      "certType": "Microsoft",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
+    },
+    {
+      "id": "196",
+      "title": "Excel 2019: Level 2",
+      "category": null,
+      "certType": "Microsoft",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
+    },
+    {
+      "id": "197",
+      "title": "Excel 2019: Level 3",
+      "category": null,
+      "certType": "Microsoft",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
+    },
+    {
+      "id": "198",
+      "title": "AZ-120 Planning and Administering Microsoft Azure for SAP Workloads",
+      "category": null,
+      "certType": "Microsoft",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
+    },
+    {
+      "id": "199",
+      "title": "MS-500 Microsoft 365 Security Administration",
+      "category": null,
+      "certType": "Microsoft",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
+    },
+    {
+      "id": "200",
+      "title": "Microsoft Office Specialist (MOS) Excel 2019 Expert",
+      "category": null,
+      "certType": "Microsoft",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
+    },
+    {
+      "id": "201",
+      "title": "Excel Dashboard 2016",
+      "category": null,
+      "certType": "Microsoft",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
+    },
+    {
+      "id": "202",
+      "title": "SC-100 Microsoft Cybersecurity Architect",
+      "category": null,
+      "certType": "Microsoft",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
+    },
+    {
+      "id": "203",
+      "title": "MB-910 Microsoft Dynamics 365 Fundamentals (CRM)",
+      "category": null,
+      "certType": "Microsoft",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
+    },
+    {
+      "id": "204",
+      "title": "MB-920 Microsoft Dynamics 365 Fundamentals (ERP)",
+      "category": null,
+      "certType": "Microsoft",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
+    },
+    {
+      "id": "205",
+      "title": "MB-240 Microsoft Dynamics 365 Field Service",
+      "category": null,
+      "certType": "Microsoft",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
+    },
+    {
+      "id": "206",
+      "title": "MB-300 Microsoft Dynamics 365: Core Finance and Operations",
+      "category": null,
+      "certType": "Microsoft",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
+    },
+    {
+      "id": "207",
+      "title": "MB-500 Develop Finance and Operations Apps with Dynamics 365",
+      "category": null,
+      "certType": "Microsoft",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
+    },
+    {
+      "id": "208",
+      "title": "Visio 2019: Level 2",
+      "category": null,
+      "certType": "Microsoft",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
+    },
+    {
+      "id": "209",
+      "title": "PowerPoint 2019: Level 2",
+      "category": null,
+      "certType": "Microsoft",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
+    },
+    {
+      "id": "210",
+      "title": "MS-4007 Microsoft 365 Copilot User Enablement Specialist",
+      "category": null,
+      "certType": "Microsoft",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
+    },
+    {
+      "id": "211",
+      "title": "ENARSI: Implementing Cisco Enterprise Advanced Routing and Services",
+      "category": null,
+      "certType": "Cisco",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
+    },
+    {
+      "id": "212",
+      "title": "ENWLSD: Designing Cisco Enterprise Wireless Networks",
+      "category": null,
+      "certType": "Cisco",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
+    },
+    {
+      "id": "213",
+      "title": "ITIL 4 Specialist: High Velocity IT",
+      "category": null,
+      "certType": "ITIL",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
+    },
+    {
+      "id": "214",
+      "title": "Adobe Illustrator Complete Level 1",
+      "category": null,
+      "certType": "Adobe",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
+    },
+    {
+      "id": "215",
+      "title": "Adobe Illustrator Complete Level 2",
+      "category": null,
+      "certType": "Adobe",
+      "price": null,
+      "funding": null,
+      "duration": null,
+      "wordpressUrl": null
     }
   ]
 }
