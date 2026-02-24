@@ -14388,6 +14388,153 @@
     "moodleCourseId": null
   },
   {
+    "id": "124",
+    "courseCode": "SC-400",
+    "title": "SC-400 Microsoft Information Protection Administrator",
+    "category": "Cybersecurity",
+    "certType": "Microsoft",
+    "rating": 4.7,
+    "duration": "4 Days",
+    "price": "$1,962.00",
+    "funding": null,
+    "isFavorite": false,
+    "deliveryMethods": [
+      "ILT",
+      "OLL"
+    ],
+    "startDate": "Contact Us",
+    "nextAvailableDate": "Contact Us",
+    "description": "",
+    "outline": {
+      "Lesson 1: Introduction to information protection and data lifecycle management in Microsoft Purview": [
+        "Introduction to information protection and data lifecycle management",
+        "Know your data",
+        "Protect your data",
+        "Prevent data loss"
+      ],
+      "Lesson 2: Prevent data loss": [
+        "Introduction to Microsoft Purview Data Loss Prevention",
+        "Define the sensitive data you want to protect",
+        "Use data loss prevention (DLP) policies to protect your data"
+      ],
+      "Lesson 3: Classify data for protection and governance": [
+        "Data classification overview",
+        "Classify data using sensitive information types",
+        "Classify data using trainable classifiers",
+        "Review sensitive information and label usage",
+        "Explore labelled and sensitive content",
+        "Understand activities related to your data",
+        "Understand activities related to your data"
+      ],
+      "Lesson 4: Create and manage sensitive information types": [
+        "Compare built-in versus custom sensitive information types",
+        "Create and manage custom sensitive information types",
+        "Describe custom sensitive information types with exact data match",
+        "Implement document fingerprinting",
+        "Create keyword dictionary"
+      ],
+      "Lesson 5: Understand Microsoft 365 encryption": [
+        "Introduction to Microsoft 365 encryption",
+        "Learn how BitLocker encrypts data-at-rest",
+        "Understand service encryption in Microsoft Purview",
+        "Explore customer key management using Customer Key",
+        "Learn how data is encrypted in-transit"
+      ],
+      "Lesson 6: Deploy Microsoft Purview Message Encryption": [
+        "Implement Microsoft Purview Message Encryption",
+        "Implement Microsoft Purview Advanced Message Encryption",
+        "Use Microsoft Purview Message Encryption templates in mail flow rules"
+      ],
+      "Lesson 7: Protect information in Microsoft Purview": [
+        "Information protection overview",
+        "Configure sensitivity labels",
+        "Configure sensitivity label policies",
+        "Configure auto-labeling policies",
+        "Manage, monitor, and remediate information protection"
+      ],
+      "Lesson 8: Apply and manage sensitivity labels": [
+        "Apply sensitivity labels to Microsoft Teams, Microsoft 365 groups, and SharePoint sites",
+        "Plan on-premises labelling",
+        "Configure on-premises labelling for the Unified Labeling Scanner",
+        "Apply protections and restrictions to email and files",
+        "Monitor label performance using label analytics"
+      ],
+      "Lesson 9: Prevent data loss in Microsoft Purview": [
+        "Data loss prevention overview",
+        "Identify content to protect",
+        "Define policy settings for your DLP policy",
+        "Test and create your DLP policy",
+        "Prepare Endpoint DLP",
+        "Manage DLP alerts in the Microsoft Purview compliance portal",
+        "View data loss prevention reports"
+      ],
+      "Lesson 10: Configure DLP policies for Microsoft Defender for Cloud Apps and Power Platform": [
+        "Configure data loss prevention policies for Power Platform",
+        "Integrate data loss prevention in Microsoft Defender for Cloud Apps",
+        "Configure policies in Microsoft Defender for Cloud Apps",
+        "Manage data loss prevention violations in Microsoft Defender for Cloud Apps"
+      ],
+      "Lesson 11: Manage data loss prevention policies and reports in Microsoft 365": [
+        "Configure data loss prevention for policy precedence",
+        "Implement data loss prevention policies in test mode",
+        "Explain data loss prevention reporting capabilities",
+        "Review and analyze data loss prevention reports",
+        "Manage permissions for data loss prevention reports"
+      ],
+      "Lesson 12: Manage the data lifecycle in Microsoft Purview": [
+        "Data Lifecycle Management overview",
+        "Configure retention policies",
+        "Configure retention labels",
+        "Configure manual retention label policies",
+        "Configure auto-apply retention label policies",
+        "Import data for Data Lifecycle Management",
+        "Manage, monitor, and remediate Data Lifecycle Management"
+      ],
+      "Lesson 13: Manage data retention in Microsoft 365 workloads": [
+        "Explain retention in Exchange Online",
+        "Explain retention in SharePoint Online and OneDrive",
+        "Explain retention in Microsoft Teams",
+        "Explain retention in Microsoft Yammer",
+        "Recover content in Microsoft 365 workloads",
+        "Activate archive mailboxes in Microsoft Exchange",
+        "Recover content in Microsoft Exchange"
+      ],
+      "Lesson 14: Manage records in Microsoft Purview": [
+        "Records management overview",
+        "Import a file plan",
+        "Configure retention labels",
+        "Configure event driven retention",
+        "Manage, monitor, and remediate records"
+      ]
+    },
+    "prerequisites": [
+      "Foundational knowledge of Microsoft security and compliance technologies.",
+      "Basic knowledge of information protection concepts.",
+      "Understanding of cloud computing concepts",
+      "Understanding of Microsoft 365 products and services."
+    ],
+    "whoShouldAttend": "To be Updated",
+    "importantNotes": "Attend at least 75% of the course and declared as competent during the assessments",
+    "feeStructure": {
+      "Full Course Fee": {
+        "Price": "\\$1,962.00"
+      },
+      "SG Citizens aged 21 - 39 years old / PRs aged 21 years old and above": {
+        "Individual": "$0",
+        "Company Sponsored (Non-SME)": "$0",
+        "Company Sponsored (SME)": "$0"
+      },
+      "SG Citizens age 40 years old and above": {
+        "Individual": "$0",
+        "Company Sponsored (Non-SME)": "$0",
+        "Company Sponsored (SME)": "$0"
+      }
+    },
+    "progress": null,
+    "completionDate": null,
+    "moodleCourseId": null
+  },
+  {
     "id": "125",
     "courseCode": "MB-230",
     "title": "MB-230 Microsoft Dynamics 365 Customer Service",
