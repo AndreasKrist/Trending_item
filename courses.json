@@ -26141,17 +26141,17 @@
       "importantNotes": "Attend at least 75% of the course and declared as competent during the assessments",
       "feeStructure": {
         "Full Course Fee": {
-          "Price": "\\$3,215.50"
+          "Price": "\\$2,997.50"
         },
         "SG Citizens aged 21 - 39 years old / PRs aged 21 years old and above": {
-          "Individual": "-",
-          "Company Sponsored (Non-SME)": "-",
-          "Company Sponsored (SME)": "-"
+          "Individual": "$1,622.50",
+          "Company Sponsored (Non-SME)": "$1,622.50",
+          "Company Sponsored (SME)": "$1,072.50"
         },
         "SG Citizens age 40 years old and above": {
-          "Individual": "-",
-          "Company Sponsored (Non-SME)": "-",
-          "Company Sponsored (SME)": "-"
+          "Individual": "$1,072.50",
+          "Company Sponsored (Non-SME)": "$1,072.50",
+          "Company Sponsored (SME)": "$1,072.50"
         }
       },
       "progress": null,
