@@ -2543,7 +2543,7 @@
       "moodleCourseId": null
     },
     {
-      "id": "212",
+      "id": "43",
       "courseCode": "TGS-2023021378",
       "title": "Certified Ethical Hacker (CEH) (SF) (Synchronous e-learning)",
       "category": "Cybersecurity",
@@ -26800,7 +26800,7 @@
       "moodleCourseId": null
     },
     {
-      "id": "43",
+      "id": "212",
       "courseCode": "CEH794",
       "title": "Certified Ethical Hacker (CEH) (SF)",
       "category": "Cybersecurity",
@@ -26888,14 +26888,14 @@
           "Price": "\\$2,725.00"
         },
         "SG Citizens aged 21 - 39 years old / PRs aged 21 years old and above": {
-          "Individual": "-",
-          "Company Sponsored (Non-SME)": "-",
-          "Company Sponsored (SME)": "-"
+          "Individual": "$1,437.50",
+          "Company Sponsored (Non-SME)": "$1,437.50",
+          "Company Sponsored (SME)": "$922.50"
         },
         "SG Citizens age 40 years old and above": {
-          "Individual": "-",
-          "Company Sponsored (Non-SME)": "-",
-          "Company Sponsored (SME)": "-"
+          "Individual": "$922.50",
+          "Company Sponsored (Non-SME)": "$922.50",
+          "Company Sponsored (SME)": "$922.50"
         }
       },
       "progress": null,
