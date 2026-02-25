@@ -6271,7 +6271,7 @@
       "certType": null,
       "rating": 4.7,
       "duration": "2 Days",
-      "price": "$1,635.00",
+      "price": "$1,500",
       "funding": null,
       "isFavorite": false,
       "deliveryMethods": [
@@ -27391,7 +27391,7 @@
       "certType": "COMPTIA",
       "rating": 0,
       "duration": "1 Day",
-      "price": "$250",
+      "price": "$750",
       "funding": "No funding",
       "isFavorite": false,
       "deliveryMethods": [
@@ -27462,7 +27462,7 @@
       "certType": "COMPTIA",
       "rating": 0,
       "duration": "1 Day",
-      "price": "$250",
+      "price": "$750",
       "funding": "No funding",
       "isFavorite": false,
       "deliveryMethods": [
@@ -27570,7 +27570,7 @@
       "certType": "COMPTIA",
       "rating": 0,
       "duration": "1 Day",
-      "price": "$250",
+      "price": "$750",
       "funding": "No funding",
       "isFavorite": false,
       "deliveryMethods": [
