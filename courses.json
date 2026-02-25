@@ -9035,7 +9035,7 @@
       "certType": "EC-Council",
       "rating": 4.7,
       "duration": "5 Days",
-      "price": "$3,950.00",
+      "price": "$4,305.50",
       "funding": "Eligible for funding",
       "isFavorite": false,
       "deliveryMethods": [
@@ -9106,7 +9106,7 @@
       "importantNotes": "The course completion requirements for this course as follow:\n1. Attended at least 75% of the course\n2. Declared as competent during the assessments",
       "feeStructure": {
         "Full Course Fee": {
-          "Price": "$3,950.00"
+          "Price": "$4,305.50"
         },
         "SG Citizens aged 21 - 39 years old / PRs aged 21 years old and above": {
           "Individual": "$2,507.50",
