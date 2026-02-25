@@ -27563,6 +27563,72 @@
       "moodleCourseId": null
     },
     {
+      "id": "224",
+      "courseCode": "",
+      "title": "CompTIA AI Essentials",
+      "category": "AI & IoT",
+      "certType": "COMPTIA",
+      "rating": 0,
+      "duration": "1 Day",
+      "price": "$750",
+      "funding": "No funding",
+      "isFavorite": false,
+      "deliveryMethods": [
+        "ILT"
+      ],
+      "startDate": "",
+      "nextAvailableDate": "",
+      "description": "CompTIA AI Essentials offers an introduction to the world of artificial intelligence, equipping learners with the knowledge and skills to thrive in an AI-driven landscape. Learners will gain a solid understanding of the AI landscape, exploring its definition, evolution, and the various types of AI that are transforming industries. The course dives into practical AI applications, demonstrating how AI can enhance productivity, creativity, and decision-making in business settings. Learners will also uncover the potential of Generative AI, discovering its capabilities in creating text, audio, and images, and learning how to select the right tools for specific tasks. Additionally, the course addresses the intersection of AI and cybersecurity, highlighting potential threats and navigating the legal and privacy challenges associated with AI. By completing CompTIA AI Essentials, learners will futureproof their careers, acquiring the skills and insights needed to stay ahead in a rapidly evolving job market where AI plays a pivotal role.",
+      "outline": {
+        "Lesson 1: AI Unveiled": [
+          "1.1 Defining AI",
+          "1.2 Getting Started with AI",
+          "1.3 Applying AI Solutions in Business",
+          "1.4 Exploring AI as a Collaborative Partner",
+          "1.5 Using AI to Support Your Team",
+          "1.6 Talking to Coworkers about AI"
+        ],
+        "Lesson 2: Generative AI Frontiers": [
+          "2.1 Types of Generative AI",
+          "2.2 Using the Right Tool"
+        ],
+        "Lesson 3: Engineering Effective Prompts": [
+          "3.1 What is Prompt Engineering?",
+          "3.2 Practicing Prompt Engineering"
+        ],
+        "Lesson 4: Balancing Innovation and Privacy": [
+          "4.1 Examining Roles in Cybersecurity",
+          "4.2 Addressing AI Legal and Ethical Issues",
+          "4.3 Making Decisions Using AI"
+        ],
+        "Lesson 5: Future Trends and Innovations in AI": [
+          "5.1 Anticipating What Comes Next in AI",
+          "5.2 Preparing for the Future with AI"
+        ]
+      },
+      "prerequisites": [],
+      "whoShouldAttend": "",
+      "importantNotes": "",
+      "feeStructure": {
+        "Full Course Fee": {
+          "Price": "$250"
+        },
+        "SG Citizens aged 21 - 39 years old / PRs aged 21 years old and above": {
+          "Individual": "-",
+          "Company Sponsored (Non-SME)": "-",
+          "Company Sponsored (SME)": "-"
+        },
+        "SG Citizens age 40 years old and above": {
+          "Individual": "-",
+          "Company Sponsored (Non-SME)": "-",
+          "Company Sponsored (SME)": "-"
+        }
+      },
+      "progress": null,
+      "completionDate": null,
+      "moodleCourseId": null
+    },
+    {
       "id": "222",
       "courseCode": "",
       "title": "CompTIA AI Prompting Essentials",
