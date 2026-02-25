@@ -2631,14 +2631,14 @@
           "Price": "$2,725.00"
         },
         "SG Citizens aged 21 - 39 years old / PRs aged 21 years old and above": {
-          "Individual": "$1,475.00",
-          "Company Sponsored (Non-SME)": "$1,475.00",
-          "Company Sponsored (SME)": "$975.00"
+          "Individual": "$1,437.50",
+          "Company Sponsored (Non-SME)": "$1,437.50",
+          "Company Sponsored (SME)": "$922.50"
         },
         "SG Citizens age 40 years old and above": {
-          "Individual": "$975.00",
-          "Company Sponsored (Non-SME)": "$975.00",
-          "Company Sponsored (SME)": "$975.00"
+          "Individual": "$922.50",
+          "Company Sponsored (Non-SME)": "$922.50",
+          "Company Sponsored (SME)": "$922.50"
         }
       },
       "progress": null,
