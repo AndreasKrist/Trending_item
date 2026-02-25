@@ -1792,7 +1792,7 @@
       "certType": "ITIL",
       "rating": 4.7,
       "duration": "3 Days",
-      "price": "$1,471.50",
+      "price": "$1,350.00",
       "funding": "Eligible for funding",
       "isFavorite": false,
       "deliveryMethods": [
@@ -2141,7 +2141,7 @@
       "certType": "EC-Council",
       "rating": 4.7,
       "duration": "5 Days",
-      "price": "$3,324.50",
+      "price": "$2,997.50",
       "funding": "Eligible for funding",
       "isFavorite": false,
       "deliveryMethods": [
@@ -9147,7 +9147,7 @@
       "certType": "EC-Council",
       "rating": 4.7,
       "duration": "5 Days",
-      "price": "$4,632.50",
+      "price": "$3,950.00",
       "funding": "Eligible for funding",
       "isFavorite": false,
       "deliveryMethods": [
@@ -27934,7 +27934,7 @@
     {
       "id": "219",
       "courseCode": "TGS-2023021376",
-      "title": "Cyber Threat Intelligence Analyst (SF) (Synchronous e-learning)",
+      "title": "Cyber Threat Intelligence Analyst (SF)",
       "category": "Cybersecurity",
       "certType": "",
       "rating": 4.7,
@@ -28098,6 +28098,52 @@
           "Individual": "-",
           "Company Sponsored (Non-SME)": "-",
           "Company Sponsored (SME)": "-"
+        }
+      },
+      "progress": null,
+      "completionDate": null,
+      "moodleCourseId": null
+    },
+    {
+      "id": "223",
+      "courseCode": "2023021373",
+      "title": "Information Systems Security (SF) (Synchronous e-learning)",
+      "category": "Cybersecurity",
+      "certType": null,
+      "rating": 4.7,
+      "duration": "5 Days",
+      "price": "$3,270.00",
+      "funding": "Eligible for funding",
+      "isFavorite": false,
+      "deliveryMethods": [
+        "OLL"
+      ],
+      "startDate": "",
+      "nextAvailableDate": "",
+      "description": ".",
+      "outline": {
+        "Lesson 1:": [
+          "Lesson1"
+        ]
+      },
+      "prerequisites": [
+        "Prospective participants must have at least 5 years of full-time experience in two or more of the 10 domains of (ISC)2 Common Body of Knowledge (CBK) which is generally accepted as the industry’s best practices for information security."
+      ],
+      "whoShouldAttend": "",
+      "importantNotes": "Attend at least 75% of the course and declared as competent during the assessments",
+      "feeStructure": {
+        "Full Course Fee": {
+          "Price": "$3,270.00"
+        },
+        "SG Citizens aged 21 - 39 years old / PRs aged 21 years old and above": {
+          "Individual": "$1,770.00",
+          "Company Sponsored (Non-SME)": "$1,770.00",
+          "Company Sponsored (SME)": "$1,170.00"
+        },
+        "SG Citizens age 40 years old and above": {
+          "Individual": "$1,170.00",
+          "Company Sponsored (Non-SME)": "$1,170.00",
+          "Company Sponsored (SME)": "$1,170.00"
         }
       },
       "progress": null,
