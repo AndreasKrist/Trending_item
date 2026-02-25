@@ -28028,7 +28028,29 @@
       "startDate": "",
       "nextAvailableDate": "",
       "description": "",
-      "outline": {},
+      "outline": {
+        "Conduct AI-driven buyer and market research": [
+          "Use AI to gather, summarize, and analyze information from public sources, uncover buyer pain points and priorities, and surface industry and competitive insights to strengthen your sales conversations."
+        ],
+        "Personalize outreach and messaging": [
+          "Draft, edit, and refine personalized outbound messages across channels. Use AI to tailor talk tracks and conversation starters to each buyer's role, context, and communication style."
+        ],
+        "Automate prospecting and lead management": [
+          "Use AI to score and prioritize leads, organize your pipeline, and generate sequenced follow-up messages to keep deals moving efficiently."
+        ],
+        "Prepare and analyze sales meetings": [
+          "Create pre-meeting briefs, suggested questions, and rapport-building insights with AI. Summarize and analyze call transcripts, generate CRM-ready notes, and produce action items or follow-up messages."
+        ],
+        "Co-develop strategies and proposals": [
+          "Use AI to brainstorm and refine solution ideas, translate product features into client-focused language, and prepare competitive differentiators or ROI-driven proposal content."
+        ],
+        "Develop account growth strategies": [
+          "Identify needs-based upsell and cross-sell opportunities and generate targeted outreach that supports long-term customer development and account expansion using AI insights."
+        ],
+        "Build sales skills through AI coaching": [
+          "Role-play sales scenarios, practice objection handling, and upload performance data for AI-generated insights and personalized coaching to strengthen your overall sales capabilities."
+        ]
+      },
       "prerequisites": [],
       "whoShouldAttend": "",
       "importantNotes": "",
