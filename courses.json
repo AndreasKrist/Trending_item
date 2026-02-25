@@ -28068,7 +28068,29 @@
       "startDate": "",
       "nextAvailableDate": "",
       "description": "",
-      "outline": {},
+      "outline": {
+        "AI task identification": [
+          "Decide when and how to use AI for different workplace tasks based on complexity, risk, and desired outcomes."
+        ],
+        "Prompt crafting": [
+          "Learn to write clear, effective prompts for AI chatbots to achieve better, more accurate responses."
+        ],
+        "Critical evaluation": [
+          "Evaluate AI-generated outputs for accuracy, bias, and quality—verifying information and ensuring reliability."
+        ],
+        "Moving beyond transactional interactions": [
+          "Improve outcomes by engaging with and refining AI responses to get more targeted, relevant results."
+        ],
+        "Ethical AI use": [
+          "Apply AI ethically and securely, understanding issues around privacy, transparency, and copyright."
+        ],
+        "Task automation": [
+          "Use AI to automate routine and repetitive tasks, freeing up your time for more critical projects."
+        ],
+        "Workplace integration": [
+          "Leverage AI in multi-step projects and common workplace functions to drive collaboration and productivity."
+        ]
+      },
       "prerequisites": [],
       "whoShouldAttend": "",
       "importantNotes": "",
