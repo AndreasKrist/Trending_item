@@ -457,7 +457,7 @@
     {
       "id": "30",
       "courseCode": "TGS-2023036612",
-      "title": "CompTIA Network+ (SF) (Synchronous e-learning)",
+      "title": "CompTIA Network+ (SF)",
       "category": "Networking Infrastructure & Architecture",
       "certType": "COMPTIA",
       "rating": 4.7,
@@ -466,7 +466,7 @@
       "funding": "Eligible for funding",
       "isFavorite": false,
       "deliveryMethods": [
-        "OLL"
+        "ILT"
       ],
       "startDate": "July 07, 2025",
       "nextAvailableDate": "July 07, 2025",
@@ -736,7 +736,7 @@
       "rating": 4.7,
       "duration": "5 Days",
       "price": "$2,725.00",
-      "funding": "Eligible for funding",
+      "funding": null,
       "isFavorite": false,
       "deliveryMethods": [
         "OLL"
@@ -1654,14 +1654,14 @@
           "Price": "$3,215.50"
         },
         "SG Citizens aged 21 - 39 years old / PRs aged 21 years old and above": {
-          "Individual": "$1,740.50",
-          "Company Sponsored (Non-SME)": "$1,740.50",
-          "Company Sponsored (SME)": "$1,150.50"
+          "Individual": "$1,622.50",
+          "Company Sponsored (Non-SME)": "$1,622.50",
+          "Company Sponsored (SME)": "$1,072.50"
         },
         "SG Citizens age 40 years old and above": {
-          "Individual": "$1,150.50",
-          "Company Sponsored (Non-SME)": "$1,150.50",
-          "Company Sponsored (SME)": "$1,150.50"
+          "Individual": "$1,072.50",
+          "Company Sponsored (Non-SME)": "$1,072.50",
+          "Company Sponsored (SME)": "$1,072.50"
         }
       },
       "progress": null,
@@ -25889,7 +25889,7 @@
       "rating": 4.7,
       "duration": "5 Days",
       "price": "$2,725.00",
-      "funding": "Eligible for funding",
+      "funding": null,
       "isFavorite": false,
       "deliveryMethods": [
         "ILT"
