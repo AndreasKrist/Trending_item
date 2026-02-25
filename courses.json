@@ -27988,7 +27988,38 @@
       "startDate": "",
       "nextAvailableDate": "",
       "description": "",
-      "outline": {},
+      "outline": {
+        "AI-driven Market & Audience Research": [
+          "Use AI to synthesize competitor, customer, and industry data; refine segments, ICPs and buyer insights; and uncover keyword and topic opportunities for stronger marketing strategies."
+        ],
+        "AI-assisted Content Strategy & Planning": [
+          "Brainstorm and evaluate campaign concepts, topics, and formats; identify whitespace and competitor gaps; and use AI to develop content calendars, value propositions, and channel recommendations."
+        ],
+        "Generative AI Written Content Production": [
+          "Draft, refine, translate, and localize marketing copy using AI writers. Repurpose existing content for SEO, brand voice, or new formats efficiently with AI support."
+        ],
+        "Generative AI Visual & Multimedia Production": [
+          "Create or edit images, graphics, videos, and other multimedia assets using text-to-image and AI media tools to accelerate creative production across channels."
+        ],
+        "AI-driven Personalization & Experience Optimization": [
+          "Use AI insights to develop segment-specific messages and recommendations and support manual personalization planning for improved audience engagement."
+        ],
+        "AI-enabled Campaign Automation & Management": [
+          "Design multi-step campaign workflows with AI guidance to streamline execution and improve channel consistency."
+        ],
+        "AI-powered Analytics & Reporting": [
+          "Transform raw marketing data into insights, visualizations, and executive summaries using AI to enhance reporting and decision-making."
+        ],
+        "AI-driven SEO Research & Optimization": [
+          "Generate keyword strategies, metadata, and SEO content at scale using AI to strengthen organic visibility and search performance."
+        ],
+        "AI-assisted Social Content & Engagement": [
+          "Create, optimize, and repurpose social posts, captions, hashtags, and influencer outreach materials using AI for channel-specific impact."
+        ],
+        "Prompt Engineering & Ethical AI Use": [
+          "Design effective prompts to control output quality, creativity and voice, and implement governance practices such as sourcing, fact-checking and privacy safeguards for brand-safe AI use."
+        ]
+      },
       "prerequisites": [],
       "whoShouldAttend": "",
       "importantNotes": "",
