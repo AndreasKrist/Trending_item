@@ -964,7 +964,7 @@
       "rating": 4.7,
       "duration": "3 Days",
       "price": "$1,956.55",
-      "funding": "Eligible for funding",
+      "funding": null,
       "isFavorite": false,
       "deliveryMethods": [
         "OLL"
