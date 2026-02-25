@@ -16195,7 +16195,7 @@
       "rating": 4.7,
       "duration": "5 Days",
       "price": "$3,815.00",
-      "funding": "Eligible for funding",
+      "funding": null,
       "isFavorite": false,
       "deliveryMethods": [
         "ILT",
