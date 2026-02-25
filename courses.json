@@ -1891,7 +1891,7 @@
       "certType": null,
       "rating": 4.7,
       "duration": "5 Days",
-      "price": "$2,997.50",
+      "price": "$1,798.50",
       "funding": "Eligible for funding",
       "isFavorite": false,
       "deliveryMethods": [
@@ -2004,17 +2004,17 @@
       "importantNotes": "Attend at least 75% of the course and declared as competent during the assessments",
       "feeStructure": {
         "Full Course Fee": {
-          "Price": "$2,997.50"
+          "Price": "$1,798.50"
         },
         "SG Citizens aged 21 - 39 years old / PRs aged 21 years old and above": {
-          "Individual": "$1,622.50",
-          "Company Sponsored (Non-SME)": "$1,622.50",
-          "Company Sponsored (SME)": "$1,072.50"
+          "Individual": "$973.50",
+          "Company Sponsored (Non-SME)": "$973.50",
+          "Company Sponsored (SME)": "$643.50"
         },
         "SG Citizens age 40 years old and above": {
-          "Individual": "$1,072.50",
-          "Company Sponsored (Non-SME)": "$1,072.50",
-          "Company Sponsored (SME)": "$1,072.50"
+          "Individual": "$643.50",
+          "Company Sponsored (Non-SME)": "$643.50",
+          "Company Sponsored (SME)": "$643.50"
         }
       },
       "progress": null,
@@ -25015,7 +25015,7 @@
       "certType": null,
       "rating": 4.7,
       "duration": "5 Days",
-      "price": "$2,997.50",
+      "price": "$1,798.50",
       "funding": "Eligible for funding",
       "isFavorite": false,
       "deliveryMethods": [
@@ -25128,17 +25128,17 @@
       "importantNotes": "Attend at least 75% of the course and declared as competent during the assessments",
       "feeStructure": {
         "Full Course Fee": {
-          "Price": "\\$2,997.50"
+          "Price": "\\$1,798.50"
         },
         "SG Citizens aged 21 - 39 years old / PRs aged 21 years old and above": {
-          "Individual": "-",
-          "Company Sponsored (Non-SME)": "-",
-          "Company Sponsored (SME)": "-"
+          "Individual": "$973.50",
+          "Company Sponsored (Non-SME)": "$973.50",
+          "Company Sponsored (SME)": "$643.50"
         },
         "SG Citizens age 40 years old and above": {
           "Individual": "-",
-          "Company Sponsored (Non-SME)": "-",
-          "Company Sponsored (SME)": "-"
+          "Company Sponsored (Non-SME)": "$643.50",
+          "Company Sponsored (SME)": "$643.50"
         }
       },
       "progress": null,
