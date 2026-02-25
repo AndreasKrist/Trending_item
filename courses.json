@@ -27938,12 +27938,12 @@
       "category": "Cybersecurity",
       "certType": "",
       "rating": 4.7,
-      "duration": "",
-      "price": "",
+      "duration": "5 Days",
+      "price": "$1,956.55",
       "funding": "Eligible for funding",
       "isFavorite": false,
       "deliveryMethods": [
-        "OLL"
+        "ILT"
       ],
       "startDate": "",
       "nextAvailableDate": "",
@@ -27954,17 +27954,17 @@
       "importantNotes": "",
       "feeStructure": {
         "Full Course Fee": {
-          "Price": "-"
+          "Price": "$1,956.55"
         },
         "SG Citizens aged 21 - 39 years old / PRs aged 21 years old and above": {
-          "Individual": "-",
-          "Company Sponsored (Non-SME)": "-",
-          "Company Sponsored (SME)": "-"
+          "Individual": "$1,059.05",
+          "Company Sponsored (Non-SME)": "$1,059.05",
+          "Company Sponsored (SME)": "$700.05"
         },
         "SG Citizens age 40 years old and above": {
-          "Individual": "-",
-          "Company Sponsored (Non-SME)": "-",
-          "Company Sponsored (SME)": "-"
+          "Individual": "$700.05",
+          "Company Sponsored (Non-SME)": "$700.05",
+          "Company Sponsored (SME)": "$700.05"
         }
       },
       "progress": null,
