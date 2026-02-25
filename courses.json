@@ -16987,7 +16987,7 @@
       "rating": 4.7,
       "duration": "4 Days",
       "price": "$3,052.00",
-      "funding": "Eligible for funding",
+      "funding": null,
       "isFavorite": false,
       "deliveryMethods": [
         "ILT",
