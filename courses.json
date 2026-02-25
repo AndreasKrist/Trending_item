@@ -1658,14 +1658,14 @@
           "Price": "$3,270.00"
         },
         "SG Citizens aged 21 - 39 years old / PRs aged 21 years old and above": {
-          "Individual": "$1,770.00",
-          "Company Sponsored (Non-SME)": "$1,770.00",
-          "Company Sponsored (SME)": "$1,170.00"
+          "Individual": "$1,032.50",
+          "Company Sponsored (Non-SME)": "$$1,032.50",
+          "Company Sponsored (SME)": "$682.50"
         },
         "SG Citizens age 40 years old and above": {
-          "Individual": "$1,170.00",
-          "Company Sponsored (Non-SME)": "$1,170.00",
-          "Company Sponsored (SME)": "$1,170.00"
+          "Individual": "$682.50",
+          "Company Sponsored (Non-SME)": "$682.50",
+          "Company Sponsored (SME)": "$682.50"
         }
       },
       "progress": null,
@@ -1680,7 +1680,7 @@
       "certType": "ITIL",
       "rating": 4.7,
       "duration": "3 Days",
-      "price": "$1,350.00",
+      "price": "$1,471.50",
       "funding": "Eligible for funding",
       "isFavorite": false,
       "deliveryMethods": [
@@ -1731,7 +1731,7 @@
       "importantNotes": "Attend at least 75% of the course and declared as competent during the assessments",
       "feeStructure": {
         "Full Course Fee": {
-          "Price": "$1,350.00"
+          "Price": "$1,471.50"
         },
         "SG Citizens aged 21 - 39 years old / PRs aged 21 years old and above": {
           "Individual": "$796.50",
