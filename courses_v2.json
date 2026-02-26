@@ -3,7 +3,7 @@
         {
             "id": "1",
             "title": "CompTIA AI For Marketing Essentials",
-            "category": "AI &amp; IoT",
+            "category": "AI & IoT",
             "certType": null,
             "price": "Offer: $250, Original: $750",
             "funding": null,
@@ -13,7 +13,7 @@
         {
             "id": "2",
             "title": "CompTIA AI For Sales Essentials",
-            "category": "AI &amp; IoT",
+            "category": "AI & IoT",
             "certType": null,
             "price": "Offer: $250, Original: $750",
             "funding": null,
@@ -23,7 +23,7 @@
         {
             "id": "3",
             "title": "CompTIA AI Prompting Essentials",
-            "category": "AI &amp; IoT",
+            "category": "AI & IoT",
             "certType": null,
             "price": "Offer: $250, Original: $750",
             "funding": null,
@@ -33,7 +33,7 @@
         {
             "id": "4",
             "title": "CompTIA Cloud Essentials+ (SF)",
-            "category": "Cloud Computing &amp; Virtualization",
+            "category": "Cloud Computing & Virtualization",
             "certType": null,
             "price": "$3,215.50",
             "funding": "Eligible for funding",
@@ -53,7 +53,7 @@
         {
             "id": "6",
             "title": "ITIL\u00ae Foundation Certificate in Service Management (SF) (Synchronous e-learning)",
-            "category": "IT Business Management &amp; Strategy",
+            "category": "IT Business Management & Strategy",
             "certType": null,
             "price": "$1,471.50",
             "funding": "Eligible for funding",
@@ -63,7 +63,7 @@
         {
             "id": "7",
             "title": "Project Management (SF)",
-            "category": "IT Business Management &amp; Strategy",
+            "category": "IT Business Management & Strategy",
             "certType": null,
             "price": "$ 1,798.50",
             "funding": "Eligible for funding",
@@ -73,7 +73,7 @@
         {
             "id": "8",
             "title": "CompTIA Network+ (SF)",
-            "category": "Networking Infrastructure &amp; Architecture | Populer Courses",
+            "category": "Networking Infrastructure & Architecture | Populer Courses",
             "certType": null,
             "price": "$2,725.00",
             "funding": "Eligible for funding",
@@ -83,7 +83,7 @@
         {
             "id": "9",
             "title": "Windows Server 2019 Administration (SF)",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$3,542.50",
             "funding": "Eligible for funding",
@@ -93,7 +93,7 @@
         {
             "id": "10",
             "title": "Cloud Technology Solutions Architect Associate (SF)",
-            "category": "Cloud Computing &amp; Virtualization",
+            "category": "Cloud Computing & Virtualization",
             "certType": null,
             "price": "$3,542.50",
             "funding": "Eligible for funding",
@@ -123,7 +123,7 @@
         {
             "id": "13",
             "title": "Microsoft Certified: Azure Fundamentals (AZ-900)",
-            "category": "Cloud Computing &amp; Virtualization",
+            "category": "Cloud Computing & Virtualization",
             "certType": null,
             "price": "$817.50",
             "funding": "Eligible for funding",
@@ -133,7 +133,7 @@
         {
             "id": "14",
             "title": "Microsoft Certified Azure Network Engineer Associate (AZ-700)",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$2,452.50",
             "funding": "Eligible for funding",
@@ -183,7 +183,7 @@
         {
             "id": "19",
             "title": "(SCTP) Higher Certificate in Network Administration",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$8,512.90",
             "funding": "Eligible for funding",
@@ -203,7 +203,7 @@
         {
             "id": "21",
             "title": "Cisco Certified Network Associate (CCNA) (SF)",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$2,561.50",
             "funding": "Eligible for funding",
@@ -213,7 +213,7 @@
         {
             "id": "22",
             "title": "DP-3028 Implement Generative AI engineering with Azure Databricks",
-            "category": "AI &amp; IoT",
+            "category": "AI & IoT",
             "certType": null,
             "price": "$817.5",
             "funding": null,
@@ -223,7 +223,7 @@
         {
             "id": "23",
             "title": "DP-3027 Implement a data engineering solution with Azure Databricks",
-            "category": "AI &amp; IoT",
+            "category": "AI & IoT",
             "certType": null,
             "price": "$817.5",
             "funding": null,
@@ -243,7 +243,7 @@
         {
             "id": "25",
             "title": "MS-4018 Draft, analyze, and present with Microsoft 365 Copilot",
-            "category": "AI &amp; IoT | Business Operations",
+            "category": "AI & IoT | Business Operations",
             "certType": null,
             "price": "$750 (before GST)",
             "funding": null,
@@ -263,7 +263,7 @@
         {
             "id": "27",
             "title": "AZ-2007 Accelerate app development by using GitHub Copilot",
-            "category": "AI &amp; IoT | Mobile &amp; App Technology",
+            "category": "AI & IoT | Mobile & App Technology",
             "certType": null,
             "price": "Contact Us",
             "funding": null,
@@ -273,7 +273,7 @@
         {
             "id": "28",
             "title": "MS-4014 Build a foundation to extend Microsoft 365 Copilot",
-            "category": "AI &amp; IoT | IT Business Management &amp; Strategy",
+            "category": "AI & IoT | IT Business Management & Strategy",
             "certType": null,
             "price": "Contact Us",
             "funding": null,
@@ -293,7 +293,7 @@
         {
             "id": "30",
             "title": "CompTIA AI Essentials",
-            "category": "AI &amp; IoT",
+            "category": "AI & IoT",
             "certType": null,
             "price": "Offer: $250, Original: $817.50",
             "funding": null,
@@ -313,7 +313,7 @@
         {
             "id": "32",
             "title": "Cross Platform Mobile App Development with .NET MAUI",
-            "category": "AI &amp; IoT",
+            "category": "AI & IoT",
             "certType": null,
             "price": "$3,542.50 (inc GST)",
             "funding": null,
@@ -323,7 +323,7 @@
         {
             "id": "33",
             "title": "VMWare Horizon 8: Deploy and Manage plus App Volumes Fast Track",
-            "category": "Cloud Computing &amp; Virtualization",
+            "category": "Cloud Computing & Virtualization",
             "certType": null,
             "price": "$4,905 (incl GST)",
             "funding": null,
@@ -333,7 +333,7 @@
         {
             "id": "34",
             "title": "AI-3026 Develop AI agents on Azure",
-            "category": "AI &amp; IoT",
+            "category": "AI & IoT",
             "certType": null,
             "price": "$817.50",
             "funding": null,
@@ -343,7 +343,7 @@
         {
             "id": "35",
             "title": "EXIN SIAM Foundation",
-            "category": "IT Business Management &amp; Strategy",
+            "category": "IT Business Management & Strategy",
             "certType": null,
             "price": "$995",
             "funding": null,
@@ -353,7 +353,7 @@
         {
             "id": "36",
             "title": "EXIN SIAM Professional",
-            "category": "IT Business Management &amp; Strategy",
+            "category": "IT Business Management & Strategy",
             "certType": null,
             "price": "$1,395",
             "funding": null,
@@ -363,7 +363,7 @@
         {
             "id": "37",
             "title": "VMware NSX: Troubleshooting and Operations [V4.x]",
-            "category": "Cloud Computing &amp; Virtualization",
+            "category": "Cloud Computing & Virtualization",
             "certType": null,
             "price": "$4,905",
             "funding": null,
@@ -373,7 +373,7 @@
         {
             "id": "38",
             "title": "VMware NSX: Install, Configure, Manage [V4.0]",
-            "category": "Cloud Computing &amp; Virtualization",
+            "category": "Cloud Computing & Virtualization",
             "certType": null,
             "price": "$4,905",
             "funding": null,
@@ -383,7 +383,7 @@
         {
             "id": "39",
             "title": "Cisco Certified Network Associate (CCNA) (SF) - (Synchronous e-learning)",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$2,561.50",
             "funding": "Eligible for funding",
@@ -403,7 +403,7 @@
         {
             "id": "41",
             "title": "Implementing Microsoft Azure Infrastructure Solutions (SF) - (Synchronous e-learning)",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$2,997.50",
             "funding": "Eligible for funding",
@@ -413,7 +413,7 @@
         {
             "id": "42",
             "title": "Microsoft Certified Solutions Associate (MCSA) \u2013 20742 (SF) - (Synchronous e-learning)",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$2,725.00",
             "funding": "Eligible for funding",
@@ -423,7 +423,7 @@
         {
             "id": "43",
             "title": "VMware Vsphere: Install, Configure, Manage (SF) - (Synchronous e-learning)",
-            "category": "Cloud Computing &amp; Virtualization",
+            "category": "Cloud Computing & Virtualization",
             "certType": null,
             "price": "$4,305.50",
             "funding": "Eligible for funding",
@@ -433,7 +433,7 @@
         {
             "id": "44",
             "title": "VMware Vsphere: Install, Configure, Manage (SF)",
-            "category": "Cloud Computing &amp; Virtualization",
+            "category": "Cloud Computing & Virtualization",
             "certType": null,
             "price": "$4,305.50",
             "funding": "Eligible for funding",
@@ -443,7 +443,7 @@
         {
             "id": "45",
             "title": "MS-4008 Microsoft 365 Interactive Experience for Executives",
-            "category": "AI &amp; IoT | Business Operations",
+            "category": "AI & IoT | Business Operations",
             "certType": null,
             "price": "$817.50",
             "funding": null,
@@ -453,7 +453,7 @@
         {
             "id": "46",
             "title": "MS-4017 Manage and extend Microsoft 365 Copilot",
-            "category": "AI &amp; IoT | Business Operations",
+            "category": "AI & IoT | Business Operations",
             "certType": null,
             "price": "$817.50",
             "funding": null,
@@ -493,7 +493,7 @@
         {
             "id": "50",
             "title": "AI-3025 Work smarter with AI",
-            "category": "AI &amp; IoT | Business Operations",
+            "category": "AI & IoT | Business Operations",
             "certType": null,
             "price": "$817.50",
             "funding": null,
@@ -503,7 +503,7 @@
         {
             "id": "51",
             "title": "AI-3024 Design a dream destination with AI",
-            "category": "AI &amp; IoT | Business Operations",
+            "category": "AI & IoT | Business Operations",
             "certType": null,
             "price": "$817.50",
             "funding": null,
@@ -523,7 +523,7 @@
         {
             "id": "53",
             "title": "AI-050 Develop Generative AI Solutions with Azure OpenAI Service",
-            "category": "AI &amp; IoT",
+            "category": "AI & IoT",
             "certType": null,
             "price": "$817.50",
             "funding": null,
@@ -533,7 +533,7 @@
         {
             "id": "54",
             "title": "MS-4005 Craft effective prompts for Microsoft 365 Copilot",
-            "category": "AI &amp; IoT | Business Operations",
+            "category": "AI & IoT | Business Operations",
             "certType": null,
             "price": "$817.50",
             "funding": null,
@@ -543,7 +543,7 @@
         {
             "id": "55",
             "title": "MS-4004 Empower your workforce with Microsoft 365 Copilot Use Cases",
-            "category": "AI &amp; IoT | Business Operations",
+            "category": "AI & IoT | Business Operations",
             "certType": null,
             "price": "$817.50",
             "funding": null,
@@ -553,7 +553,7 @@
         {
             "id": "56",
             "title": "MS-4009 Extend Microsoft 365 Copilot with Copilot Studio actions and connectors",
-            "category": "AI &amp; IoT",
+            "category": "AI & IoT",
             "certType": null,
             "price": "Contact Us",
             "funding": null,
@@ -563,7 +563,7 @@
         {
             "id": "57",
             "title": "AZ-104 Microsoft Azure Administrator",
-            "category": "Cloud Computing &amp; Virtualization | Networking Infrastructure &amp; Architecture",
+            "category": "Cloud Computing & Virtualization | Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$3,052.00",
             "funding": null,
@@ -603,7 +603,7 @@
         {
             "id": "61",
             "title": "PRINCE2\u00ae Foundation Certificate in Project Management",
-            "category": "IT Business Management &amp; Strategy",
+            "category": "IT Business Management & Strategy",
             "certType": null,
             "price": "$1,308.80",
             "funding": null,
@@ -613,7 +613,7 @@
         {
             "id": "62",
             "title": "Microsoft Certified Solutions Associate (MCSA) \u2013 20742 (SF)",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$2,725.00",
             "funding": "Eligible for funding",
@@ -623,7 +623,7 @@
         {
             "id": "63",
             "title": "Microsoft Certified Solutions Associate (MCSA) \u2013 20741 (SF)",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$2,452.50",
             "funding": "Eligible for funding",
@@ -633,7 +633,7 @@
         {
             "id": "64",
             "title": "Microsoft Certified Solutions Associate (MCSA) \u2013 20740 (SF)",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$2,125.50",
             "funding": "Eligible for funding",
@@ -653,7 +653,7 @@
         {
             "id": "66",
             "title": "DP-3014 Implementing a Machine Learning Solution with Azure Databricks",
-            "category": "Big Data | Analytics | Database | Cloud Computing &amp; Virtualization",
+            "category": "Big Data | Analytics | Database | Cloud Computing & Virtualization",
             "certType": null,
             "price": "Contact Us",
             "funding": null,
@@ -663,7 +663,7 @@
         {
             "id": "67",
             "title": "DP-3011 Implementing a Data Analytics Solution with Azure Databricks",
-            "category": "Big Data | Analytics | Database | Cloud Computing &amp; Virtualization",
+            "category": "Big Data | Analytics | Database | Cloud Computing & Virtualization",
             "certType": null,
             "price": "Contact Us",
             "funding": null,
@@ -673,7 +673,7 @@
         {
             "id": "68",
             "title": "DP-900 Microsoft Azure Data Fundamentals",
-            "category": "Cloud Computing &amp; Virtualization",
+            "category": "Cloud Computing & Virtualization",
             "certType": null,
             "price": "Contact Us",
             "funding": null,
@@ -683,7 +683,7 @@
         {
             "id": "69",
             "title": "PRINCE2\u00ae Practitioner Certificate in Project Management",
-            "category": "IT Business Management &amp; Strategy",
+            "category": "IT Business Management & Strategy",
             "certType": null,
             "price": "$1,635.00",
             "funding": null,
@@ -693,7 +693,7 @@
         {
             "id": "70",
             "title": "ITIL 4 Specialist: High Velocity IT",
-            "category": "IT Business Management &amp; Strategy",
+            "category": "IT Business Management & Strategy",
             "certType": null,
             "price": "$3,106.50",
             "funding": null,
@@ -703,7 +703,7 @@
         {
             "id": "71",
             "title": "ChatGPT for Business Professional",
-            "category": "AI &amp; IoT",
+            "category": "AI & IoT",
             "certType": null,
             "price": "Offer: $500, Original: $1500.00",
             "funding": null,
@@ -713,7 +713,7 @@
         {
             "id": "72",
             "title": "TOGAF 9.1 Level 2 (Certified)",
-            "category": "IT Business Management &amp; Strategy",
+            "category": "IT Business Management & Strategy",
             "certType": null,
             "price": "$3,815.00",
             "funding": null,
@@ -723,7 +723,7 @@
         {
             "id": "73",
             "title": "TOGAF 9.1 Level 1 Foundation",
-            "category": "IT Business Management &amp; Strategy",
+            "category": "IT Business Management & Strategy",
             "certType": null,
             "price": "$3,052.00",
             "funding": null,
@@ -733,7 +733,7 @@
         {
             "id": "74",
             "title": "ITIL 4 Leader: Digital &amp; IT Strategy",
-            "category": "IT Business Management &amp; Strategy",
+            "category": "IT Business Management & Strategy",
             "certType": null,
             "price": "$3,106.50",
             "funding": null,
@@ -743,7 +743,7 @@
         {
             "id": "75",
             "title": "ITIL 4 Specialist: Drive Stakeholder Value",
-            "category": "IT Business Management &amp; Strategy",
+            "category": "IT Business Management & Strategy",
             "certType": null,
             "price": "$3,106.50",
             "funding": null,
@@ -883,7 +883,7 @@
         {
             "id": "89",
             "title": "CKAD: Certified Kubernetes Application Developer",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$3,106.50",
             "funding": null,
@@ -893,7 +893,7 @@
         {
             "id": "90",
             "title": "CKA: Certified Kubernetes Administrator",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$3,106.50",
             "funding": null,
@@ -903,7 +903,7 @@
         {
             "id": "91",
             "title": "DCNX: Implementing Cisco NX-OS Switches and Fabrics in the Data Centre",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$5,665.00",
             "funding": null,
@@ -913,7 +913,7 @@
         {
             "id": "92",
             "title": "55238 SharePoint Online for Administrators",
-            "category": "Business Operations | Networking Infrastructure &amp; Architecture",
+            "category": "Business Operations | Networking Infrastructure & Architecture",
             "certType": null,
             "price": "Contact Us",
             "funding": null,
@@ -923,7 +923,7 @@
         {
             "id": "93",
             "title": "Certified Cloud Security Engineer (CCSE)",
-            "category": "Cloud Computing &amp; Virtualization | Cybersecurity",
+            "category": "Cloud Computing & Virtualization | Cybersecurity",
             "certType": null,
             "price": "$2,125.50",
             "funding": null,
@@ -933,7 +933,7 @@
         {
             "id": "94",
             "title": "PL-500 Microsoft Power Automate RPA Developer",
-            "category": "Mobile &amp; App Technology",
+            "category": "Mobile & App Technology",
             "certType": null,
             "price": "$3,052.00",
             "funding": null,
@@ -1063,7 +1063,7 @@
         {
             "id": "107",
             "title": "AZ-220 Microsoft Azure IoT Developer",
-            "category": "AI &amp; IoT",
+            "category": "AI & IoT",
             "certType": null,
             "price": "$3,052.00",
             "funding": null,
@@ -1073,7 +1073,7 @@
         {
             "id": "108",
             "title": "DP-420 Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB",
-            "category": "Mobile &amp; App Technology",
+            "category": "Mobile & App Technology",
             "certType": null,
             "price": "$3,052.00",
             "funding": null,
@@ -1123,7 +1123,7 @@
         {
             "id": "113",
             "title": "Xamarin Mobile Application Development for iOS and Android",
-            "category": "Mobile &amp; App Technology",
+            "category": "Mobile & App Technology",
             "certType": null,
             "price": "$3,215.50",
             "funding": null,
@@ -1133,7 +1133,7 @@
         {
             "id": "114",
             "title": "AZ-600 Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub",
-            "category": "Cloud Computing &amp; Virtualization",
+            "category": "Cloud Computing & Virtualization",
             "certType": null,
             "price": "$3,052.00",
             "funding": null,
@@ -1153,7 +1153,7 @@
         {
             "id": "116",
             "title": "SC-300 Microsoft Identity and Access Administrator",
-            "category": "Cloud Computing &amp; Virtualization",
+            "category": "Cloud Computing & Virtualization",
             "certType": null,
             "price": "$3,052.00",
             "funding": null,
@@ -1163,7 +1163,7 @@
         {
             "id": "117",
             "title": "Lean Six Sigma Black Belt",
-            "category": "IT Business Management &amp; Strategy",
+            "category": "IT Business Management & Strategy",
             "certType": null,
             "price": "$5,395.50",
             "funding": null,
@@ -1183,7 +1183,7 @@
         {
             "id": "119",
             "title": "Lean Six Sigma Green Belt",
-            "category": "IT Business Management &amp; Strategy",
+            "category": "IT Business Management & Strategy",
             "certType": null,
             "price": "$3,542.50",
             "funding": null,
@@ -1313,7 +1313,7 @@
         {
             "id": "132",
             "title": "CompTIA Cloud+",
-            "category": "Cloud Computing &amp; Virtualization",
+            "category": "Cloud Computing & Virtualization",
             "certType": null,
             "price": "$2,725.00",
             "funding": null,
@@ -1403,7 +1403,7 @@
         {
             "id": "141",
             "title": "AZ-120 Planning and Administering Microsoft Azure for SAP Workloads",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$1,962.00",
             "funding": null,
@@ -1433,7 +1433,7 @@
         {
             "id": "144",
             "title": "AZ-204 Developing Solutions for Microsoft Azure",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$3,815.00",
             "funding": null,
@@ -1443,7 +1443,7 @@
         {
             "id": "145",
             "title": "ENAUI: Implementing Automation for Cisco Enterprise Solutions",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$4,360.00",
             "funding": null,
@@ -1453,7 +1453,7 @@
         {
             "id": "146",
             "title": "ENWLSI: Implementing Cisco Enterprise Wireless Networks",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$5,665.00",
             "funding": null,
@@ -1463,7 +1463,7 @@
         {
             "id": "147",
             "title": "ENSLD: Designing Cisco Enterprise Networks",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$5,665.00",
             "funding": null,
@@ -1473,7 +1473,7 @@
         {
             "id": "148",
             "title": "ENSDWI: Implementing Cisco SD-WAN Solutions",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$5,665.00",
             "funding": null,
@@ -1493,7 +1493,7 @@
         {
             "id": "150",
             "title": "ENWLSD: Designing Cisco Enterprise Wireless Networks",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$5,665.00",
             "funding": null,
@@ -1513,7 +1513,7 @@
         {
             "id": "152",
             "title": "ENARSI: Implementing Cisco Enterprise Advanced Routing and Services",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$5,665.00",
             "funding": null,
@@ -1523,7 +1523,7 @@
         {
             "id": "153",
             "title": "AZ-305 Designing Microsoft Azure Infrastructure Solutions",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$3,052.00",
             "funding": null,
@@ -1533,7 +1533,7 @@
         {
             "id": "154",
             "title": "ENCOR: Implementing and Operating Cisco Enterprise Network Core Technologies",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$5,665.00",
             "funding": null,
@@ -1543,7 +1543,7 @@
         {
             "id": "155",
             "title": "AZ-800 Administering Windows Server Hybrid Core Infrastructure",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$3,052.00",
             "funding": null,
@@ -1553,7 +1553,7 @@
         {
             "id": "156",
             "title": "SUSE Linux Enterprise Server 15 Administration",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$2,507.00",
             "funding": null,
@@ -1563,7 +1563,7 @@
         {
             "id": "157",
             "title": "AWS SysOps Administrator Certification Bootcamp (Associate Level)",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$3,215.50",
             "funding": null,
@@ -1613,7 +1613,7 @@
         {
             "id": "162",
             "title": "PL-200 Microsoft Power Platform Functional Consultant",
-            "category": "Mobile &amp; App Technology",
+            "category": "Mobile & App Technology",
             "certType": null,
             "price": "$3,052.00",
             "funding": null,
@@ -1633,7 +1633,7 @@
         {
             "id": "164",
             "title": "CompTIA Linux+",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$2,725.00",
             "funding": null,
@@ -1643,7 +1643,7 @@
         {
             "id": "165",
             "title": "CompTIA IT Fundamentals (ITF+)",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$2,398.00",
             "funding": null,
@@ -1653,7 +1653,7 @@
         {
             "id": "166",
             "title": "AI-102 Designing and Implementing a Microsoft Azure AI Solution",
-            "category": "AI &amp; IoT",
+            "category": "AI & IoT",
             "certType": null,
             "price": "$3,052.00",
             "funding": null,
@@ -1663,7 +1663,7 @@
         {
             "id": "167",
             "title": "PL-400 Microsoft Power Platform Developer",
-            "category": "Mobile &amp; App Technology",
+            "category": "Mobile & App Technology",
             "certType": null,
             "price": "$3,815.00",
             "funding": null,
@@ -1673,7 +1673,7 @@
         {
             "id": "168",
             "title": "CompTIA Server+",
-            "category": "Cloud Computing &amp; Virtualization",
+            "category": "Cloud Computing & Virtualization",
             "certType": null,
             "price": "$2,725.00",
             "funding": null,
@@ -1683,7 +1683,7 @@
         {
             "id": "169",
             "title": "PL-100 Microsoft Power Platform App Maker",
-            "category": "Mobile &amp; App Technology",
+            "category": "Mobile & App Technology",
             "certType": null,
             "price": "$3,052.00",
             "funding": null,
@@ -1693,7 +1693,7 @@
         {
             "id": "170",
             "title": "AI-900 Microsoft Azure AI Fundamentals",
-            "category": "AI &amp; IoT",
+            "category": "AI & IoT",
             "certType": null,
             "price": "$654.00",
             "funding": null,
@@ -1723,7 +1723,7 @@
         {
             "id": "173",
             "title": "ITIL 4 Strategist: Direct, Plan and Improve (DPI)",
-            "category": "IT Business Management &amp; Strategy",
+            "category": "IT Business Management & Strategy",
             "certType": null,
             "price": "$3,106.50",
             "funding": null,
@@ -1743,7 +1743,7 @@
         {
             "id": "175",
             "title": "ITIL 4 Specialist: Create, Deliver, Support (CDS)",
-            "category": "IT Business Management &amp; Strategy",
+            "category": "IT Business Management & Strategy",
             "certType": null,
             "price": "$3,106.50",
             "funding": null,
@@ -1773,7 +1773,7 @@
         {
             "id": "178",
             "title": "PL-600 Microsoft Power Platform Solution Architect",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$1,962.00",
             "funding": null,
@@ -1783,7 +1783,7 @@
         {
             "id": "179",
             "title": "DP-100 Designing and Implementing a Data Science Solution on Azure",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$3,052.00",
             "funding": null,
@@ -1793,7 +1793,7 @@
         {
             "id": "180",
             "title": "AZ-801 Configuring Windows Server Hybrid Advanced Services",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$3,052.00",
             "funding": null,
@@ -1803,7 +1803,7 @@
         {
             "id": "181",
             "title": "CompTIA A+",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$2,725.00",
             "funding": null,
@@ -1813,7 +1813,7 @@
         {
             "id": "182",
             "title": "AZ-140 Configuring and Operating Microsoft Azure Virtual Desktop",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$3,052.00",
             "funding": null,
@@ -1833,7 +1833,7 @@
         {
             "id": "184",
             "title": "Implementing SQL Database Administration (SF)",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$2,997.50",
             "funding": "Eligible for funding",
@@ -1843,7 +1843,7 @@
         {
             "id": "185",
             "title": "Implementing Microsoft Azure Infrastructure Solutions (SF)",
-            "category": "Networking Infrastructure &amp; Architecture",
+            "category": "Networking Infrastructure & Architecture",
             "certType": null,
             "price": "$3,215.50",
             "funding": "Eligible for funding",
@@ -1853,7 +1853,7 @@
         {
             "id": "186",
             "title": "Design Mobile Applications on Android OS Platform (SF)",
-            "category": "Mobile &amp; App Technology",
+            "category": "Mobile & App Technology",
             "certType": null,
             "price": "$2,888.50",
             "funding": "Eligible for funding",
@@ -1863,7 +1863,7 @@
         {
             "id": "187",
             "title": "Business Analysis Professional (SF) (Synchronous E-Learning)",
-            "category": "IT Business Management &amp; Strategy",
+            "category": "IT Business Management & Strategy",
             "certType": null,
             "price": "$3,488.00",
             "funding": "Eligible for funding",
