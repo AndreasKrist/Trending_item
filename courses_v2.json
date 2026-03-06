@@ -1,197 +1,7 @@
 {
   "courses": [
     {
-      "id": "1",
-      "title": "CompTIA AI For Marketing Essentials",
-      "category": "AI & IoT",
-      "certType": null,
-      "price": "$750",
-      "funding": null,
-      "duration": "1 Day",
-      "wordpressUrl": "https://itel.com.sg/course/comptia-ai-for-marketing-essentials/"
-    },
-    {
-      "id": "2",
-      "title": "CompTIA AI For Sales Essentials",
-      "category": "AI & IoT",
-      "certType": null,
-      "price": "$750",
-      "funding": null,
-      "duration": "1 Day",
-      "wordpressUrl": "https://itel.com.sg/course/comptia-ai-for-sales-essentials/"
-    },
-    {
-      "id": "3",
-      "title": "CompTIA AI Prompting Essentials",
-      "category": "AI & IoT",
-      "certType": null,
-      "price": "$750",
-      "funding": null,
-      "duration": "1 Day",
-      "wordpressUrl": "https://itel.com.sg/course/comptia-ai-prompting-essentials/"
-    },
-    {
-      "id": "4",
-      "title": "CompTIA Security+ (SF)",
-      "category": "Cybersecurity | Populer Courses",
-      "certType": null,
-      "price": "$2,725.00",
-      "funding": "Eligible for funding",
-      "duration": "5 Days",
-      "wordpressUrl": "https://itel.com.sg/course/comptia-security-sf/"
-    },
-    {
-      "id": "5",
-      "title": "CompTIA Cloud Essentials+ (SF)",
-      "category": "Cloud Computing & Virtualization",
-      "certType": null,
-      "price": "$3,215.50",
-      "funding": "Eligible for funding",
-      "duration": "3 Days",
-      "wordpressUrl": "https://itel.com.sg/course/comptia-cloud-essentials/"
-    },
-    {
-      "id": "6",
-      "title": "Network Defender (SF)",
-      "category": "Cybersecurity",
-      "certType": null,
-      "price": "$2,725.00",
-      "funding": "Eligible for funding",
-      "duration": "5 Days",
-      "wordpressUrl": "https://itel.com.sg/course/network-defender-sf/"
-    },
-    {
-      "id": "7",
-      "title": "ITIL® Foundation Certificate in Service Management (SF) (Synchronous e-learning)",
-      "category": "IT Business Management & Strategy",
-      "certType": null,
-      "price": "$1,471.50",
-      "funding": "Eligible for funding",
-      "duration": "3 Days",
-      "wordpressUrl": "https://itel.com.sg/course/itil-foundation-certificate-in-service-management-sf/"
-    },
-    {
-      "id": "8",
-      "title": "Project Management (SF)",
-      "category": "IT Business Management & Strategy",
-      "certType": null,
-      "price": "$ 1,798.50",
-      "funding": "Eligible for funding",
-      "duration": "5 Days",
-      "wordpressUrl": "https://itel.com.sg/course/project-management-sf/"
-    },
-    {
-      "id": "9",
-      "title": "CompTIA Network+ (SF)",
-      "category": "Networking Infrastructure & Architecture | Populer Courses",
-      "certType": null,
-      "price": "$2,725.00",
-      "funding": "Eligible for funding",
-      "duration": "5 Days",
-      "wordpressUrl": "https://itel.com.sg/course/comptia-network-sf/"
-    },
-    {
-      "id": "10",
-      "title": "Windows Server 2019 Administration (SF)",
-      "category": "Networking Infrastructure & Architecture",
-      "certType": null,
-      "price": "$3,542.50",
-      "funding": "Eligible for funding",
-      "duration": "5 Days",
-      "wordpressUrl": "https://itel.com.sg/course/windows-server-2019-administration-sf/"
-    },
-    {
-      "id": "11",
-      "title": "Cloud Technology Solutions Architect Associate (SF)",
-      "category": "Cloud Computing & Virtualization",
-      "certType": null,
-      "price": "$3,542.50",
-      "funding": "Eligible for funding",
-      "duration": "5 Days",
-      "wordpressUrl": "https://itel.com.sg/course/cloud-technology-solutions-architect-associate-sf/"
-    },
-    {
-      "id": "12",
-      "title": "Security Analysis and Penetration Testing (SF)",
-      "category": "Cybersecurity",
-      "certType": null,
-      "price": "$3,324.50",
-      "funding": "Eligible for funding",
-      "duration": "5 Days",
-      "wordpressUrl": "https://itel.com.sg/course/security-analysis-and-penetration-testing-sf/"
-    },
-    {
-      "id": "13",
-      "title": "Information Systems Security (SF) (Synchronous e-learning)",
-      "category": "Cybersecurity",
-      "certType": null,
-      "price": "$3,270.00",
-      "funding": "Eligible for funding",
-      "duration": "5 Days",
-      "wordpressUrl": "https://itel.com.sg/course/information-systems-security-sf/"
-    },
-    {
-      "id": "14",
-      "title": "Microsoft Certified: Azure Fundamentals (AZ-900)",
-      "category": "Cloud Computing & Virtualization",
-      "certType": null,
-      "price": "$817.50",
-      "funding": "Eligible for funding",
-      "duration": "1 Day",
-      "wordpressUrl": "https://itel.com.sg/course/microsoft-certified-azure-fundamentals-az-900/"
-    },
-    {
-      "id": "15",
-      "title": "Microsoft Certified Azure Network Engineer Associate (AZ-700)",
-      "category": "Networking Infrastructure & Architecture",
-      "certType": null,
-      "price": "$2,452.50",
-      "funding": "Eligible for funding",
-      "duration": "3 Days",
-      "wordpressUrl": "https://itel.com.sg/course/microsoft-certified-azure-network-engineer-associate-az-700/"
-    },
-    {
-      "id": "16",
-      "title": "Cyber Threat Intelligence Analyst (SF)",
-      "category": "Cybersecurity",
-      "certType": null,
-      "price": "$1,956.55",
-      "funding": "Eligible for funding",
-      "duration": "3 Days",
-      "wordpressUrl": "https://itel.com.sg/course/cyber-threat-intelligence-analyst-sf/"
-    },
-    {
-      "id": "17",
-      "title": "Cyber Forensics Investigator (SF) Synchronous e-Learning",
-      "category": "Cybersecurity",
-      "certType": null,
-      "price": "$2,997.50",
-      "funding": "Eligible for funding",
-      "duration": "5 Days",
-      "wordpressUrl": "https://itel.com.sg/course/cyber-forensics-investigator-sf/"
-    },
-    {
-      "id": "18",
-      "title": "Certified Ethical Hacker (CEH) (SF)",
-      "category": "Cybersecurity",
-      "certType": null,
-      "price": "$2,725.00",
-      "funding": "Eligible for funding",
-      "duration": "5 Days",
-      "wordpressUrl": "https://itel.com.sg/course/certified-ethical-hacker-ceh-sf/"
-    },
-    {
-      "id": "19",
-      "title": "(SCTP) Advanced Certificate in Cyber Security",
-      "category": "Cybersecurity",
-      "certType": null,
-      "price": "$11,063.50",
-      "funding": "Eligible for funding",
-      "duration": "174 hours",
-      "wordpressUrl": "https://itel.com.sg/course/sctp-advanced-certificate-in-cyber-security/"
-    },
-    {
-      "id": "20",
+      "id": "18148",
       "title": "(SCTP) Higher Certificate in Network Administration",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -201,7 +11,197 @@
       "wordpressUrl": "https://itel.com.sg/course/sctp-higher-certificate-in-network-administration/"
     },
     {
-      "id": "21",
+      "id": "17688",
+      "title": "CompTIA AI For Marketing Essentials",
+      "category": "AI & IoT",
+      "certType": null,
+      "price": "Offer: $250, Original: $750",
+      "funding": null,
+      "duration": "1 Day",
+      "wordpressUrl": "https://itel.com.sg/course/comptia-ai-for-marketing-essentials/"
+    },
+    {
+      "id": "17680",
+      "title": "CompTIA AI For Sales Essentials",
+      "category": "AI & IoT",
+      "certType": null,
+      "price": "Offer: $250, Original: $750",
+      "funding": null,
+      "duration": "1 Day",
+      "wordpressUrl": "https://itel.com.sg/course/comptia-ai-for-sales-essentials/"
+    },
+    {
+      "id": "17654",
+      "title": "CompTIA AI Prompting Essentials",
+      "category": "AI & IoT",
+      "certType": null,
+      "price": "Offer: $250, Original: $750",
+      "funding": null,
+      "duration": "1 Day",
+      "wordpressUrl": "https://itel.com.sg/course/comptia-ai-prompting-essentials/"
+    },
+    {
+      "id": "16385",
+      "title": "CompTIA Security+ (SF)",
+      "category": "Cybersecurity | Populer Courses",
+      "certType": null,
+      "price": "$2,725.00",
+      "funding": "Eligible for funding",
+      "duration": "5 Days",
+      "wordpressUrl": "https://itel.com.sg/course/comptia-security-sf/"
+    },
+    {
+      "id": "15906",
+      "title": "CompTIA Cloud Essentials+ (SF)",
+      "category": "Cloud Computing & Virtualization",
+      "certType": null,
+      "price": "$3,215.50",
+      "funding": "Eligible for funding",
+      "duration": "3 Days",
+      "wordpressUrl": "https://itel.com.sg/course/comptia-cloud-essentials/"
+    },
+    {
+      "id": "15904",
+      "title": "Network Defender (SF)",
+      "category": "Cybersecurity",
+      "certType": null,
+      "price": "$2,725.00",
+      "funding": "Eligible for funding",
+      "duration": "5 Days",
+      "wordpressUrl": "https://itel.com.sg/course/network-defender-sf/"
+    },
+    {
+      "id": "15903",
+      "title": "ITIL® Foundation Certificate in Service Management (SF) (Synchronous e-learning)",
+      "category": "IT Business Management & Strategy",
+      "certType": null,
+      "price": "$1,471.50",
+      "funding": "Eligible for funding",
+      "duration": "3 Days",
+      "wordpressUrl": "https://itel.com.sg/course/itil-foundation-certificate-in-service-management-sf/"
+    },
+    {
+      "id": "15896",
+      "title": "Project Management (SF)",
+      "category": "IT Business Management & Strategy",
+      "certType": null,
+      "price": "$ 1,798.50",
+      "funding": "Eligible for funding",
+      "duration": "5 Days",
+      "wordpressUrl": "https://itel.com.sg/course/project-management-sf/"
+    },
+    {
+      "id": "15907",
+      "title": "CompTIA Network+ (SF)",
+      "category": "Networking Infrastructure & Architecture | Populer Courses",
+      "certType": null,
+      "price": "$2,725.00",
+      "funding": "Eligible for funding",
+      "duration": "5 Days",
+      "wordpressUrl": "https://itel.com.sg/course/comptia-network-sf/"
+    },
+    {
+      "id": "15803",
+      "title": "Windows Server 2019 Administration (SF)",
+      "category": "Networking Infrastructure & Architecture",
+      "certType": null,
+      "price": "$3,542.50",
+      "funding": "Eligible for funding",
+      "duration": "5 Days",
+      "wordpressUrl": "https://itel.com.sg/course/windows-server-2019-administration-sf/"
+    },
+    {
+      "id": "15593",
+      "title": "Cloud Technology Solutions Architect Associate (SF)",
+      "category": "Cloud Computing & Virtualization",
+      "certType": null,
+      "price": "$3,542.50",
+      "funding": "Eligible for funding",
+      "duration": "5 Days",
+      "wordpressUrl": "https://itel.com.sg/course/cloud-technology-solutions-architect-associate-sf/"
+    },
+    {
+      "id": "15467",
+      "title": "Security Analysis and Penetration Testing (SF)",
+      "category": "Cybersecurity",
+      "certType": null,
+      "price": "$3,324.50",
+      "funding": "Eligible for funding",
+      "duration": "5 Days",
+      "wordpressUrl": "https://itel.com.sg/course/security-analysis-and-penetration-testing-sf/"
+    },
+    {
+      "id": "15355",
+      "title": "Information Systems Security (SF) (Synchronous e-learning)",
+      "category": "Cybersecurity",
+      "certType": null,
+      "price": "$3,270.00",
+      "funding": "Eligible for funding",
+      "duration": "5 Days",
+      "wordpressUrl": "https://itel.com.sg/course/information-systems-security-sf/"
+    },
+    {
+      "id": "15252",
+      "title": "Microsoft Certified: Azure Fundamentals (AZ-900)",
+      "category": "Cloud Computing & Virtualization",
+      "certType": null,
+      "price": "$817.50",
+      "funding": "Eligible for funding",
+      "duration": "1 Day",
+      "wordpressUrl": "https://itel.com.sg/course/microsoft-certified-azure-fundamentals-az-900/"
+    },
+    {
+      "id": "15070",
+      "title": "Microsoft Certified Azure Network Engineer Associate (AZ-700)",
+      "category": "Networking Infrastructure & Architecture",
+      "certType": null,
+      "price": "$2,452.50",
+      "funding": "Eligible for funding",
+      "duration": "3 Days",
+      "wordpressUrl": "https://itel.com.sg/course/microsoft-certified-azure-network-engineer-associate-az-700/"
+    },
+    {
+      "id": "13605",
+      "title": "Cyber Threat Intelligence Analyst (SF)",
+      "category": "Cybersecurity",
+      "certType": null,
+      "price": "$1,956.55",
+      "funding": "Eligible for funding",
+      "duration": "3 Days",
+      "wordpressUrl": "https://itel.com.sg/course/cyber-threat-intelligence-analyst-sf/"
+    },
+    {
+      "id": "13607",
+      "title": "Cyber Forensics Investigator (SF) Synchronous e-Learning",
+      "category": "Cybersecurity",
+      "certType": null,
+      "price": "$2,997.50",
+      "funding": "Eligible for funding",
+      "duration": "5 Days",
+      "wordpressUrl": "https://itel.com.sg/course/cyber-forensics-investigator-sf/"
+    },
+    {
+      "id": "13595",
+      "title": "Certified Ethical Hacker (CEH) (SF)",
+      "category": "Cybersecurity",
+      "certType": null,
+      "price": "$2,725.00",
+      "funding": "Eligible for funding",
+      "duration": "5 Days",
+      "wordpressUrl": "https://itel.com.sg/course/certified-ethical-hacker-ceh-sf/"
+    },
+    {
+      "id": "13504",
+      "title": "(SCTP) Advanced Certificate in Cyber Security",
+      "category": "Cybersecurity",
+      "certType": null,
+      "price": "$11,063.50",
+      "funding": "Eligible for funding",
+      "duration": "174 hours",
+      "wordpressUrl": "https://itel.com.sg/course/sctp-advanced-certificate-in-cyber-security/"
+    },
+    {
+      "id": "13030",
       "title": "Strategic Cyber Security Leadership (SF)",
       "category": "Cybersecurity",
       "certType": null,
@@ -211,7 +211,7 @@
       "wordpressUrl": "https://itel.com.sg/course/strategic-cyber-security-leadership/"
     },
     {
-      "id": "22",
+      "id": "12941",
       "title": "Cisco Certified Network Associate (CCNA) (SF)",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -221,7 +221,7 @@
       "wordpressUrl": "https://itel.com.sg/course/cisco-certified-network-associate-ccna-sf/"
     },
     {
-      "id": "23",
+      "id": "8857",
       "title": "DP-3028 Implement Generative AI engineering with Azure Databricks",
       "category": "AI & IoT",
       "certType": null,
@@ -231,7 +231,7 @@
       "wordpressUrl": "https://itel.com.sg/course/dp-3028-implement-generative-ai-engineering-with-azure-databricks/"
     },
     {
-      "id": "24",
+      "id": "8856",
       "title": "DP-3027 Implement a data engineering solution with Azure Databricks",
       "category": "AI & IoT",
       "certType": null,
@@ -241,7 +241,7 @@
       "wordpressUrl": "https://itel.com.sg/course/dp-3027-implement-a-data-engineering-azure/"
     },
     {
-      "id": "25",
+      "id": "8855",
       "title": "GH-200 Automate your workflow with GitHub Actions",
       "category": "Business Operations",
       "certType": null,
@@ -251,7 +251,7 @@
       "wordpressUrl": "https://itel.com.sg/course/gh-200-automate-your-workflow-with-github-actions/"
     },
     {
-      "id": "26",
+      "id": "5798",
       "title": "MS-4018 Draft, analyze, and present with Microsoft 365 Copilot",
       "category": "AI & IoT | Business Operations",
       "certType": null,
@@ -261,7 +261,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ms-4018-draft-analyze-and-present-with-microsoft-365-copilot/"
     },
     {
-      "id": "27",
+      "id": "6998",
       "title": "Advanced DevOps – Puppet, Terraform and Kubernetes",
       "category": "DevOps",
       "certType": null,
@@ -271,7 +271,7 @@
       "wordpressUrl": "https://itel.com.sg/course/advanced-devops-puppet-terraform-and-kubernetes/"
     },
     {
-      "id": "28",
+      "id": "7271",
       "title": "AZ-2007 Accelerate app development by using GitHub Copilot",
       "category": "AI & IoT | Mobile & App Technology",
       "certType": null,
@@ -281,7 +281,7 @@
       "wordpressUrl": "https://itel.com.sg/course/az-2007-accelerate-app-development-by-using-github-copilot/"
     },
     {
-      "id": "29",
+      "id": "7269",
       "title": "MS-4014 Build a foundation to extend Microsoft 365 Copilot",
       "category": "AI & IoT | IT Business Management & Strategy",
       "certType": null,
@@ -291,7 +291,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ms-4014-build-a-foundation-to-extend-microsoft-365-copilot/"
     },
     {
-      "id": "30",
+      "id": "6753",
       "title": "SC-401 Protect sensitive information with Microsoft Purview in the AI era",
       "category": "Cybersecurity",
       "certType": null,
@@ -301,17 +301,17 @@
       "wordpressUrl": "https://itel.com.sg/course/sc-401-information-security-administrator/"
     },
     {
-      "id": "31",
+      "id": "6843",
       "title": "CompTIA AI Essentials",
       "category": "AI & IoT",
       "certType": null,
-      "price": "$817.50",
+      "price": "Offer: $250, Original: $817.50",
       "funding": null,
       "duration": "1 Day",
       "wordpressUrl": "https://itel.com.sg/course/comptia-ai-essentials/"
     },
     {
-      "id": "32",
+      "id": "6836",
       "title": "DP-700 Microsoft Fabric Data Engineer",
       "category": "Big Data | Analytics | Database",
       "certType": null,
@@ -321,7 +321,7 @@
       "wordpressUrl": "https://itel.com.sg/course/dp-700-microsoft-fabric-data-engineer/"
     },
     {
-      "id": "33",
+      "id": "6824",
       "title": "Cross Platform Mobile App Development with .NET MAUI",
       "category": "AI & IoT",
       "certType": null,
@@ -331,7 +331,7 @@
       "wordpressUrl": "https://itel.com.sg/course/cross-platform-mobile-app-development-with-net-maui/"
     },
     {
-      "id": "34",
+      "id": "6823",
       "title": "VMWare Horizon 8: Deploy and Manage plus App Volumes Fast Track",
       "category": "Cloud Computing & Virtualization",
       "certType": null,
@@ -341,7 +341,7 @@
       "wordpressUrl": "https://itel.com.sg/course/vmware-horizon-8/"
     },
     {
-      "id": "35",
+      "id": "6465",
       "title": "AI-3026 Develop AI agents on Azure",
       "category": "AI & IoT",
       "certType": null,
@@ -351,7 +351,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ai-3026-develop-ai-agents-on-azure/"
     },
     {
-      "id": "36",
+      "id": "6373",
       "title": "EXIN SIAM Foundation",
       "category": "IT Business Management & Strategy",
       "certType": null,
@@ -361,7 +361,7 @@
       "wordpressUrl": "https://itel.com.sg/course/exin-siam-foundation/"
     },
     {
-      "id": "37",
+      "id": "6372",
       "title": "EXIN SIAM Professional",
       "category": "IT Business Management & Strategy",
       "certType": null,
@@ -371,7 +371,7 @@
       "wordpressUrl": "https://itel.com.sg/course/exin-siam-professional/"
     },
     {
-      "id": "38",
+      "id": "6311",
       "title": "VMware NSX: Troubleshooting and Operations [V4.x]",
       "category": "Cloud Computing & Virtualization",
       "certType": null,
@@ -381,7 +381,7 @@
       "wordpressUrl": "https://itel.com.sg/course/vmware-nsx-troubleshooting-and-operations-v4-x/"
     },
     {
-      "id": "39",
+      "id": "6216",
       "title": "VMware NSX: Install, Configure, Manage [V4.0]",
       "category": "Cloud Computing & Virtualization",
       "certType": null,
@@ -391,7 +391,7 @@
       "wordpressUrl": "https://itel.com.sg/course/vmware-nsx-install-configure-manage-v4/"
     },
     {
-      "id": "40",
+      "id": "5665",
       "title": "Cisco Certified Network Associate (CCNA) (SF) - (Synchronous e-learning)",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -401,7 +401,7 @@
       "wordpressUrl": "https://itel.com.sg/course/cisco-certified-network-associate-ccna-sf-synchronous-e-learning/"
     },
     {
-      "id": "41",
+      "id": "5275",
       "title": "EC-Council Certified Incident Handler (SF) - (Synchronous e-learning)",
       "category": "Cybersecurity",
       "certType": null,
@@ -411,7 +411,7 @@
       "wordpressUrl": "https://itel.com.sg/course/cyber-security-incident-handling-and-response-sf-synchronous-e-learning/"
     },
     {
-      "id": "42",
+      "id": "5279",
       "title": "Implementing Microsoft Azure Infrastructure Solutions (SF) - (Synchronous e-learning)",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -421,7 +421,7 @@
       "wordpressUrl": "https://itel.com.sg/course/implementing-microsoft-azure-infrastructure-solutions-e-learning/"
     },
     {
-      "id": "43",
+      "id": "5287",
       "title": "Microsoft Certified Solutions Associate (MCSA) – 20742 (SF) - (Synchronous e-learning)",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -431,7 +431,7 @@
       "wordpressUrl": "https://itel.com.sg/course/microsoft-certified-solutions-associate-mcsa-20742-sf-synchronous-e-learning/"
     },
     {
-      "id": "44",
+      "id": "5286",
       "title": "VMware Vsphere: Install, Configure, Manage (SF) - (Synchronous e-learning)",
       "category": "Cloud Computing & Virtualization",
       "certType": null,
@@ -441,7 +441,7 @@
       "wordpressUrl": "https://itel.com.sg/course/vmware-vsphere-install-configure-manage-sf-online/"
     },
     {
-      "id": "45",
+      "id": "5291",
       "title": "VMware Vsphere: Install, Configure, Manage (SF)",
       "category": "Cloud Computing & Virtualization",
       "certType": null,
@@ -451,7 +451,7 @@
       "wordpressUrl": "https://itel.com.sg/course/vmware-vsphere-install-configure-manage-sf/"
     },
     {
-      "id": "46",
+      "id": "5249",
       "title": "MS-4008 Microsoft 365 Interactive Experience for Executives",
       "category": "AI & IoT | Business Operations",
       "certType": null,
@@ -461,7 +461,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ms-4008-microsoft-365-interactive-experience-for-executives/"
     },
     {
-      "id": "47",
+      "id": "3912",
       "title": "MS-4017 Manage and extend Microsoft 365 Copilot",
       "category": "AI & IoT | Business Operations",
       "certType": null,
@@ -471,7 +471,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ms-4017-manage-and-extend-microsoft-365-copilot/"
     },
     {
-      "id": "48",
+      "id": "3928",
       "title": "MB-280T01 Configure Dynamics 365 customer experience model-driven apps",
       "category": "Business Operations",
       "certType": null,
@@ -481,7 +481,7 @@
       "wordpressUrl": "https://itel.com.sg/course/mb-280t01-configure-dynamics-365-customer-experience-model-driven-apps/"
     },
     {
-      "id": "49",
+      "id": "3930",
       "title": "MB-280T03 Design and deliver powerful customer experiences with Dynamics 365 Customer Insights",
       "category": "Business Operations",
       "certType": null,
@@ -491,7 +491,7 @@
       "wordpressUrl": "https://itel.com.sg/course/mb-280t03-design-and-deliver-powerful-customer-experiences-with-dynamics-365-customer-insights/"
     },
     {
-      "id": "50",
+      "id": "3929",
       "title": "MB-280T02 Empower sellers with Dynamics 365 Sales",
       "category": "Business Operations",
       "certType": null,
@@ -501,7 +501,7 @@
       "wordpressUrl": "https://itel.com.sg/course/mb-280t02-empower-sellers-with-dynamics-365-sales/"
     },
     {
-      "id": "51",
+      "id": "4481",
       "title": "AI-3025 Work smarter with AI",
       "category": "AI & IoT | Business Operations",
       "certType": null,
@@ -511,7 +511,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ai-3025-work-smarter-with-ai/"
     },
     {
-      "id": "52",
+      "id": "4480",
       "title": "AI-3024 Design a dream destination with AI",
       "category": "AI & IoT | Business Operations",
       "certType": null,
@@ -521,7 +521,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ai-3024-design-a-dream-destination-with-ai/"
     },
     {
-      "id": "53",
+      "id": "4257",
       "title": "DP-600 Implement analytics solutions using Microsoft Fabric",
       "category": "Big Data | Analytics | Database",
       "certType": null,
@@ -531,7 +531,7 @@
       "wordpressUrl": "https://itel.com.sg/course/dp-600-fabrics-analytics-engineer/"
     },
     {
-      "id": "54",
+      "id": "4248",
       "title": "AI-050 Develop Generative AI Solutions with Azure OpenAI Service",
       "category": "AI & IoT",
       "certType": null,
@@ -541,7 +541,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ai-050-develop-generative-ai-solutions-with-azure-openai-service/"
     },
     {
-      "id": "55",
+      "id": "4247",
       "title": "MS-4005 Craft effective prompts for Microsoft 365 Copilot",
       "category": "AI & IoT | Business Operations",
       "certType": null,
@@ -551,7 +551,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ms-4005-craft-effective-prompts-for-microsoft-365-copilot/"
     },
     {
-      "id": "56",
+      "id": "4246",
       "title": "MS-4004 Empower your workforce with Microsoft 365 Copilot Use Cases",
       "category": "AI & IoT | Business Operations",
       "certType": null,
@@ -561,7 +561,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ms-4004-empower-your-workforce-with-microsoft-365-copilot-use-cases/"
     },
     {
-      "id": "57",
+      "id": "3829",
       "title": "MS-4009 Extend Microsoft 365 Copilot with Copilot Studio actions and connectors",
       "category": "AI & IoT",
       "certType": null,
@@ -571,7 +571,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ms-4009-extend-microsoft-365-copilot-with-copilot-studio-actions-and-connectors/"
     },
     {
-      "id": "58",
+      "id": "3717",
       "title": "AZ-104 Microsoft Azure Administrator",
       "category": "Cloud Computing & Virtualization | Networking Infrastructure & Architecture",
       "certType": null,
@@ -581,7 +581,7 @@
       "wordpressUrl": "https://itel.com.sg/course/az-104-microsoft-azure-administrator/"
     },
     {
-      "id": "59",
+      "id": "3653",
       "title": "AZ-040 Automating Administration with PowerShell",
       "category": null,
       "certType": null,
@@ -591,7 +591,7 @@
       "wordpressUrl": "https://itel.com.sg/course/az-040-automating-administration-with-powershell/"
     },
     {
-      "id": "60",
+      "id": "3395",
       "title": "MS-4007 Microsoft 365 Copilot User Enablement Specialist",
       "category": "Business Operations",
       "certType": null,
@@ -601,7 +601,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ms-4007-microsoft-365-copilot-user-enablement-specialist/"
     },
     {
-      "id": "61",
+      "id": "1857",
       "title": "Data Science and Machine Learning (SF)",
       "category": "Big Data | Analytics | Database",
       "certType": null,
@@ -611,7 +611,7 @@
       "wordpressUrl": "https://itel.com.sg/course/data-science-and-machine-learning-sf/"
     },
     {
-      "id": "62",
+      "id": "2622",
       "title": "PRINCE2® Foundation Certificate in Project Management",
       "category": "IT Business Management & Strategy",
       "certType": null,
@@ -621,7 +621,7 @@
       "wordpressUrl": "https://itel.com.sg/course/prince2-foundation-certificate-in-project-management/"
     },
     {
-      "id": "63",
+      "id": "3340",
       "title": "Microsoft Certified Solutions Associate (MCSA) – 20742 (SF)",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -631,7 +631,7 @@
       "wordpressUrl": "https://itel.com.sg/course/microsoft-certified-solutions-associate-mcsa-20742/"
     },
     {
-      "id": "64",
+      "id": "3339",
       "title": "Microsoft Certified Solutions Associate (MCSA) – 20741 (SF)",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -641,7 +641,7 @@
       "wordpressUrl": "https://itel.com.sg/course/microsoft-certified-solutions-associate-mcsa-20741/"
     },
     {
-      "id": "65",
+      "id": "3319",
       "title": "Microsoft Certified Solutions Associate (MCSA) – 20740 (SF)",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -651,7 +651,7 @@
       "wordpressUrl": "https://itel.com.sg/course/microsoft-certified-solutions-associate-mcsa-20740-sf/"
     },
     {
-      "id": "66",
+      "id": "3320",
       "title": "Fortigate 7.2 Security",
       "category": "Cybersecurity",
       "certType": null,
@@ -661,7 +661,7 @@
       "wordpressUrl": "https://itel.com.sg/course/fortigate-7-2-security/"
     },
     {
-      "id": "67",
+      "id": "3230",
       "title": "DP-3014 Implementing a Machine Learning Solution with Azure Databricks",
       "category": "Big Data | Analytics | Database | Cloud Computing & Virtualization",
       "certType": null,
@@ -671,7 +671,7 @@
       "wordpressUrl": "https://itel.com.sg/course/dp-3014-implementing-a-machine-learning-solution-with-azure-databricks/"
     },
     {
-      "id": "68",
+      "id": "3229",
       "title": "DP-3011 Implementing a Data Analytics Solution with Azure Databricks",
       "category": "Big Data | Analytics | Database | Cloud Computing & Virtualization",
       "certType": null,
@@ -681,7 +681,7 @@
       "wordpressUrl": "https://itel.com.sg/course/dp-3011-implementing-a-dataanalytics-solution-with-azuredatabricks/"
     },
     {
-      "id": "69",
+      "id": "3228",
       "title": "DP-900 Microsoft Azure Data Fundamentals",
       "category": "Cloud Computing & Virtualization",
       "certType": null,
@@ -691,7 +691,7 @@
       "wordpressUrl": "https://itel.com.sg/course/dp-900-microsoft-azure-data-fundamentals/"
     },
     {
-      "id": "70",
+      "id": "3160",
       "title": "PRINCE2® Practitioner Certificate in Project Management",
       "category": "IT Business Management & Strategy",
       "certType": null,
@@ -701,7 +701,7 @@
       "wordpressUrl": "https://itel.com.sg/course/prince2-practitioner-certificate-in-project-management/"
     },
     {
-      "id": "71",
+      "id": "2604",
       "title": "ITIL 4 Specialist: High Velocity IT",
       "category": "IT Business Management & Strategy",
       "certType": null,
@@ -711,17 +711,17 @@
       "wordpressUrl": "https://itel.com.sg/course/itil-4-specialist-high-velocity-it/"
     },
     {
-      "id": "72",
+      "id": "2624",
       "title": "ChatGPT for Business Professional",
       "category": "AI & IoT",
       "certType": null,
-      "price": "$1500.00",
+      "price": "Offer: $500, Original: $1500.00",
       "funding": null,
       "duration": "2 Days",
       "wordpressUrl": "https://itel.com.sg/course/chatgpt-for-business-professional/"
     },
     {
-      "id": "73",
+      "id": "2606",
       "title": "TOGAF 9.1 Level 2 (Certified)",
       "category": "IT Business Management & Strategy",
       "certType": null,
@@ -731,7 +731,7 @@
       "wordpressUrl": "https://itel.com.sg/course/togaf-9-1-level-2-certified/"
     },
     {
-      "id": "74",
+      "id": "2605",
       "title": "TOGAF 9.1 Level 1 Foundation",
       "category": "IT Business Management & Strategy",
       "certType": null,
@@ -741,7 +741,7 @@
       "wordpressUrl": "https://itel.com.sg/course/togaf-9-1-level-1-foundation/"
     },
     {
-      "id": "75",
+      "id": "2616",
       "title": "ITIL 4 Leader: Digital &amp; IT Strategy",
       "category": "IT Business Management & Strategy",
       "certType": null,
@@ -751,7 +751,7 @@
       "wordpressUrl": "https://itel.com.sg/course/itil-4-leader-digital-it-strategy/"
     },
     {
-      "id": "76",
+      "id": "2614",
       "title": "ITIL 4 Specialist: Drive Stakeholder Value",
       "category": "IT Business Management & Strategy",
       "certType": null,
@@ -761,7 +761,7 @@
       "wordpressUrl": "https://itel.com.sg/course/itil-4-specialist-drive-stakeholder-value/"
     },
     {
-      "id": "77",
+      "id": "2597",
       "title": "Microsoft Excel Visual Basic Applications (VBA)",
       "category": "Business Operations",
       "certType": null,
@@ -771,7 +771,7 @@
       "wordpressUrl": "https://itel.com.sg/course/microsoft-excel-visual-basic-applications-vba/"
     },
     {
-      "id": "78",
+      "id": "2593",
       "title": "MS Project 2019: Level 2",
       "category": "Business Operations",
       "certType": null,
@@ -781,7 +781,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ms-project-2019-level-2/"
     },
     {
-      "id": "79",
+      "id": "2568",
       "title": "MS Project 2019: Level 1",
       "category": "Business Operations",
       "certType": null,
@@ -791,7 +791,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ms-project-2019-level-1/"
     },
     {
-      "id": "80",
+      "id": "2957",
       "title": "PowerPoint 2019: Level 2",
       "category": "Business Operations",
       "certType": null,
@@ -801,7 +801,7 @@
       "wordpressUrl": "https://itel.com.sg/course/powerpoint-2019-level-2/"
     },
     {
-      "id": "81",
+      "id": "2555",
       "title": "Visio 2019: Level 2",
       "category": "Business Operations",
       "certType": null,
@@ -811,7 +811,7 @@
       "wordpressUrl": "https://itel.com.sg/course/visio-2019-level-2/"
     },
     {
-      "id": "82",
+      "id": "2554",
       "title": "Visio 2019: Level 1",
       "category": "Business Operations",
       "certType": null,
@@ -821,7 +821,7 @@
       "wordpressUrl": "https://itel.com.sg/course/visio-2019-level-1/"
     },
     {
-      "id": "83",
+      "id": "2625",
       "title": "Word 2019 – Level 2",
       "category": "Business Operations",
       "certType": null,
@@ -831,7 +831,7 @@
       "wordpressUrl": "https://itel.com.sg/course/word-2019-level-2/"
     },
     {
-      "id": "84",
+      "id": "2626",
       "title": "Word 2019 – Level 3",
       "category": "Business Operations",
       "certType": null,
@@ -841,7 +841,7 @@
       "wordpressUrl": "https://itel.com.sg/course/word-2019-level-3/"
     },
     {
-      "id": "85",
+      "id": "2955",
       "title": "MB-340 Microsoft Dynamics 365 Commerce Functional Consultant",
       "category": "Business Operations",
       "certType": null,
@@ -851,7 +851,7 @@
       "wordpressUrl": "https://itel.com.sg/course/mb-340-microsoft-dynamics-365-commerce-functional-consultant/"
     },
     {
-      "id": "86",
+      "id": "2553",
       "title": "MS-050 SharePoint Hybrid Deployment and Migration",
       "category": "Business Operations",
       "certType": null,
@@ -861,7 +861,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ms-050-sharepoint-hybrid-deployment-and-migration/"
     },
     {
-      "id": "87",
+      "id": "2552",
       "title": "MS-740 Troubleshooting Microsoft Teams",
       "category": "Business Operations",
       "certType": null,
@@ -871,7 +871,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ms-740-troubleshooting-microsoft-teams/"
     },
     {
-      "id": "88",
+      "id": "2550",
       "title": "MS-220 Troubleshoot Microsoft Exchange Online",
       "category": "Business Operations",
       "certType": null,
@@ -881,7 +881,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ms-220-troubleshoot-microsoft-exchange-online/"
     },
     {
-      "id": "89",
+      "id": "2608",
       "title": "CISM: Certified Information Security Manager",
       "category": "Cybersecurity",
       "certType": null,
@@ -891,7 +891,7 @@
       "wordpressUrl": "https://itel.com.sg/course/cism-certified-information-security-manager/"
     },
     {
-      "id": "90",
+      "id": "2549",
       "title": "CKAD: Certified Kubernetes Application Developer",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -901,7 +901,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ckad-certified-kubernetes-application-developer/"
     },
     {
-      "id": "91",
+      "id": "2548",
       "title": "CKA: Certified Kubernetes Administrator",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -911,7 +911,7 @@
       "wordpressUrl": "https://itel.com.sg/course/cka-certified-kubernetes-administrator/"
     },
     {
-      "id": "92",
+      "id": "2261",
       "title": "DCNX: Implementing Cisco NX-OS Switches and Fabrics in the Data Centre",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -921,7 +921,7 @@
       "wordpressUrl": "https://itel.com.sg/course/dcnx-implementing-cisco-nx-os-switches-and-fabrics-in-the-data-centre/"
     },
     {
-      "id": "93",
+      "id": "2939",
       "title": "55238 SharePoint Online for Administrators",
       "category": "Business Operations | Networking Infrastructure & Architecture",
       "certType": null,
@@ -931,7 +931,7 @@
       "wordpressUrl": "https://itel.com.sg/course/55238-sharepoint-online-for-administrators/"
     },
     {
-      "id": "94",
+      "id": "2281",
       "title": "Certified Cloud Security Engineer (CCSE)",
       "category": "Cloud Computing & Virtualization | Cybersecurity",
       "certType": null,
@@ -941,7 +941,7 @@
       "wordpressUrl": "https://itel.com.sg/course/certified-cloud-security-engineer-ccse/"
     },
     {
-      "id": "95",
+      "id": "2190",
       "title": "PL-500 Microsoft Power Automate RPA Developer",
       "category": "Mobile & App Technology",
       "certType": null,
@@ -951,7 +951,7 @@
       "wordpressUrl": "https://itel.com.sg/course/pl-500-microsoft-power-automate-rpa-developer/"
     },
     {
-      "id": "96",
+      "id": "2189",
       "title": "Adobe InDesign Complete Level 2",
       "category": "Business Operations",
       "certType": null,
@@ -961,7 +961,7 @@
       "wordpressUrl": "https://itel.com.sg/course/adobe-indesign-complete-level-2/"
     },
     {
-      "id": "97",
+      "id": "2186",
       "title": "Adobe InDesign Complete Level 1",
       "category": "Business Operations",
       "certType": null,
@@ -971,7 +971,7 @@
       "wordpressUrl": "https://itel.com.sg/course/adobe-indesign-complete-level-1/"
     },
     {
-      "id": "98",
+      "id": "2183",
       "title": "Adobe Photoshop Complete Level 2",
       "category": "Business Operations",
       "certType": null,
@@ -981,7 +981,7 @@
       "wordpressUrl": "https://itel.com.sg/course/adobe-photoshop-complete-level-2/"
     },
     {
-      "id": "99",
+      "id": "2182",
       "title": "Adobe Photoshop Complete Level 1",
       "category": "Business Operations",
       "certType": null,
@@ -991,7 +991,7 @@
       "wordpressUrl": "https://itel.com.sg/course/adobe-photoshop-complete-level-1/"
     },
     {
-      "id": "100",
+      "id": "2181",
       "title": "Adobe Illustrator Complete Level 2",
       "category": "Business Operations",
       "certType": null,
@@ -1001,7 +1001,7 @@
       "wordpressUrl": "https://itel.com.sg/course/adobe-illustrator-complete-level-2/"
     },
     {
-      "id": "101",
+      "id": "2180",
       "title": "Adobe Illustrator Complete Level 1",
       "category": "Business Operations",
       "certType": null,
@@ -1011,7 +1011,7 @@
       "wordpressUrl": "https://itel.com.sg/course/adobe-illustrator-complete-level-1/"
     },
     {
-      "id": "102",
+      "id": "2179",
       "title": "MB-330 Microsoft Dynamics 365 Supply Chain Management - Functional Consultant",
       "category": "Business Operations",
       "certType": null,
@@ -1021,7 +1021,7 @@
       "wordpressUrl": "https://itel.com.sg/course/mb-330-microsoft-dynamics-365-supply-chain-management-functional-consultant/"
     },
     {
-      "id": "103",
+      "id": "2173",
       "title": "MB-500 Develop Finance and Operations Apps with Dynamics 365",
       "category": "Business Operations",
       "certType": null,
@@ -1031,7 +1031,7 @@
       "wordpressUrl": "https://itel.com.sg/course/mb-500-microsoft-dynamics-365-finance-and-operations-apps-developer/"
     },
     {
-      "id": "104",
+      "id": "2168",
       "title": "MB-700 Architect Solutions for Microsoft Dynamics 365 Finance and Operations Apps",
       "category": "Business Operations",
       "certType": null,
@@ -1041,7 +1041,7 @@
       "wordpressUrl": "https://itel.com.sg/course/mb-700-microsoft-365-finance-and-operations-apps-solution-architect/"
     },
     {
-      "id": "105",
+      "id": "2167",
       "title": "MB-800 Microsoft Dynamics 365 Business Central Functional Consultant",
       "category": "Business Operations",
       "certType": null,
@@ -1051,7 +1051,7 @@
       "wordpressUrl": "https://itel.com.sg/course/mb-800-microsoft-dynamics-365-business-central-functional-consultant/"
     },
     {
-      "id": "106",
+      "id": "2164",
       "title": "MB-320 Microsoft Dynamics 365 Supply Chain, Management, Manufacturing",
       "category": "Business Operations",
       "certType": null,
@@ -1061,7 +1061,7 @@
       "wordpressUrl": "https://itel.com.sg/course/mb-320-microsoft-dynamics-365-supply-chain-management-manufacturing/"
     },
     {
-      "id": "107",
+      "id": "2163",
       "title": "MB-310 Microsoft Dynamics 365 Finance",
       "category": "Business Operations",
       "certType": null,
@@ -1071,7 +1071,7 @@
       "wordpressUrl": "https://itel.com.sg/course/mb-310-microsoft-dynamics-365-finance/"
     },
     {
-      "id": "108",
+      "id": "2086",
       "title": "AZ-220 Microsoft Azure IoT Developer",
       "category": "AI & IoT",
       "certType": null,
@@ -1081,7 +1081,7 @@
       "wordpressUrl": "https://itel.com.sg/course/az-220-microsoft-azure-iot-developer/"
     },
     {
-      "id": "109",
+      "id": "2084",
       "title": "DP-420 Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB",
       "category": "Mobile & App Technology",
       "certType": null,
@@ -1091,7 +1091,7 @@
       "wordpressUrl": "https://itel.com.sg/course/dp-420-designing-and-implementing-cloud-native-applications-using-microsoft-azure-cosmos-db/"
     },
     {
-      "id": "110",
+      "id": "2080",
       "title": "MB-300 Microsoft Dynamics 365: Core Finance and Operations",
       "category": "Business Operations",
       "certType": null,
@@ -1101,7 +1101,7 @@
       "wordpressUrl": "https://itel.com.sg/course/mb-300-microsoft-dynamics-365-core-finance-and-operations/"
     },
     {
-      "id": "111",
+      "id": "2068",
       "title": "MB-240 Microsoft Dynamics 365 Field Service",
       "category": "Business Operations",
       "certType": null,
@@ -1111,7 +1111,7 @@
       "wordpressUrl": "https://itel.com.sg/course/mb-240-microsoft-dynamics-365-field-service/"
     },
     {
-      "id": "112",
+      "id": "2067",
       "title": "MB-920 Microsoft Dynamics 365 Fundamentals (ERP)",
       "category": "Business Operations",
       "certType": null,
@@ -1121,7 +1121,7 @@
       "wordpressUrl": "https://itel.com.sg/course/mb-920-microsoft-dynamics-365-fundamentals-erp/"
     },
     {
-      "id": "113",
+      "id": "2066",
       "title": "MB-910 Microsoft Dynamics 365 Fundamentals (CRM)",
       "category": "Business Operations",
       "certType": null,
@@ -1131,7 +1131,7 @@
       "wordpressUrl": "https://itel.com.sg/course/mb-910-microsoft-dynamics-365-fundamentals-crm/"
     },
     {
-      "id": "114",
+      "id": "2060",
       "title": "Xamarin Mobile Application Development for iOS and Android",
       "category": "Mobile & App Technology",
       "certType": null,
@@ -1141,7 +1141,7 @@
       "wordpressUrl": "https://itel.com.sg/course/xamarin-mobile-application-development-for-ios-and-android/"
     },
     {
-      "id": "115",
+      "id": "2059",
       "title": "AZ-600 Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub",
       "category": "Cloud Computing & Virtualization",
       "certType": null,
@@ -1151,7 +1151,7 @@
       "wordpressUrl": "https://itel.com.sg/course/az-600-configuring-and-operating-a-hybrid-cloud-with-microsoft-azure-stack-hub/"
     },
     {
-      "id": "116",
+      "id": "2058",
       "title": "SC-200 Defend against cyberthreats with Microsoft’s security operations platform",
       "category": "Cybersecurity",
       "certType": null,
@@ -1161,7 +1161,7 @@
       "wordpressUrl": "https://itel.com.sg/course/sc-200-microsoft-security-operations-analyst/"
     },
     {
-      "id": "117",
+      "id": "2056",
       "title": "SC-300 Microsoft Identity and Access Administrator",
       "category": "Cloud Computing & Virtualization",
       "certType": null,
@@ -1171,7 +1171,7 @@
       "wordpressUrl": "https://itel.com.sg/course/sc-300-microsoft-identity-and-access-administrator/"
     },
     {
-      "id": "118",
+      "id": "2052",
       "title": "Lean Six Sigma Black Belt",
       "category": "IT Business Management & Strategy",
       "certType": null,
@@ -1181,7 +1181,7 @@
       "wordpressUrl": "https://itel.com.sg/course/lean-six-sigma-black-belt/"
     },
     {
-      "id": "119",
+      "id": "2050",
       "title": "MB-230 Microsoft Dynamics 365 Customer Service",
       "category": "Business Operations",
       "certType": null,
@@ -1191,7 +1191,7 @@
       "wordpressUrl": "https://itel.com.sg/course/mb-230-microsoft-dynamics-365-customer-service/"
     },
     {
-      "id": "120",
+      "id": "2049",
       "title": "Lean Six Sigma Green Belt",
       "category": "IT Business Management & Strategy",
       "certType": null,
@@ -1201,7 +1201,7 @@
       "wordpressUrl": "https://itel.com.sg/course/lean-six-sigma-green-belt/"
     },
     {
-      "id": "121",
+      "id": "2047",
       "title": "SC-100 Microsoft Cybersecurity Architect",
       "category": "Cybersecurity",
       "certType": null,
@@ -1211,7 +1211,7 @@
       "wordpressUrl": "https://itel.com.sg/course/sc-100-microsoft-cybersecurity-architect/"
     },
     {
-      "id": "122",
+      "id": "2048",
       "title": "Excel Dashboard 2016",
       "category": "Business Operations",
       "certType": null,
@@ -1221,7 +1221,7 @@
       "wordpressUrl": "https://itel.com.sg/course/excel-dashboard-2016/"
     },
     {
-      "id": "123",
+      "id": "2046",
       "title": "Microsoft Office Specialist (MOS) Excel 2019 Expert",
       "category": "Business Operations",
       "certType": null,
@@ -1231,7 +1231,7 @@
       "wordpressUrl": "https://itel.com.sg/course/microsoft-office-specialist-mos-excel-2019-expert/"
     },
     {
-      "id": "124",
+      "id": "2045",
       "title": "Microsoft Office Specialist (MOS) Excel 2019",
       "category": "Business Operations",
       "certType": null,
@@ -1241,7 +1241,7 @@
       "wordpressUrl": "https://itel.com.sg/course/microsoft-office-specialist-mos-excel-2019/"
     },
     {
-      "id": "125",
+      "id": "2041",
       "title": "SC-900 Microsoft Security, Compliance, and Identity Fundamentals",
       "category": "Cybersecurity",
       "certType": null,
@@ -1251,7 +1251,7 @@
       "wordpressUrl": "https://itel.com.sg/course/sc-900-microsoft-security-compliance-and-identity-fundamentals/"
     },
     {
-      "id": "126",
+      "id": "2040",
       "title": "MS-720 Microsoft Teams Voice Engineer",
       "category": "Business Operations",
       "certType": null,
@@ -1261,7 +1261,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ms-720-microsoft-teams-voice-engineer/"
     },
     {
-      "id": "127",
+      "id": "2037",
       "title": "DP-500 Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI",
       "category": "Big Data | Analytics | Database",
       "certType": null,
@@ -1271,7 +1271,7 @@
       "wordpressUrl": "https://itel.com.sg/course/dp-500-designing-and-implementing-enterprise-scale-analytics-solutions-using-microsoft-azure-and-microsoft-power-bi/"
     },
     {
-      "id": "128",
+      "id": "2039",
       "title": "MS-700 Managing Microsoft Teams",
       "category": "Business Operations",
       "certType": null,
@@ -1281,7 +1281,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ms-700-managing-microsoft-teams/"
     },
     {
-      "id": "129",
+      "id": "2038",
       "title": "MS-600 Building applications and solutions with Microsoft 365 core services",
       "category": "Business Operations",
       "certType": null,
@@ -1291,7 +1291,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ms-600-building-applications-and-solutions-with-microsoft-365-core-services/"
     },
     {
-      "id": "130",
+      "id": "2036",
       "title": "MS-500 Microsoft 365 Security Administration",
       "category": "Business Operations",
       "certType": null,
@@ -1301,7 +1301,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ms-500-microsoft-365-security-administration/"
     },
     {
-      "id": "131",
+      "id": "2035",
       "title": "MS-203 Microsoft 365 Messaging",
       "category": "Business Operations",
       "certType": null,
@@ -1311,7 +1311,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ms-203-microsoft-365-messaging/"
     },
     {
-      "id": "132",
+      "id": "2034",
       "title": "MD-102: Microsoft 365 Endpoint Administrator",
       "category": "Business Operations",
       "certType": null,
@@ -1321,7 +1321,7 @@
       "wordpressUrl": "https://itel.com.sg/course/md-102-microsoft-365-endpoint-administrator/"
     },
     {
-      "id": "133",
+      "id": "2026",
       "title": "CompTIA Cloud+",
       "category": "Cloud Computing & Virtualization",
       "certType": null,
@@ -1331,7 +1331,7 @@
       "wordpressUrl": "https://itel.com.sg/course/comptia-cloud/"
     },
     {
-      "id": "134",
+      "id": "1997",
       "title": "PL-300 Microsoft Power BI Data Analyst",
       "category": "Big Data | Analytics | Database",
       "certType": null,
@@ -1341,7 +1341,7 @@
       "wordpressUrl": "https://itel.com.sg/course/pl-300-microsoft-power-bi-data-analyst/"
     },
     {
-      "id": "135",
+      "id": "1979",
       "title": "DP-300 Administering Microsoft Azure SQL Solutions",
       "category": "Big Data | Analytics | Database",
       "certType": null,
@@ -1351,7 +1351,7 @@
       "wordpressUrl": "https://itel.com.sg/course/dp-300-administering-microsoft-azure-sql-solutions/"
     },
     {
-      "id": "136",
+      "id": "1963",
       "title": "Office 365 for End Users",
       "category": "Business Operations",
       "certType": null,
@@ -1361,7 +1361,7 @@
       "wordpressUrl": "https://itel.com.sg/course/office-365-for-end-users/"
     },
     {
-      "id": "137",
+      "id": "1960",
       "title": "PowerPoint 2019: Level 1",
       "category": "Business Operations",
       "certType": null,
@@ -1371,7 +1371,7 @@
       "wordpressUrl": "https://itel.com.sg/course/powerpoint-2019-level-1/"
     },
     {
-      "id": "138",
+      "id": "1957",
       "title": "Access 2019: Level 2",
       "category": "Business Operations",
       "certType": null,
@@ -1381,7 +1381,7 @@
       "wordpressUrl": "https://itel.com.sg/course/access-2019-level-2/"
     },
     {
-      "id": "139",
+      "id": "1956",
       "title": "Access 2019: Level 1",
       "category": "Business Operations",
       "certType": null,
@@ -1391,7 +1391,7 @@
       "wordpressUrl": "https://itel.com.sg/course/access-2019-level-1/"
     },
     {
-      "id": "140",
+      "id": "1953",
       "title": "AZ-400 Designing and Implementing Microsoft DevOps Solutions",
       "category": "DevOps",
       "certType": null,
@@ -1401,7 +1401,7 @@
       "wordpressUrl": "https://itel.com.sg/course/az-400-designing-and-implementing-microsoft-devops-solutions/"
     },
     {
-      "id": "141",
+      "id": "1952",
       "title": "CISA: Certified Information Systems Auditor",
       "category": "Cybersecurity",
       "certType": null,
@@ -1411,7 +1411,7 @@
       "wordpressUrl": "https://itel.com.sg/course/cisa-certified-information-systems-auditor/"
     },
     {
-      "id": "142",
+      "id": "1950",
       "title": "AZ-120 Planning and Administering Microsoft Azure for SAP Workloads",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -1421,7 +1421,7 @@
       "wordpressUrl": "https://itel.com.sg/course/az-120-planning-and-administering-microsoft-azure-for-sap-workloads/"
     },
     {
-      "id": "143",
+      "id": "1942",
       "title": "Outlook 2019: Level 2",
       "category": "Business Operations",
       "certType": null,
@@ -1431,7 +1431,7 @@
       "wordpressUrl": "https://itel.com.sg/course/outlook-2019-level-2/"
     },
     {
-      "id": "144",
+      "id": "1941",
       "title": "Outlook 2019: Level 1",
       "category": "Business Operations",
       "certType": null,
@@ -1441,7 +1441,7 @@
       "wordpressUrl": "https://itel.com.sg/course/outlook-2019-level-1/"
     },
     {
-      "id": "145",
+      "id": "1629",
       "title": "AZ-204 Developing Solutions for Microsoft Azure",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -1451,7 +1451,7 @@
       "wordpressUrl": "https://itel.com.sg/course/az-204-developing-solutions-for-microsoft-azure/"
     },
     {
-      "id": "146",
+      "id": "1628",
       "title": "ENAUI: Implementing Automation for Cisco Enterprise Solutions",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -1461,7 +1461,7 @@
       "wordpressUrl": "https://itel.com.sg/course/enaui-implementing-automation-for-cisco-enterprise-solutions/"
     },
     {
-      "id": "147",
+      "id": "1624",
       "title": "ENWLSI: Implementing Cisco Enterprise Wireless Networks",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -1471,7 +1471,7 @@
       "wordpressUrl": "https://itel.com.sg/course/enwlsi-implementing-cisco-enterprise-wireless-networks/"
     },
     {
-      "id": "148",
+      "id": "1615",
       "title": "ENSLD: Designing Cisco Enterprise Networks",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -1481,7 +1481,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ensld-designing-cisco-enterprise-networks/"
     },
     {
-      "id": "149",
+      "id": "1608",
       "title": "ENSDWI: Implementing Cisco SD-WAN Solutions",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -1491,7 +1491,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ensdwi-implementing-cisco-sd-wan-solutions/"
     },
     {
-      "id": "150",
+      "id": "1794",
       "title": "CompTIA Advanced Security Practitioner (CASP)",
       "category": "Cybersecurity",
       "certType": null,
@@ -1501,7 +1501,7 @@
       "wordpressUrl": "https://itel.com.sg/course/comptia-advanced-security-practitioner-casp/"
     },
     {
-      "id": "151",
+      "id": "1607",
       "title": "ENWLSD: Designing Cisco Enterprise Wireless Networks",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -1511,7 +1511,7 @@
       "wordpressUrl": "https://itel.com.sg/course/enwlsd-designing-cisco-enterprise-wireless-networks/"
     },
     {
-      "id": "152",
+      "id": "1791",
       "title": "CompTIA CyberSecurity Analyst (CySA+)",
       "category": "Cybersecurity",
       "certType": null,
@@ -1521,7 +1521,7 @@
       "wordpressUrl": "https://itel.com.sg/course/comptia-cybersecurity-analyst-cysa/"
     },
     {
-      "id": "153",
+      "id": "1606",
       "title": "ENARSI: Implementing Cisco Enterprise Advanced Routing and Services",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -1531,7 +1531,7 @@
       "wordpressUrl": "https://itel.com.sg/course/enarsi-implementing-cisco-enterprise-advanced-routing-and-services/"
     },
     {
-      "id": "154",
+      "id": "1678",
       "title": "AZ-305 Designing Microsoft Azure Infrastructure Solutions",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -1541,7 +1541,7 @@
       "wordpressUrl": "https://itel.com.sg/course/az-305-designing-microsoft-azure-infrastructure-solutions/"
     },
     {
-      "id": "155",
+      "id": "1605",
       "title": "ENCOR: Implementing and Operating Cisco Enterprise Network Core Technologies",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -1551,7 +1551,7 @@
       "wordpressUrl": "https://itel.com.sg/course/encor-implementing-and-operating-cisco-enterprise-network-core-technologies/"
     },
     {
-      "id": "156",
+      "id": "1680",
       "title": "AZ-800 Administering Windows Server Hybrid Core Infrastructure",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -1561,7 +1561,7 @@
       "wordpressUrl": "https://itel.com.sg/course/az-800-administering-windows-server-hybrid-core-infrastructure/"
     },
     {
-      "id": "157",
+      "id": "1564",
       "title": "SUSE Linux Enterprise Server 15 Administration",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -1571,7 +1571,7 @@
       "wordpressUrl": "https://itel.com.sg/course/suse-linux-enterprise-server-15-administration/"
     },
     {
-      "id": "158",
+      "id": "1563",
       "title": "AWS SysOps Administrator Certification Bootcamp (Associate Level)",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -1581,7 +1581,7 @@
       "wordpressUrl": "https://itel.com.sg/course/aws-sysops-administrator-certification-bootcamp-associate-level/"
     },
     {
-      "id": "159",
+      "id": "1856",
       "title": "Word 2019: Level 1",
       "category": "Business Operations",
       "certType": null,
@@ -1591,7 +1591,7 @@
       "wordpressUrl": "https://itel.com.sg/course/word-2019-level-1/"
     },
     {
-      "id": "160",
+      "id": "1854",
       "title": "Excel 2019: Level 3",
       "category": "Business Operations",
       "certType": null,
@@ -1601,7 +1601,7 @@
       "wordpressUrl": "https://itel.com.sg/course/excel-2019-level-3/"
     },
     {
-      "id": "161",
+      "id": "1851",
       "title": "Excel 2019: Level 2",
       "category": "Business Operations",
       "certType": null,
@@ -1611,7 +1611,7 @@
       "wordpressUrl": "https://itel.com.sg/course/excel-2019-level-2/"
     },
     {
-      "id": "162",
+      "id": "1847",
       "title": "Excel 2019: Level 1",
       "category": "Business Operations",
       "certType": null,
@@ -1621,7 +1621,7 @@
       "wordpressUrl": "https://itel.com.sg/course/excel-2019-level-1/"
     },
     {
-      "id": "163",
+      "id": "1806",
       "title": "PL-200 Microsoft Power Platform Functional Consultant",
       "category": "Mobile & App Technology",
       "certType": null,
@@ -1631,7 +1631,7 @@
       "wordpressUrl": "https://itel.com.sg/course/pl-200-microsoft-power-platform-functional-consultant-kiv/"
     },
     {
-      "id": "164",
+      "id": "1839",
       "title": "EC-Council Certified Secure Programmer (Java)",
       "category": "Programming",
       "certType": null,
@@ -1641,7 +1641,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ec-council-certified-secure-programmer-java/"
     },
     {
-      "id": "165",
+      "id": "1529",
       "title": "CompTIA Linux+",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -1651,7 +1651,7 @@
       "wordpressUrl": "https://itel.com.sg/course/comptia-linux-certification/"
     },
     {
-      "id": "166",
+      "id": "1458",
       "title": "CompTIA IT Fundamentals (ITF+)",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -1661,7 +1661,7 @@
       "wordpressUrl": "https://itel.com.sg/course/comptia-it-fundamentals/"
     },
     {
-      "id": "167",
+      "id": "1809",
       "title": "AI-102 Designing and Implementing a Microsoft Azure AI Solution",
       "category": "AI & IoT",
       "certType": null,
@@ -1671,7 +1671,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ai-102-designing-and-implementing-a-microsoft-azure-ai-solution/"
     },
     {
-      "id": "168",
+      "id": "1802",
       "title": "PL-400 Microsoft Power Platform Developer",
       "category": "Mobile & App Technology",
       "certType": null,
@@ -1681,7 +1681,7 @@
       "wordpressUrl": "https://itel.com.sg/course/pl-400-microsoft-power-platform-developer/"
     },
     {
-      "id": "169",
+      "id": "1807",
       "title": "CompTIA Server+",
       "category": "Cloud Computing & Virtualization",
       "certType": null,
@@ -1691,7 +1691,7 @@
       "wordpressUrl": "https://itel.com.sg/course/comptia-server/"
     },
     {
-      "id": "170",
+      "id": "1804",
       "title": "PL-100 Microsoft Power Platform App Maker",
       "category": "Mobile & App Technology",
       "certType": null,
@@ -1701,7 +1701,7 @@
       "wordpressUrl": "https://itel.com.sg/course/pl-100-microsoft-power-platform-app-maker/"
     },
     {
-      "id": "171",
+      "id": "1805",
       "title": "AI-900 Microsoft Azure AI Fundamentals",
       "category": "AI & IoT",
       "certType": null,
@@ -1711,7 +1711,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ai-900-microsoft-azure-ai-fundamentals/"
     },
     {
-      "id": "172",
+      "id": "1800",
       "title": "DevOps Foundation",
       "category": "DevOps",
       "certType": null,
@@ -1721,7 +1721,7 @@
       "wordpressUrl": "https://itel.com.sg/course/devops-foundation/"
     },
     {
-      "id": "173",
+      "id": "1799",
       "title": "PL-900 Microsoft Power Platform Fundamental",
       "category": "Big Data | Analytics | Database",
       "certType": null,
@@ -1731,7 +1731,7 @@
       "wordpressUrl": "https://itel.com.sg/course/pl-900-microsoft-power-platform-fundamental/"
     },
     {
-      "id": "174",
+      "id": "1798",
       "title": "ITIL 4 Strategist: Direct, Plan and Improve (DPI)",
       "category": "IT Business Management & Strategy",
       "certType": null,
@@ -1741,7 +1741,7 @@
       "wordpressUrl": "https://itel.com.sg/course/itil-strategist-direct-plan-and-improve-dpi/"
     },
     {
-      "id": "175",
+      "id": "1797",
       "title": "DP-203 Data Engineering on Microsoft Azure",
       "category": "Big Data | Analytics | Database",
       "certType": null,
@@ -1751,7 +1751,7 @@
       "wordpressUrl": "https://itel.com.sg/course/dp-203-data-engineering-on-microsoft-azure/"
     },
     {
-      "id": "176",
+      "id": "1793",
       "title": "ITIL 4 Specialist: Create, Deliver, Support (CDS)",
       "category": "IT Business Management & Strategy",
       "certType": null,
@@ -1761,7 +1761,7 @@
       "wordpressUrl": "https://itel.com.sg/course/itil-specialist-create-deliver-support-cds/"
     },
     {
-      "id": "177",
+      "id": "1792",
       "title": "MS-102: Microsoft 365 Administrator",
       "category": "Business Operations",
       "certType": null,
@@ -1771,7 +1771,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ms-102-microsoft-365-administrator/"
     },
     {
-      "id": "178",
+      "id": "1789",
       "title": "MS-900 Microsoft 365 Fundamental",
       "category": "Business Operations",
       "certType": null,
@@ -1781,7 +1781,7 @@
       "wordpressUrl": "https://itel.com.sg/course/ms-900-microsoft-365-fundamental/"
     },
     {
-      "id": "179",
+      "id": "1787",
       "title": "PL-600 Microsoft Power Platform Solution Architect",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -1791,7 +1791,7 @@
       "wordpressUrl": "https://itel.com.sg/course/pl-600-microsoft-power-platform-solution-architect/"
     },
     {
-      "id": "180",
+      "id": "1785",
       "title": "DP-100 Designing and Implementing a Data Science Solution on Azure",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -1801,7 +1801,7 @@
       "wordpressUrl": "https://itel.com.sg/course/dp-100-designing-and-implementing-a-data-science-solution-on-azure/"
     },
     {
-      "id": "181",
+      "id": "1712",
       "title": "AZ-801 Configuring Windows Server Hybrid Advanced Services",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -1811,7 +1811,7 @@
       "wordpressUrl": "https://itel.com.sg/course/az-801-configuring-windows-server-hybrid-advanced-services/"
     },
     {
-      "id": "182",
+      "id": "1519",
       "title": "CompTIA A+",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -1821,7 +1821,7 @@
       "wordpressUrl": "https://itel.com.sg/course/comptia-a-certification/"
     },
     {
-      "id": "183",
+      "id": "1658",
       "title": "AZ-140 Configuring and Operating Microsoft Azure Virtual Desktop",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -1831,7 +1831,7 @@
       "wordpressUrl": "https://itel.com.sg/course/az-140-configuring-and-operating-microsoft-azure-virtual-desktop/"
     },
     {
-      "id": "184",
+      "id": "1350",
       "title": "EC-Council Certified Incident Handler (SF)",
       "category": "Cybersecurity",
       "certType": null,
@@ -1841,7 +1841,7 @@
       "wordpressUrl": "https://itel.com.sg/course/cyber-security-incident-handling-and-response-sf/"
     },
     {
-      "id": "185",
+      "id": "1318",
       "title": "Implementing SQL Database Administration (SF)",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -1851,7 +1851,7 @@
       "wordpressUrl": "https://itel.com.sg/course/implementing-sql-database-administration-sf/"
     },
     {
-      "id": "186",
+      "id": "1315",
       "title": "Implementing Microsoft Azure Infrastructure Solutions (SF)",
       "category": "Networking Infrastructure & Architecture",
       "certType": null,
@@ -1861,7 +1861,7 @@
       "wordpressUrl": "https://itel.com.sg/course/implementing-microsoft-azure-infrastructure-solutions-sf/"
     },
     {
-      "id": "187",
+      "id": "1292",
       "title": "Design Mobile Applications on Android OS Platform (SF)",
       "category": "Mobile & App Technology",
       "certType": null,
@@ -1871,7 +1871,7 @@
       "wordpressUrl": "https://itel.com.sg/course/design-mobile-applications-on-android-os-platform-sf/"
     },
     {
-      "id": "188",
+      "id": "1276",
       "title": "Business Analysis Professional (SF) (Synchronous E-Learning)",
       "category": "IT Business Management & Strategy",
       "certType": null,
@@ -1881,7 +1881,7 @@
       "wordpressUrl": "https://itel.com.sg/course/business-analysis-professional-sf/"
     },
     {
-      "id": "189",
+      "id": "1252",
       "title": "Big Data Analytics (SF)",
       "category": "Big Data | Analytics | Database",
       "certType": null,
