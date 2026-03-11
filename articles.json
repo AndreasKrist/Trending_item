@@ -2,6 +2,14 @@
     "posts": [
         {
             "id": "1",
+            "title": "From Burnout to Breach Defense: 7 High-Demand Cybersecurity Roles for Singapore Mid-Career Switchers in 2026",
+            "url": "https://itel.com.sg/from-burnout-to-breach-defense-7-high-demand-cybersecurity-roles-for-singapore-mid-career-switchers-in-2026/",
+            "date": "2026-03-10",
+            "excerpt": "Discover why cloud security skills are in high demand in Singapore\u2019s FinTech sector in 2026, including regulatory pressures, emerging threats, and key certifications.",
+            "readTime": "5 min read"
+        },
+        {
+            "id": "2",
             "title": "The High-Stakes Demand for Cloud Security Skills in Singapore\u2019s 2026 FinTech Sector",
             "url": "https://itel.com.sg/the-high-stakes-demand-for-cloud-security-skills-in-singapores-2026-fintech-sector/",
             "date": "2026-02-02",
@@ -9,7 +17,7 @@
             "readTime": "4 min read"
         },
         {
-            "id": "2",
+            "id": "3",
             "title": "Implementing LLMs for Threat Detection: A Practical Guide for SOC Analysts in Singapore",
             "url": "https://itel.com.sg/implementing-llms-for-threat-detection-a-practical-guide-for-soc-analysts-in-singapore/",
             "date": "2026-01-28",
@@ -17,7 +25,7 @@
             "readTime": "9 min read"
         },
         {
-            "id": "3",
+            "id": "4",
             "title": "The Emerging Role of CISO: A Career Guide to Cybersecurity Leadership in Singapore",
             "url": "https://itel.com.sg/the-emerging-role-of-ciso-a-career-guide-to-cybersecurity-leadership-in-singapore/",
             "date": "2026-01-26",
@@ -25,7 +33,7 @@
             "readTime": "10 min read"
         },
         {
-            "id": "4",
+            "id": "5",
             "title": "PDPA Compliance and the CISO: Mandatory Breach Reporting and Data Governance",
             "url": "https://itel.com.sg/pdpa-compliance-and-the-ciso-mandatory-breach-reporting-and-data-governance/",
             "date": "2026-01-21",
@@ -33,7 +41,7 @@
             "readTime": "10 min read"
         },
         {
-            "id": "5",
+            "id": "6",
             "title": "CISO to the Boardroom: How to Communicate Cyber Risk to Non-Technical Executives",
             "url": "https://itel.com.sg/ciso-to-the-boardroom-how-to-communicate-cyber-risk-to-non-technical-executives/",
             "date": "2026-01-13",
@@ -41,23 +49,23 @@
             "readTime": "7 min read"
         },
         {
-            "id": "6",
+            "id": "7",
             "title": "2026 Cybersecurity and AI Hiring Trends in Singapore & SEA",
             "url": "https://itel.com.sg/2026-cybersecurity-and-ai-hiring-trends-in-singapore-sea/",
             "date": "2026-01-07",
             "excerpt": "Cybersecurity trends 2026 point to sustained growth in security and AI-related roles across Singapore and Southeast Asia, driven by digitalization and rising cyber risks.",
-            "readTime": "9 min read"
-        },
-        {
-            "id": "7",
-            "title": "Cybersecurity Jobs in Singapore 2025: Salaries, In-Demand Roles, and How to Land Your First Offer",
-            "url": "https://itel.com.sg/cybersecurity-jobs-in-singapore-2025-salaries-in-demand-roles-and-how-to-land-your-first-offer/",
-            "date": "2025-12-11",
-            "excerpt": "Singapore\u2019s cybersecurity sector surges with 400\u2013800 monthly job openings amid a 4,000-role talent gap, fueled by Smart Nation digitalization and rising threats in finance, healthcare, and infrastructure. Competitive annual salaries from S$42,000 entry-level to S$180,000+ for seniors create prime opportunities for new entrants and career switchers.",
             "readTime": "10 min read"
         },
         {
             "id": "8",
+            "title": "Cybersecurity Jobs in Singapore 2025: Salaries, In-Demand Roles, and How to Land Your First Offer",
+            "url": "https://itel.com.sg/cybersecurity-jobs-in-singapore-2025-salaries-in-demand-roles-and-how-to-land-your-first-offer/",
+            "date": "2025-12-11",
+            "excerpt": "Singapore\u2019s cybersecurity sector surges with 400\u2013800 monthly job openings amid a 4,000-role talent gap, fueled by Smart Nation digitalization and rising threats in finance, healthcare, and infrastructure. Competitive annual salaries from S$42,000 entry-level to S$180,000+ for seniors create prime opportunities for new entrants and career switchers.",
+            "readTime": "11 min read"
+        },
+        {
+            "id": "9",
             "title": "Cybersecurity Careers in Singapore: Roles, Salaries &amp; In-Demand AI Skills (2025 Update)",
             "url": "https://itel.com.sg/cybersecurity-careers-in-singapore-roles-salaries-in-demand-ai-skills/",
             "date": "2025-11-24",
@@ -65,7 +73,7 @@
             "readTime": "8 min read"
         },
         {
-            "id": "9",
+            "id": "10",
             "title": "The Green Algorithm Aligning AI Acceleration with Singapore\u2019s Net Zero Future",
             "url": "https://itel.com.sg/the-green-algorithm-aligning-ai-acceleration-with-singapores-net-zero-future/",
             "date": "2025-11-21",
@@ -73,7 +81,7 @@
             "readTime": "6 min read"
         },
         {
-            "id": "10",
+            "id": "11",
             "title": "Cybersecurity Salary in Singapore: Comprehensive Market Breakdown for 2025",
             "url": "https://itel.com.sg/cybersecurity-salary-in-singapore-market-breakdown-for-2025/",
             "date": "2025-11-12",
@@ -81,7 +89,7 @@
             "readTime": "6 min read"
         },
         {
-            "id": "11",
+            "id": "12",
             "title": "Certified CISO Delivers the Ultimate Competitive Edge that Helps you Excel as a CISO",
             "url": "https://itel.com.sg/interview-with-a-cciso/",
             "date": "2025-10-31",
@@ -89,15 +97,15 @@
             "readTime": "2 min read"
         },
         {
-            "id": "12",
+            "id": "13",
             "title": "Your Guide to Building a Cybersecurity Career in Singapore",
             "url": "https://itel.com.sg/your-guide-to-building-a-cybersecurity-career-in-singapore/",
             "date": "2025-10-16",
             "excerpt": "Cybersecurity has become one of Singapore\u2019s most urgent priorities. With businesses embracing cloud computing, AI, and digital payments, the nation\u2019s attack surface has expanded dramatically. ",
-            "readTime": "10 min read"
+            "readTime": "11 min read"
         },
         {
-            "id": "13",
+            "id": "14",
             "title": "A Deep Dive into Phishing Threats: Technical Interview with Hadi Baltagi",
             "url": "https://itel.com.sg/a-deep-dive-into-phishing-threats/",
             "date": "2025-09-17",
@@ -105,7 +113,7 @@
             "readTime": "9 min read"
         },
         {
-            "id": "14",
+            "id": "15",
             "title": "How a Decade of SIAM Innovation Delivered Real Business Impact",
             "url": "https://itel.com.sg/how-a-decade-of-siam-innovation-delivered-real-business-impact/",
             "date": "2025-09-08",
@@ -113,7 +121,7 @@
             "readTime": "3 min read"
         },
         {
-            "id": "15",
+            "id": "16",
             "title": "Adopting Generative AI Skills in Singapore",
             "url": "https://itel.com.sg/adopting-generative-ai-skills-in-singapore/",
             "date": "2025-09-02",
@@ -121,7 +129,7 @@
             "readTime": "6 min read"
         },
         {
-            "id": "16",
+            "id": "17",
             "title": "Top Reasons Cybersecurity Training Protects Your Organization",
             "url": "https://itel.com.sg/top-reasons-cybersecurity-training-protects-your-organization/",
             "date": "2025-08-26",
@@ -129,7 +137,7 @@
             "readTime": "3 min read"
         },
         {
-            "id": "17",
+            "id": "18",
             "title": "What is Digital Forensics? Phases of Digital Forensics in Cybersecurity",
             "url": "https://itel.com.sg/what-is-digital-forensics-phases-of-digital-forensics-in-cybersecurity/",
             "date": "2025-08-21",
@@ -137,7 +145,7 @@
             "readTime": "3 min read"
         },
         {
-            "id": "18",
+            "id": "19",
             "title": "Unlock the Potential of CompTIA",
             "url": "https://itel.com.sg/unlock-the-potential-of-comptia/",
             "date": "2025-08-04",
@@ -145,7 +153,7 @@
             "readTime": "1 min read"
         },
         {
-            "id": "19",
+            "id": "20",
             "title": "What is Ethical Hacking? Ethical Hacking vs Unethical Hacking",
             "url": "https://itel.com.sg/what-is-ethical-hacking-ethical-hacking-vs-unethical-hacking/",
             "date": "2025-07-28",
@@ -153,7 +161,7 @@
             "readTime": "3 min read"
         },
         {
-            "id": "20",
+            "id": "21",
             "title": "AI is Opening Doors to SG Careers in R&amp;D and Non-R&amp;D",
             "url": "https://itel.com.sg/ai-is-opening-doors-to-sg-careers-in-rd-and-non-rd/",
             "date": "2025-06-20",
@@ -161,7 +169,7 @@
             "readTime": "5 min read"
         },
         {
-            "id": "21",
+            "id": "22",
             "title": "The wwws of CISO (Who, What, and Why it Matters)",
             "url": "https://itel.com.sg/the-wwws-of-ciso-who-what-and-why-it-matters/",
             "date": "2025-05-30",
@@ -169,7 +177,7 @@
             "readTime": "5 min read"
         },
         {
-            "id": "22",
+            "id": "23",
             "title": "Bridging the IT Skills Gap: The Case for Upskilling and Reskilling",
             "url": "https://itel.com.sg/bridging-the-it-skills-gap-the-case-for-upskilling-and-reskilling/",
             "date": "2025-05-08",
@@ -177,7 +185,7 @@
             "readTime": "3 min read"
         },
         {
-            "id": "23",
+            "id": "24",
             "title": "The Development of Linux and Its Power Today",
             "url": "https://itel.com.sg/the-development-of-linux-and-its-power-today/",
             "date": "2025-04-05",
@@ -185,7 +193,7 @@
             "readTime": "2 min read"
         },
         {
-            "id": "24",
+            "id": "25",
             "title": "The Widespread Impact of VoIP Technology",
             "url": "https://itel.com.sg/copy-the-widespread-impact-of-voip-technology/",
             "date": "2025-03-07",
@@ -193,7 +201,7 @@
             "readTime": "2 min read"
         },
         {
-            "id": "25",
+            "id": "26",
             "title": "Tech Trends for Singapore Enterprises 2025",
             "url": "https://itel.com.sg/tech-trends-for-singapore-enterprises-2025/",
             "date": "2025-01-15",
@@ -201,7 +209,7 @@
             "readTime": "4 min read"
         },
         {
-            "id": "26",
+            "id": "27",
             "title": "Tech Trends in 2025",
             "url": "https://itel.com.sg/copy-tech-trends-in-2025/",
             "date": "2024-12-27",
@@ -209,7 +217,7 @@
             "readTime": "3 min read"
         },
         {
-            "id": "27",
+            "id": "28",
             "title": "Embracing the Digital Future: How Technology is Transforming our Daily Lives",
             "url": "https://itel.com.sg/copy-embracing-the-digital-future-how-technology-is-transforming-our-daily-lives/",
             "date": "2024-11-15",
@@ -217,7 +225,7 @@
             "readTime": "2 min read"
         },
         {
-            "id": "28",
+            "id": "29",
             "title": "Public Consultation on Suggested Guidelines for AI Security",
             "url": "https://itel.com.sg/public-consultation-on-suggested-guidelines-for-ai-security/",
             "date": "2024-10-09",
@@ -225,7 +233,7 @@
             "readTime": "3 min read"
         },
         {
-            "id": "29",
+            "id": "30",
             "title": "'You have been hacked\u2019: SingCert warns of extortion e-mails",
             "url": "https://itel.com.sg/you-have-been-hacked-singcert-warns-of-extortion-e-mails/",
             "date": "2024-09-05",
@@ -233,7 +241,7 @@
             "readTime": "3 min read"
         },
         {
-            "id": "30",
+            "id": "31",
             "title": "Protecting Your Family from Scams",
             "url": "https://itel.com.sg/protecting-your-family-from-scams/",
             "date": "2024-08-08",
@@ -241,7 +249,7 @@
             "readTime": "2 min read"
         },
         {
-            "id": "31",
+            "id": "32",
             "title": "Deepfakes Are Out of Control!",
             "url": "https://itel.com.sg/deepfakes-are-out-of-control/",
             "date": "2024-07-10",
@@ -249,7 +257,7 @@
             "readTime": "2 min read"
         },
         {
-            "id": "32",
+            "id": "33",
             "title": "Amazon Invests $12 Billion in Singapore\u2019s AI Sector",
             "url": "https://itel.com.sg/amazon-invests-12-billion-in-singapores-ai-sector/",
             "date": "2024-06-29",
@@ -257,7 +265,7 @@
             "readTime": "2 min read"
         },
         {
-            "id": "33",
+            "id": "34",
             "title": "The Rise of Skilled Workers in Singapore",
             "url": "https://itel.com.sg/the-rise-of-skilled-workers-in-singapore/",
             "date": "2024-06-24",
@@ -265,7 +273,7 @@
             "readTime": "2 min read"
         },
         {
-            "id": "34",
+            "id": "35",
             "title": "Singapore\u2019s New Geothermal Potential Initiatives",
             "url": "https://itel.com.sg/singapores-new-geothermal-potential-initiatives/",
             "date": "2024-06-19",
@@ -273,7 +281,7 @@
             "readTime": "2 min read"
         },
         {
-            "id": "35",
+            "id": "36",
             "title": "Singapore Succeeds in Reducing Retrenchment Rate",
             "url": "https://itel.com.sg/singapore-succeeds-in-reducing-retrenchment-rate/",
             "date": "2024-06-14",
