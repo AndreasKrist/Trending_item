@@ -1,292 +1,300 @@
 {
-    "posts": [
-        {
-            "id": "1",
-            "title": "From Burnout to Breach Defense: 7 High-Demand Cybersecurity Roles for Singapore Mid-Career Switchers in 2026",
-            "url": "https://itel.com.sg/from-burnout-to-breach-defense-7-high-demand-cybersecurity-roles-for-singapore-mid-career-switchers-in-2026/",
-            "date": "2026-03-10",
-            "excerpt": "Discover why cloud security skills are in high demand in Singapore\u2019s FinTech sector in 2026, including regulatory pressures, emerging threats, and key certifications.",
-            "readTime": "5 min read"
-        },
-        {
-            "id": "2",
-            "title": "The High-Stakes Demand for Cloud Security Skills in Singapore\u2019s 2026 FinTech Sector",
-            "url": "https://itel.com.sg/the-high-stakes-demand-for-cloud-security-skills-in-singapores-2026-fintech-sector/",
-            "date": "2026-02-02",
-            "excerpt": "Discover why cloud security skills are in high demand in Singapore\u2019s FinTech sector in 2026, including regulatory pressures, emerging threats, and key certifications.",
-            "readTime": "4 min read"
-        },
-        {
-            "id": "3",
-            "title": "Implementing LLMs for Threat Detection: A Practical Guide for SOC Analysts in Singapore",
-            "url": "https://itel.com.sg/implementing-llms-for-threat-detection-a-practical-guide-for-soc-analysts-in-singapore/",
-            "date": "2026-01-28",
-            "excerpt": "A guide for anyone considering  a CISO career path. Discuss whether their organization needs it, and discuss the history of the role as well. Discuss the steps on how to pursue CISO if they decide to choose this path",
-            "readTime": "9 min read"
-        },
-        {
-            "id": "4",
-            "title": "The Emerging Role of CISO: A Career Guide to Cybersecurity Leadership in Singapore",
-            "url": "https://itel.com.sg/the-emerging-role-of-ciso-a-career-guide-to-cybersecurity-leadership-in-singapore/",
-            "date": "2026-01-26",
-            "excerpt": "A guide for anyone considering  a CISO career path. Discuss whether their organization needs it, and discuss the history of the role as well. Discuss the steps on how to pursue CISO if they decide to choose this path",
-            "readTime": "10 min read"
-        },
-        {
-            "id": "5",
-            "title": "PDPA Compliance and the CISO: Mandatory Breach Reporting and Data Governance",
-            "url": "https://itel.com.sg/pdpa-compliance-and-the-ciso-mandatory-breach-reporting-and-data-governance/",
-            "date": "2026-01-21",
-            "excerpt": "This builds directly on the \"Robust Regulatory Landscape\" section, focusing on a specific, high-stakes local compliance issue (PDPA).",
-            "readTime": "10 min read"
-        },
-        {
-            "id": "6",
-            "title": "CISO to the Boardroom: How to Communicate Cyber Risk to Non-Technical Executives",
-            "url": "https://itel.com.sg/ciso-to-the-boardroom-how-to-communicate-cyber-risk-to-non-technical-executives/",
-            "date": "2026-01-13",
-            "excerpt": "This targets the CISO's critical communication and leadership challenge, expanding on the \"Effective Communication\" section.",
-            "readTime": "7 min read"
-        },
-        {
-            "id": "7",
-            "title": "2026 Cybersecurity and AI Hiring Trends in Singapore & SEA",
-            "url": "https://itel.com.sg/2026-cybersecurity-and-ai-hiring-trends-in-singapore-sea/",
-            "date": "2026-01-07",
-            "excerpt": "Cybersecurity trends 2026 point to sustained growth in security and AI-related roles across Singapore and Southeast Asia, driven by digitalization and rising cyber risks.",
-            "readTime": "10 min read"
-        },
-        {
-            "id": "8",
-            "title": "Cybersecurity Jobs in Singapore 2025: Salaries, In-Demand Roles, and How to Land Your First Offer",
-            "url": "https://itel.com.sg/cybersecurity-jobs-in-singapore-2025-salaries-in-demand-roles-and-how-to-land-your-first-offer/",
-            "date": "2025-12-11",
-            "excerpt": "Singapore\u2019s cybersecurity sector surges with 400\u2013800 monthly job openings amid a 4,000-role talent gap, fueled by Smart Nation digitalization and rising threats in finance, healthcare, and infrastructure. Competitive annual salaries from S$42,000 entry-level to S$180,000+ for seniors create prime opportunities for new entrants and career switchers.",
-            "readTime": "11 min read"
-        },
-        {
-            "id": "9",
-            "title": "Cybersecurity Careers in Singapore: Roles, Salaries &amp; In-Demand AI Skills (2025 Update)",
-            "url": "https://itel.com.sg/cybersecurity-careers-in-singapore-roles-salaries-in-demand-ai-skills/",
-            "date": "2025-11-24",
-            "excerpt": "Cybersecurity has become one of the highest career sectors in Singapore\u2019s digital economy, and it has a plethora of professionals across diverse roles. \nWhile the market\u2019s significant growth and demand are covered comprehensively in Your Guide to Building a Cybersecurity Career in Singapore, this post specifically focuses on how aspiring and advancing professionals can navigate the evolving landscape \u2014 including emerging AI and Large Language Model (LLM) specializations. ",
-            "readTime": "8 min read"
-        },
-        {
-            "id": "10",
-            "title": "The Green Algorithm Aligning AI Acceleration with Singapore\u2019s Net Zero Future",
-            "url": "https://itel.com.sg/the-green-algorithm-aligning-ai-acceleration-with-singapores-net-zero-future/",
-            "date": "2025-11-21",
-            "excerpt": "The Artificial Intelligence (AI) revolution is rapidly shaping our world with transformative possibilities. While AI does entail a significant and sometimes hidden environmental footprint, addressing this challenge through improved AI efficiency across the entire compute lifecycle is essential. By combining these efforts with cleaner energy adoption, we can align AI development with global commitments like the Paris Agreement and local initiatives such as the Singapore Green Plan 2030, paving the way for a sustainable, innovative future.",
-            "readTime": "6 min read"
-        },
-        {
-            "id": "11",
-            "title": "Cybersecurity Salary in Singapore: Comprehensive Market Breakdown for 2025",
-            "url": "https://itel.com.sg/cybersecurity-salary-in-singapore-market-breakdown-for-2025/",
-            "date": "2025-11-12",
-            "excerpt": "Cybersecurity has become one of Singapore\u2019s most urgent priorities. With businesses embracing cloud computing, AI, and digital payments, the nation\u2019s attack surface has expanded dramatically. ",
-            "readTime": "6 min read"
-        },
-        {
-            "id": "12",
-            "title": "Certified CISO Delivers the Ultimate Competitive Edge that Helps you Excel as a CISO",
-            "url": "https://itel.com.sg/interview-with-a-cciso/",
-            "date": "2025-10-31",
-            "excerpt": "The Certified Chief Information Security Officer certification played a pivotal role in his career growth, equipping him with the leadership skills and risk management expertise necessary for senior-level roles.",
-            "readTime": "2 min read"
-        },
-        {
-            "id": "13",
-            "title": "Your Guide to Building a Cybersecurity Career in Singapore",
-            "url": "https://itel.com.sg/your-guide-to-building-a-cybersecurity-career-in-singapore/",
-            "date": "2025-10-16",
-            "excerpt": "Cybersecurity has become one of Singapore\u2019s most urgent priorities. With businesses embracing cloud computing, AI, and digital payments, the nation\u2019s attack surface has expanded dramatically. ",
-            "readTime": "11 min read"
-        },
-        {
-            "id": "14",
-            "title": "A Deep Dive into Phishing Threats: Technical Interview with Hadi Baltagi",
-            "url": "https://itel.com.sg/a-deep-dive-into-phishing-threats/",
-            "date": "2025-09-17",
-            "excerpt": "A phishing attack is one of the most prominent parts of the cyber kill chain used by a threat actor to obtain sensitive information and credentials or launch a ransomware attack. Depending on the nature, approach, and target, phishing is further classified into different attack types. One such threat is spear phishing, which leverages personal information to deceive individuals into revealing sensitive data.",
-            "readTime": "9 min read"
-        },
-        {
-            "id": "15",
-            "title": "How a Decade of SIAM Innovation Delivered Real Business Impact",
-            "url": "https://itel.com.sg/how-a-decade-of-siam-innovation-delivered-real-business-impact/",
-            "date": "2025-09-08",
-            "excerpt": "Ten years ago, Service Integration and Management (SIAMTM) was a niche concept. It promised a way to bring order to the chaos of multi-supplier IT ecosystems. But as the idea gained traction, SIAM became a buzzword.",
-            "readTime": "3 min read"
-        },
-        {
-            "id": "16",
-            "title": "Adopting Generative AI Skills in Singapore",
-            "url": "https://itel.com.sg/adopting-generative-ai-skills-in-singapore/",
-            "date": "2025-09-02",
-            "excerpt": "Generative AI is a transformative technology that empowers machines to create content\u2014such as text, images, and audio\u2014by learning from vast datasets. As businesses increasingly leverage this technology, generative AI has proven that it is becoming essential for driving innovation and efficiency across various sectors.",
-            "readTime": "6 min read"
-        },
-        {
-            "id": "17",
-            "title": "Top Reasons Cybersecurity Training Protects Your Organization",
-            "url": "https://itel.com.sg/top-reasons-cybersecurity-training-protects-your-organization/",
-            "date": "2025-08-26",
-            "excerpt": "Cybersecurity threats are growing, and enterprise organizations are prime targets. In today\u2019s digital landscape, cyberattacks like ransomware, phishing, and data breaches",
-            "readTime": "3 min read"
-        },
-        {
-            "id": "18",
-            "title": "What is Digital Forensics? Phases of Digital Forensics in Cybersecurity",
-            "url": "https://itel.com.sg/what-is-digital-forensics-phases-of-digital-forensics-in-cybersecurity/",
-            "date": "2025-08-21",
-            "excerpt": "Digital forensic science, a specialized field within forensic science, is the process of recovering and investigating material from digital devices to uncover evidence of cybercrime. While the term was initially synonymous with computer forensics, its scope has broadened to include all devices capable of storing digital data. ",
-            "readTime": "3 min read"
-        },
-        {
-            "id": "19",
-            "title": "Unlock the Potential of CompTIA",
-            "url": "https://itel.com.sg/unlock-the-potential-of-comptia/",
-            "date": "2025-08-04",
-            "excerpt": "In today\u2019s rapidly evolving digital landscape, having the right certifications can make all the difference when transitioning into a tech career. This article explores how CompTIA\u2019s globally recognised certifications \u2014developed with input from thousands of IT professionals and aligned with real-world job roles\u2014are integrated into SCTP programmes at ITEL to support meaningful career transitions into the tech industry.",
-            "readTime": "1 min read"
-        },
-        {
-            "id": "20",
-            "title": "What is Ethical Hacking? Ethical Hacking vs Unethical Hacking",
-            "url": "https://itel.com.sg/what-is-ethical-hacking-ethical-hacking-vs-unethical-hacking/",
-            "date": "2025-07-28",
-            "excerpt": "Ethical hacking involves authorized professionals, known as \u201cwhite-hat hackers,\u201d who simulate cyberattacks to test and strengthen an organization\u2019s security systems. Unlike malicious hackers, ethical hackers operate with permission, aiming to protect rather than exploit. ",
-            "readTime": "3 min read"
-        },
-        {
-            "id": "21",
-            "title": "AI is Opening Doors to SG Careers in R&amp;D and Non-R&amp;D",
-            "url": "https://itel.com.sg/ai-is-opening-doors-to-sg-careers-in-rd-and-non-rd/",
-            "date": "2025-06-20",
-            "excerpt": "Artificial Intelligence (AI) is no longer a niche field reserved for academics and tech giants. It\u2019s rapidly becoming a powerful gateway to research and development (R&D) for professionals from all walks of life. In Singapore, a nation at the forefront of AI innovation, strategic national initiatives are actively creating unprecedented opportunities for individuals outside traditional R&D fields to seamlessly transition into innovation-focused roles, powered by AI.",
-            "readTime": "5 min read"
-        },
-        {
-            "id": "22",
-            "title": "The wwws of CISO (Who, What, and Why it Matters)",
-            "url": "https://itel.com.sg/the-wwws-of-ciso-who-what-and-why-it-matters/",
-            "date": "2025-05-30",
-            "excerpt": "A Chief Information Security Officer (CISO) is the person at the top of the cybersecurity food chain. They\u2019re not just tech experts \u2014 they\u2019re business leaders who make sure a company\u2019s security efforts actually support its goals. Think of the CISO as the bridge between the IT team and the executive boardroom, helping everyone understand cyber risks in real business terms.",
-            "readTime": "5 min read"
-        },
-        {
-            "id": "23",
-            "title": "Bridging the IT Skills Gap: The Case for Upskilling and Reskilling",
-            "url": "https://itel.com.sg/bridging-the-it-skills-gap-the-case-for-upskilling-and-reskilling/",
-            "date": "2025-05-08",
-            "excerpt": "As technology and business needs evolve, investing in employee growth is key to staying competitive and agile. Supporting your team\u2019s development fosters loyalty, adaptability, and innovation.",
-            "readTime": "3 min read"
-        },
-        {
-            "id": "24",
-            "title": "The Development of Linux and Its Power Today",
-            "url": "https://itel.com.sg/the-development-of-linux-and-its-power-today/",
-            "date": "2025-04-05",
-            "excerpt": "Originally developed as a hobby project by Linus Torvalds in 1991, Linux has grown into one of the world\u2019s most powerful and widely used operating systems. Its open-source nature, adaptability, and security have driven its expansion, making it the backbone of modern digital infrastructure, from cloud computing and supercomputers to enterprise servers.",
-            "readTime": "2 min read"
-        },
-        {
-            "id": "25",
-            "title": "The Widespread Impact of VoIP Technology",
-            "url": "https://itel.com.sg/copy-the-widespread-impact-of-voip-technology/",
-            "date": "2025-03-07",
-            "excerpt": "Voice over Internet Protocol (VoIP) has revolutionized the way we communicate, enabling voice calls over the internet and bypassing traditional telephone systems. However, few people know that the development of VoIP is significantly tied to a woman who played a pivotal role in shaping this technology.",
-            "readTime": "2 min read"
-        },
-        {
-            "id": "26",
-            "title": "Tech Trends for Singapore Enterprises 2025",
-            "url": "https://itel.com.sg/tech-trends-for-singapore-enterprises-2025/",
-            "date": "2025-01-15",
-            "excerpt": "According to The Straits Times (2025, January 6), \"Singapore\u2019s cyber frameworks and practices are set to become global gold standards, with cybersecurity leaders scrambling for talent and chief information officers (CIOs) embracing agentic systems.\" This shift highlights the emerging trend of autonomous AI agents in workflows, poised to surpass previous technologies such as generative AI and chatbots.\u00a0",
-            "readTime": "4 min read"
-        },
-        {
-            "id": "27",
-            "title": "Tech Trends in 2025",
-            "url": "https://itel.com.sg/copy-tech-trends-in-2025/",
-            "date": "2024-12-27",
-            "excerpt": "As we look toward 2025, the landscape of information technology is set to evolve in ways that will redefine the very fabric of business, society, and everyday life. In this rapidly shifting environment, organizations will not only need to adapt but also embrace new paradigms to stay competitive, all while navigating the complex challenges of cybersecurity, data privacy, and ethical AI use. These will reshape how we live, work, and interact with the world.",
-            "readTime": "3 min read"
-        },
-        {
-            "id": "28",
-            "title": "Embracing the Digital Future: How Technology is Transforming our Daily Lives",
-            "url": "https://itel.com.sg/copy-embracing-the-digital-future-how-technology-is-transforming-our-daily-lives/",
-            "date": "2024-11-15",
-            "excerpt": "In Singapore, digitalization has brought numerous benefits to families, enhancing both daily life and long-term opportunities.",
-            "readTime": "2 min read"
-        },
-        {
-            "id": "29",
-            "title": "Public Consultation on Suggested Guidelines for AI Security",
-            "url": "https://itel.com.sg/public-consultation-on-suggested-guidelines-for-ai-security/",
-            "date": "2024-10-09",
-            "excerpt": "Artificial Intelligence (AI) is widely recognized for its ability to enhance efficiency and drive innovation across various sectors. However, some inherent threats can hinder this potential. AI systems are at risk of cybersecurity issues, including adversarial attacks, where malicious actors intentionally attempt to mislead the AI. ",
-            "readTime": "3 min read"
-        },
-        {
-            "id": "30",
-            "title": "'You have been hacked\u2019: SingCert warns of extortion e-mails",
-            "url": "https://itel.com.sg/you-have-been-hacked-singcert-warns-of-extortion-e-mails/",
-            "date": "2024-09-05",
-            "excerpt": "The Singapore Cyber Emergency Response Team (SingCert) is urging the public to be cautious of extortion emails targeting residents. These emails, reported 33 times in August alone, threaten to circulate embarrassing private videos supposedly recorded through malware on the recipient\u2019s device.",
-            "readTime": "3 min read"
-        },
-        {
-            "id": "31",
-            "title": "Protecting Your Family from Scams",
-            "url": "https://itel.com.sg/protecting-your-family-from-scams/",
-            "date": "2024-08-08",
-            "excerpt": "Cybersecurity threats have affected our daily lives as Singaporeans increasingly rely on digital devices. Once confined to IT departments, these threats now target everyday activities like online shopping. The recent scams involving Taylor Swift concert tickets highlight how these criminals exploit popular events.",
-            "readTime": "2 min read"
-        },
-        {
-            "id": "32",
-            "title": "Deepfakes Are Out of Control!",
-            "url": "https://itel.com.sg/deepfakes-are-out-of-control/",
-            "date": "2024-07-10",
-            "excerpt": "Deepfakes are fake videos or images created using artificial intelligence (AI) to make it look like someone is saying or doing something they never did. These can be very realistic and hard to tell apart from real videos. The term \u201cdeepfake\u201d combines \u201cdeep learning\u201d (a type of AI) and \u201cfake.\u201d",
-            "readTime": "2 min read"
-        },
-        {
-            "id": "33",
-            "title": "Amazon Invests $12 Billion in Singapore\u2019s AI Sector",
-            "url": "https://itel.com.sg/amazon-invests-12-billion-in-singapores-ai-sector/",
-            "date": "2024-06-29",
-            "excerpt": "Amazon Web Services (AWS) has set its sights on Singapore, making a significant investment of $12 billion workshops with at least 100 enterprises in Singapore. AWS will expand cloud and artificial intelligence (AI) projects while expanding its on over the next four years. It will hold some workshops with at least 100 enterprises in Singapore. They are going to expand cloud and artificial intelligence (AI) projects while expanding their operations in the region. ",
-            "readTime": "2 min read"
-        },
-        {
-            "id": "34",
-            "title": "The Rise of Skilled Workers in Singapore",
-            "url": "https://itel.com.sg/the-rise-of-skilled-workers-in-singapore/",
-            "date": "2024-06-24",
-            "excerpt": "According to the National Trades Union Congress (NTUC), more than 200,000 workers have received skills training since 2019 through Company Training Committees (CTCs). Employers and unions build CTCs to identify the skills workers need based on business and industry prospects guided by the National Trades Union Congress.",
-            "readTime": "2 min read"
-        },
-        {
-            "id": "35",
-            "title": "Singapore\u2019s New Geothermal Potential Initiatives",
-            "url": "https://itel.com.sg/singapores-new-geothermal-potential-initiatives/",
-            "date": "2024-06-19",
-            "excerpt": "Singapore is preparing for their extensive study about its geothermal potential for electricity generation. It will start in the second half of 2024 and last two years. The Energy Market Authority (EMA) says this study will cost about $16 million and will look all over Singapore. They started this project because they aim to transition towards greener energy sources to the fullest extent feasible.",
-            "readTime": "2 min read"
-        },
-        {
-            "id": "36",
-            "title": "Singapore Succeeds in Reducing Retrenchment Rate",
-            "url": "https://itel.com.sg/singapore-succeeds-in-reducing-retrenchment-rate/",
-            "date": "2024-06-14",
-            "excerpt": "The latest data from the Ministry of Manpower (MOM) released on 30 April 2024 shows that retrenchments in Singapore have dropped for the second consecutive quarter, indicating a positive trend in the employment landscape. At the same time, the growth in total employment has slowed down, reflecting a cooling in employment expansion. There were 4,900 total employees from January to March, down from 7,500 in the previous quarter.",
-            "readTime": "2 min read"
-        }
-    ]
+  "posts": [
+    {
+      "id": "1",
+      "title": "Why Cybersecurity Workforce Readiness Is Now a Board-Level KPI",
+      "url": "https://itel.com.sg/why-cybersecurity-workforce-readiness-is-now-a-board-level-kpi/",
+      "date": "2026-03-16",
+      "excerpt": "In today’s landscape, cybersecurity is deeply intertwined with corporate governance and shareholder value. In Singapore, the ability to withstand cyber threats is a defining feature of corporate resilience. While technology is vital, the variable that determines success is people. Workforce readiness—the ability to deploy competent, strategically aligned talent—is now a measurable board-level KPI. ",
+      "readTime": "4 min read"
+    },
+    {
+      "id": "2",
+      "title": "From Burnout to Breach Defense: 7 High-Demand Cybersecurity Roles for Singapore Mid-Career Switchers in 2026",
+      "url": "https://itel.com.sg/from-burnout-to-breach-defense-7-high-demand-cybersecurity-roles-for-singapore-mid-career-switchers-in-2026/",
+      "date": "2026-03-10",
+      "excerpt": "Discover why cloud security skills are in high demand in Singapore’s FinTech sector in 2026, including regulatory pressures, emerging threats, and key certifications.",
+      "readTime": "5 min read"
+    },
+    {
+      "id": "3",
+      "title": "The High-Stakes Demand for Cloud Security Skills in Singapore’s 2026 FinTech Sector",
+      "url": "https://itel.com.sg/the-high-stakes-demand-for-cloud-security-skills-in-singapores-2026-fintech-sector/",
+      "date": "2026-02-02",
+      "excerpt": "Discover why cloud security skills are in high demand in Singapore’s FinTech sector in 2026, including regulatory pressures, emerging threats, and key certifications.",
+      "readTime": "4 min read"
+    },
+    {
+      "id": "4",
+      "title": "Implementing LLMs for Threat Detection: A Practical Guide for SOC Analysts in Singapore",
+      "url": "https://itel.com.sg/implementing-llms-for-threat-detection-a-practical-guide-for-soc-analysts-in-singapore/",
+      "date": "2026-01-28",
+      "excerpt": "A guide for anyone considering  a CISO career path. Discuss whether their organization needs it, and discuss the history of the role as well. Discuss the steps on how to pursue CISO if they decide to choose this path",
+      "readTime": "9 min read"
+    },
+    {
+      "id": "5",
+      "title": "The Emerging Role of CISO: A Career Guide to Cybersecurity Leadership in Singapore",
+      "url": "https://itel.com.sg/the-emerging-role-of-ciso-a-career-guide-to-cybersecurity-leadership-in-singapore/",
+      "date": "2026-01-26",
+      "excerpt": "A guide for anyone considering  a CISO career path. Discuss whether their organization needs it, and discuss the history of the role as well. Discuss the steps on how to pursue CISO if they decide to choose this path",
+      "readTime": "10 min read"
+    },
+    {
+      "id": "6",
+      "title": "PDPA Compliance and the CISO: Mandatory Breach Reporting and Data Governance",
+      "url": "https://itel.com.sg/pdpa-compliance-and-the-ciso-mandatory-breach-reporting-and-data-governance/",
+      "date": "2026-01-21",
+      "excerpt": "This builds directly on the \"Robust Regulatory Landscape\" section, focusing on a specific, high-stakes local compliance issue (PDPA).",
+      "readTime": "10 min read"
+    },
+    {
+      "id": "7",
+      "title": "CISO to the Boardroom: How to Communicate Cyber Risk to Non-Technical Executives",
+      "url": "https://itel.com.sg/ciso-to-the-boardroom-how-to-communicate-cyber-risk-to-non-technical-executives/",
+      "date": "2026-01-13",
+      "excerpt": "This targets the CISO's critical communication and leadership challenge, expanding on the \"Effective Communication\" section.",
+      "readTime": "7 min read"
+    },
+    {
+      "id": "8",
+      "title": "2026 Cybersecurity and AI Hiring Trends in Singapore & SEA",
+      "url": "https://itel.com.sg/2026-cybersecurity-and-ai-hiring-trends-in-singapore-sea/",
+      "date": "2026-01-07",
+      "excerpt": "Cybersecurity trends 2026 point to sustained growth in security and AI-related roles across Singapore and Southeast Asia, driven by digitalization and rising cyber risks.",
+      "readTime": "10 min read"
+    },
+    {
+      "id": "9",
+      "title": "Cybersecurity Jobs in Singapore 2025: Salaries, In-Demand Roles, and How to Land Your First Offer",
+      "url": "https://itel.com.sg/cybersecurity-jobs-in-singapore-2025-salaries-in-demand-roles-and-how-to-land-your-first-offer/",
+      "date": "2025-12-11",
+      "excerpt": "Singapore’s cybersecurity sector surges with 400–800 monthly job openings amid a 4,000-role talent gap, fueled by Smart Nation digitalization and rising threats in finance, healthcare, and infrastructure. Competitive annual salaries from S$42,000 entry-level to S$180,000+ for seniors create prime opportunities for new entrants and career switchers.",
+      "readTime": "11 min read"
+    },
+    {
+      "id": "10",
+      "title": "Cybersecurity Careers in Singapore: Roles, Salaries &amp; In-Demand AI Skills (2025 Update)",
+      "url": "https://itel.com.sg/cybersecurity-careers-in-singapore-roles-salaries-in-demand-ai-skills/",
+      "date": "2025-11-24",
+      "excerpt": "Cybersecurity has become one of the highest career sectors in Singapore’s digital economy, and it has a plethora of professionals across diverse roles. \nWhile the market’s significant growth and demand are covered comprehensively in Your Guide to Building a Cybersecurity Career in Singapore, this post specifically focuses on how aspiring and advancing professionals can navigate the evolving landscape — including emerging AI and Large Language Model (LLM) specializations. ",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "11",
+      "title": "The Green Algorithm Aligning AI Acceleration with Singapore’s Net Zero Future",
+      "url": "https://itel.com.sg/the-green-algorithm-aligning-ai-acceleration-with-singapores-net-zero-future/",
+      "date": "2025-11-21",
+      "excerpt": "The Artificial Intelligence (AI) revolution is rapidly shaping our world with transformative possibilities. While AI does entail a significant and sometimes hidden environmental footprint, addressing this challenge through improved AI efficiency across the entire compute lifecycle is essential. By combining these efforts with cleaner energy adoption, we can align AI development with global commitments like the Paris Agreement and local initiatives such as the Singapore Green Plan 2030, paving the way for a sustainable, innovative future.",
+      "readTime": "6 min read"
+    },
+    {
+      "id": "12",
+      "title": "Cybersecurity Salary in Singapore: Comprehensive Market Breakdown for 2025",
+      "url": "https://itel.com.sg/cybersecurity-salary-in-singapore-market-breakdown-for-2025/",
+      "date": "2025-11-12",
+      "excerpt": "Cybersecurity has become one of Singapore’s most urgent priorities. With businesses embracing cloud computing, AI, and digital payments, the nation’s attack surface has expanded dramatically. ",
+      "readTime": "6 min read"
+    },
+    {
+      "id": "13",
+      "title": "Certified CISO Delivers the Ultimate Competitive Edge that Helps you Excel as a CISO",
+      "url": "https://itel.com.sg/interview-with-a-cciso/",
+      "date": "2025-10-31",
+      "excerpt": "The Certified Chief Information Security Officer certification played a pivotal role in his career growth, equipping him with the leadership skills and risk management expertise necessary for senior-level roles.",
+      "readTime": "2 min read"
+    },
+    {
+      "id": "14",
+      "title": "Your Guide to Building a Cybersecurity Career in Singapore",
+      "url": "https://itel.com.sg/your-guide-to-building-a-cybersecurity-career-in-singapore/",
+      "date": "2025-10-16",
+      "excerpt": "Cybersecurity has become one of Singapore’s most urgent priorities. With businesses embracing cloud computing, AI, and digital payments, the nation’s attack surface has expanded dramatically. ",
+      "readTime": "11 min read"
+    },
+    {
+      "id": "15",
+      "title": "A Deep Dive into Phishing Threats: Technical Interview with Hadi Baltagi",
+      "url": "https://itel.com.sg/a-deep-dive-into-phishing-threats/",
+      "date": "2025-09-17",
+      "excerpt": "A phishing attack is one of the most prominent parts of the cyber kill chain used by a threat actor to obtain sensitive information and credentials or launch a ransomware attack. Depending on the nature, approach, and target, phishing is further classified into different attack types. One such threat is spear phishing, which leverages personal information to deceive individuals into revealing sensitive data.",
+      "readTime": "9 min read"
+    },
+    {
+      "id": "16",
+      "title": "How a Decade of SIAM Innovation Delivered Real Business Impact",
+      "url": "https://itel.com.sg/how-a-decade-of-siam-innovation-delivered-real-business-impact/",
+      "date": "2025-09-08",
+      "excerpt": "Ten years ago, Service Integration and Management (SIAMTM) was a niche concept. It promised a way to bring order to the chaos of multi-supplier IT ecosystems. But as the idea gained traction, SIAM became a buzzword.",
+      "readTime": "3 min read"
+    },
+    {
+      "id": "17",
+      "title": "Adopting Generative AI Skills in Singapore",
+      "url": "https://itel.com.sg/adopting-generative-ai-skills-in-singapore/",
+      "date": "2025-09-02",
+      "excerpt": "Generative AI is a transformative technology that empowers machines to create content—such as text, images, and audio—by learning from vast datasets. As businesses increasingly leverage this technology, generative AI has proven that it is becoming essential for driving innovation and efficiency across various sectors.",
+      "readTime": "6 min read"
+    },
+    {
+      "id": "18",
+      "title": "Top Reasons Cybersecurity Training Protects Your Organization",
+      "url": "https://itel.com.sg/top-reasons-cybersecurity-training-protects-your-organization/",
+      "date": "2025-08-26",
+      "excerpt": "Cybersecurity threats are growing, and enterprise organizations are prime targets. In today’s digital landscape, cyberattacks like ransomware, phishing, and data breaches",
+      "readTime": "3 min read"
+    },
+    {
+      "id": "19",
+      "title": "What is Digital Forensics? Phases of Digital Forensics in Cybersecurity",
+      "url": "https://itel.com.sg/what-is-digital-forensics-phases-of-digital-forensics-in-cybersecurity/",
+      "date": "2025-08-21",
+      "excerpt": "Digital forensic science, a specialized field within forensic science, is the process of recovering and investigating material from digital devices to uncover evidence of cybercrime. While the term was initially synonymous with computer forensics, its scope has broadened to include all devices capable of storing digital data. ",
+      "readTime": "3 min read"
+    },
+    {
+      "id": "20",
+      "title": "Unlock the Potential of CompTIA",
+      "url": "https://itel.com.sg/unlock-the-potential-of-comptia/",
+      "date": "2025-08-04",
+      "excerpt": "In today’s rapidly evolving digital landscape, having the right certifications can make all the difference when transitioning into a tech career. This article explores how CompTIA’s globally recognised certifications —developed with input from thousands of IT professionals and aligned with real-world job roles—are integrated into SCTP programmes at ITEL to support meaningful career transitions into the tech industry.",
+      "readTime": "1 min read"
+    },
+    {
+      "id": "21",
+      "title": "What is Ethical Hacking? Ethical Hacking vs Unethical Hacking",
+      "url": "https://itel.com.sg/what-is-ethical-hacking-ethical-hacking-vs-unethical-hacking/",
+      "date": "2025-07-28",
+      "excerpt": "Ethical hacking involves authorized professionals, known as “white-hat hackers,” who simulate cyberattacks to test and strengthen an organization’s security systems. Unlike malicious hackers, ethical hackers operate with permission, aiming to protect rather than exploit. ",
+      "readTime": "3 min read"
+    },
+    {
+      "id": "22",
+      "title": "AI is Opening Doors to SG Careers in R&amp;D and Non-R&amp;D",
+      "url": "https://itel.com.sg/ai-is-opening-doors-to-sg-careers-in-rd-and-non-rd/",
+      "date": "2025-06-20",
+      "excerpt": "Artificial Intelligence (AI) is no longer a niche field reserved for academics and tech giants. It’s rapidly becoming a powerful gateway to research and development (R&D) for professionals from all walks of life. In Singapore, a nation at the forefront of AI innovation, strategic national initiatives are actively creating unprecedented opportunities for individuals outside traditional R&D fields to seamlessly transition into innovation-focused roles, powered by AI.",
+      "readTime": "5 min read"
+    },
+    {
+      "id": "23",
+      "title": "The wwws of CISO (Who, What, and Why it Matters)",
+      "url": "https://itel.com.sg/the-wwws-of-ciso-who-what-and-why-it-matters/",
+      "date": "2025-05-30",
+      "excerpt": "A Chief Information Security Officer (CISO) is the person at the top of the cybersecurity food chain. They’re not just tech experts — they’re business leaders who make sure a company’s security efforts actually support its goals. Think of the CISO as the bridge between the IT team and the executive boardroom, helping everyone understand cyber risks in real business terms.",
+      "readTime": "5 min read"
+    },
+    {
+      "id": "24",
+      "title": "Bridging the IT Skills Gap: The Case for Upskilling and Reskilling",
+      "url": "https://itel.com.sg/bridging-the-it-skills-gap-the-case-for-upskilling-and-reskilling/",
+      "date": "2025-05-08",
+      "excerpt": "As technology and business needs evolve, investing in employee growth is key to staying competitive and agile. Supporting your team’s development fosters loyalty, adaptability, and innovation.",
+      "readTime": "3 min read"
+    },
+    {
+      "id": "25",
+      "title": "The Development of Linux and Its Power Today",
+      "url": "https://itel.com.sg/the-development-of-linux-and-its-power-today/",
+      "date": "2025-04-05",
+      "excerpt": "Originally developed as a hobby project by Linus Torvalds in 1991, Linux has grown into one of the world’s most powerful and widely used operating systems. Its open-source nature, adaptability, and security have driven its expansion, making it the backbone of modern digital infrastructure, from cloud computing and supercomputers to enterprise servers.",
+      "readTime": "2 min read"
+    },
+    {
+      "id": "26",
+      "title": "The Widespread Impact of VoIP Technology",
+      "url": "https://itel.com.sg/copy-the-widespread-impact-of-voip-technology/",
+      "date": "2025-03-07",
+      "excerpt": "Voice over Internet Protocol (VoIP) has revolutionized the way we communicate, enabling voice calls over the internet and bypassing traditional telephone systems. However, few people know that the development of VoIP is significantly tied to a woman who played a pivotal role in shaping this technology.",
+      "readTime": "2 min read"
+    },
+    {
+      "id": "27",
+      "title": "Tech Trends for Singapore Enterprises 2025",
+      "url": "https://itel.com.sg/tech-trends-for-singapore-enterprises-2025/",
+      "date": "2025-01-15",
+      "excerpt": "According to The Straits Times (2025, January 6), \"Singapore’s cyber frameworks and practices are set to become global gold standards, with cybersecurity leaders scrambling for talent and chief information officers (CIOs) embracing agentic systems.\" This shift highlights the emerging trend of autonomous AI agents in workflows, poised to surpass previous technologies such as generative AI and chatbots. ",
+      "readTime": "4 min read"
+    },
+    {
+      "id": "28",
+      "title": "Tech Trends in 2025",
+      "url": "https://itel.com.sg/copy-tech-trends-in-2025/",
+      "date": "2024-12-27",
+      "excerpt": "As we look toward 2025, the landscape of information technology is set to evolve in ways that will redefine the very fabric of business, society, and everyday life. In this rapidly shifting environment, organizations will not only need to adapt but also embrace new paradigms to stay competitive, all while navigating the complex challenges of cybersecurity, data privacy, and ethical AI use. These will reshape how we live, work, and interact with the world.",
+      "readTime": "3 min read"
+    },
+    {
+      "id": "29",
+      "title": "Embracing the Digital Future: How Technology is Transforming our Daily Lives",
+      "url": "https://itel.com.sg/copy-embracing-the-digital-future-how-technology-is-transforming-our-daily-lives/",
+      "date": "2024-11-15",
+      "excerpt": "In Singapore, digitalization has brought numerous benefits to families, enhancing both daily life and long-term opportunities.",
+      "readTime": "2 min read"
+    },
+    {
+      "id": "30",
+      "title": "Public Consultation on Suggested Guidelines for AI Security",
+      "url": "https://itel.com.sg/public-consultation-on-suggested-guidelines-for-ai-security/",
+      "date": "2024-10-09",
+      "excerpt": "Artificial Intelligence (AI) is widely recognized for its ability to enhance efficiency and drive innovation across various sectors. However, some inherent threats can hinder this potential. AI systems are at risk of cybersecurity issues, including adversarial attacks, where malicious actors intentionally attempt to mislead the AI. ",
+      "readTime": "3 min read"
+    },
+    {
+      "id": "31",
+      "title": "'You have been hacked’: SingCert warns of extortion e-mails",
+      "url": "https://itel.com.sg/you-have-been-hacked-singcert-warns-of-extortion-e-mails/",
+      "date": "2024-09-05",
+      "excerpt": "The Singapore Cyber Emergency Response Team (SingCert) is urging the public to be cautious of extortion emails targeting residents. These emails, reported 33 times in August alone, threaten to circulate embarrassing private videos supposedly recorded through malware on the recipient’s device.",
+      "readTime": "3 min read"
+    },
+    {
+      "id": "32",
+      "title": "Protecting Your Family from Scams",
+      "url": "https://itel.com.sg/protecting-your-family-from-scams/",
+      "date": "2024-08-08",
+      "excerpt": "Cybersecurity threats have affected our daily lives as Singaporeans increasingly rely on digital devices. Once confined to IT departments, these threats now target everyday activities like online shopping. The recent scams involving Taylor Swift concert tickets highlight how these criminals exploit popular events.",
+      "readTime": "2 min read"
+    },
+    {
+      "id": "33",
+      "title": "Deepfakes Are Out of Control!",
+      "url": "https://itel.com.sg/deepfakes-are-out-of-control/",
+      "date": "2024-07-10",
+      "excerpt": "Deepfakes are fake videos or images created using artificial intelligence (AI) to make it look like someone is saying or doing something they never did. These can be very realistic and hard to tell apart from real videos. The term “deepfake” combines “deep learning” (a type of AI) and “fake.”",
+      "readTime": "2 min read"
+    },
+    {
+      "id": "34",
+      "title": "Amazon Invests $12 Billion in Singapore’s AI Sector",
+      "url": "https://itel.com.sg/amazon-invests-12-billion-in-singapores-ai-sector/",
+      "date": "2024-06-29",
+      "excerpt": "Amazon Web Services (AWS) has set its sights on Singapore, making a significant investment of $12 billion workshops with at least 100 enterprises in Singapore. AWS will expand cloud and artificial intelligence (AI) projects while expanding its on over the next four years. It will hold some workshops with at least 100 enterprises in Singapore. They are going to expand cloud and artificial intelligence (AI) projects while expanding their operations in the region. ",
+      "readTime": "2 min read"
+    },
+    {
+      "id": "35",
+      "title": "The Rise of Skilled Workers in Singapore",
+      "url": "https://itel.com.sg/the-rise-of-skilled-workers-in-singapore/",
+      "date": "2024-06-24",
+      "excerpt": "According to the National Trades Union Congress (NTUC), more than 200,000 workers have received skills training since 2019 through Company Training Committees (CTCs). Employers and unions build CTCs to identify the skills workers need based on business and industry prospects guided by the National Trades Union Congress.",
+      "readTime": "2 min read"
+    },
+    {
+      "id": "36",
+      "title": "Singapore’s New Geothermal Potential Initiatives",
+      "url": "https://itel.com.sg/singapores-new-geothermal-potential-initiatives/",
+      "date": "2024-06-19",
+      "excerpt": "Singapore is preparing for their extensive study about its geothermal potential for electricity generation. It will start in the second half of 2024 and last two years. The Energy Market Authority (EMA) says this study will cost about $16 million and will look all over Singapore. They started this project because they aim to transition towards greener energy sources to the fullest extent feasible.",
+      "readTime": "2 min read"
+    },
+    {
+      "id": "37",
+      "title": "Singapore Succeeds in Reducing Retrenchment Rate",
+      "url": "https://itel.com.sg/singapore-succeeds-in-reducing-retrenchment-rate/",
+      "date": "2024-06-14",
+      "excerpt": "The latest data from the Ministry of Manpower (MOM) released on 30 April 2024 shows that retrenchments in Singapore have dropped for the second consecutive quarter, indicating a positive trend in the employment landscape. At the same time, the growth in total employment has slowed down, reflecting a cooling in employment expansion. There were 4,900 total employees from January to March, down from 7,500 in the previous quarter.",
+      "readTime": "2 min read"
+    }
+  ]
 }
